@@ -1,89 +1,5 @@
 [
   {
-    "id": "mv2uhno2-4nw-ff9b",
-    "ts": 1791664007186,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best%20tools%20for%20freelance%20illustrators%20time%20management",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2uhr5a-4nx-cd91",
-    "ts": 1791664011694,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: best tools for freelance illustrators time management",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best%20tools%20for%20freelance%20illustrators%20time%20management",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ui0hf-4ny-f75c",
-    "ts": 1791664023795,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best+tools+for+freelance+illustrators+time+management+tools&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+tools+for+freelance+illustrators+time+management&sc=12-53&qs=n&sk=&cvid=4EBDE1F2616E4949A34446096391EA1D",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ui0hh-4nz-8dca",
-    "ts": 1791664023797,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: best tools for freelance illustrators time management tools - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best+tools+for+freelance+illustrators+time+management+tools&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+tools+for+freelance+illustrators+time+management&sc=12-53&qs=n&sk=&cvid=4EBDE1F2616E4949A34446096391EA1D",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ui0ka-4o0-affd",
-    "ts": 1791664023898,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best+tools+for+freelance+illustrators+time+management+tools&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+tools+for+freelance+illustrators+time+management&sc=12-53&qs=n&sk=&cvid=4EBDE1F2616E4949A34446096391EA1D",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ui0xw-4o1-9556",
-    "ts": 1791664024388,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.peopleperhour.com",
-    "evidence": {
-      "url": "https://www.peopleperhour.com/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ui4f2-4o2-5805",
-    "ts": 1791664028894,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.peopleperhour.com/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2ui4f6-4o3-a343",
     "ts": 1791664028898,
     "type": "founder.source",
@@ -2867,5 +2783,64 @@
     "severity": "info",
     "source": "founder",
     "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2voc7m-4uu-27cc",
+    "ts": 1791665998546,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2voc7r-4uv-1988",
+    "ts": 1791665998551,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2vpmde-4uw-7ba1",
+    "ts": 1791666058370,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2vpuq6-4ux-3edc",
+    "ts": 1791666069198,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2vr2kp-4uy-9758",
+    "ts": 1791666126025,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2vrb16-4uz-ae1f",
+    "ts": 1791666136986,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after two repairs; previous working version was retained"
+  },
+  {
+    "id": "mv2vrb1j-4v0-f366",
+    "ts": 1791666136999,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
   }
 ]
