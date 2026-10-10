@@ -1,181 +1,5 @@
 [
   {
-    "id": "mv2p3sv2-4nc-bf8e",
-    "ts": 1791654962654,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Client Not Paying Your Invoice? A Step-by-Step Freelance Recovery Playbook",
-    "evidence": {
-      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p3tkq-4nd-65c6",
-    "ts": 1791654963578,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p3xm1-4ne-2228",
-    "ts": 1791654968809,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2p3xm3-4nf-6624",
-    "ts": 1791654968811,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p3zti-4mo-ab9c",
-    "ts": 1791654971670,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.19 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1880124321111,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2p3zvz-4mp-3884",
-    "ts": 1791654971759,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 650130,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2p4fbf-4mq-2474",
-    "ts": 1791654991755,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 18: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4gf0-4mr-2732",
-    "ts": 1791654993180,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4gf1-4ms-1bb4",
-    "ts": 1791654993181,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4icc-4mt-bf2b",
-    "ts": 1791654995676,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4icc-4mu-5fd8",
-    "ts": 1791654995676,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "customer review analysis for independent shops complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4ico-4mv-1abd",
-    "ts": 1791654995688,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p4pwd-4mw-11ad",
-    "ts": 1791655005469,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: customer review analysis for independent shops complaints pain points",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p5kep-4mx-3c95",
-    "ts": 1791655045009,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2p5kkm-4my-429e",
-    "ts": 1791655045222,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle stopped by the operator",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p5kkp-4mz-e0b8",
-    "ts": 1791655045225,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2p5mp8-4mo-a591",
     "ts": 1791655047980,
     "type": "economy.boot",
@@ -2831,6 +2655,171 @@
     "title": "Typing search: freelance illustration project management software features",
     "evidence": {
       "url": "https://www.bing.com/search?q=freelance%20illustration%20project%20management%20software%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qccbj-4or-00c7",
+    "ts": 1791657040735,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustration+project+management+software+features&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustration+project+management+software+features&sc=12-59&qs=n&sk=&cvid=04DE6B333DCB4DB6B9FF6399B3517BE2",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qccbr-4os-5e08",
+    "ts": 1791657040743,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustration project management software features - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustration+project+management+software+features&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustration+project+management+software+features&sc=12-59&qs=n&sk=&cvid=04DE6B333DCB4DB6B9FF6399B3517BE2",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qccvb-4ot-3a31",
+    "ts": 1791657041447,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustration+project+management+software+features&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustration+project+management+software+features&sc=12-59&qs=n&sk=&cvid=04DE6B333DCB4DB6B9FF6399B3517BE2",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qcdh3-4ou-5380",
+    "ts": 1791657042231,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening tibj.gumroad.com",
+    "evidence": {
+      "url": "https://tibj.gumroad.com/l/freelance-illustrators-business-toolkit/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qchbe-4ov-e7d9",
+    "ts": 1791657047210,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://tibj.gumroad.com/l/freelance-illustrators-business-toolkit/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qchbl-4ow-c928",
+    "ts": 1791657047217,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: The Freelance Illustrator's Business Toolkit",
+    "evidence": {
+      "url": "https://tibj.gumroad.com/l/freelance-illustrators-business-toolkit/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qchv4-4ox-7a01",
+    "ts": 1791657047920,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://tibj.gumroad.com/l/freelance-illustrators-business-toolkit/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qct8x-4oy-48b4",
+    "ts": 1791657062673,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence suggests a clear need for better timeline estimation tools among freelancers, particularly illustrators. Existing solutions are generic and do not cater to the specific workflow of creative projects involving revisions. A specialized calculator could fill this gap. The decision to proceed with a prototype is based on the unvalidated demand and the need to test the core value proposition with a target audience before significant investment.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qct92-4oz-aeb2",
+    "ts": 1791657062678,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qctaz-4p0-efef",
+    "ts": 1791657062747,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2qctba-4p1-5847",
+    "ts": 1791657062758,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2qe3m8-4p2-9025",
+    "ts": 1791657122768,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2qe3mf-4p3-f195",
+    "ts": 1791657122775,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2qesx3-4p4-8fad",
+    "ts": 1791657155559,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2qf49q-4p5-8c17",
+    "ts": 1791657170270,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2qf4bw-4p6-f943",
+    "ts": 1791657170348,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
       "file": "workspace/research/report.json"
     }
   }
