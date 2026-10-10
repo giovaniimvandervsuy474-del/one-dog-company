@@ -1,0 +1,2743 @@
+[
+  {
+    "id": "mv2lnwyu-4o1-8171",
+    "ts": 1791649182630,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: cost of automated invoice reminder services - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=cost%20of%20automated%20invoice%20reminder%20services",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2lnxnh-4o2-8660",
+    "ts": 1791649183517,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=cost%20of%20automated%20invoice%20reminder%20services",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2lo35l-4o3-a2b2",
+    "ts": 1791649190649,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The search results indicate a strong market for invoicing software, with many options offering some level of automation for invoicing and reminders. Several sources mention features relevant to freelance designers, such as customizable templates, integration with accounting software, and automated reminders. However, there's a lack of clear information on specialized, advanced automated follow-up tools specifically tailored for freelance designers at a price point that aligns with their business model. The hypothesis that they are willing to pay a small monthly fee is plausible but unvalidated.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2lo35m-4o4-ed47",
+    "ts": 1791649190650,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2lo35o-4o5-ff5d",
+    "ts": 1791649190652,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Choosing a small browser tool from the research evidence"
+  },
+  {
+    "id": "mv2lo35o-4o6-aa6a",
+    "ts": 1791649190652,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2lo6i7-4o7-87f1",
+    "ts": 1791649194991,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2lo80b-4o8-d7fb",
+    "ts": 1791649196939,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2lob4p-4o9-5292",
+    "ts": 1791649200985,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2loclz-4oa-079b",
+    "ts": 1791649202903,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype passed all checks and is available in the Development window"
+  },
+  {
+    "id": "mv2locm0-4ob-130a",
+    "ts": 1791649202904,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2loggg-4oc-6eda",
+    "ts": 1791649207888,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ly8s1-4od-d6d5",
+    "ts": 1791649664497,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2ly8s2-4oe-77e5",
+    "ts": 1791649664498,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2lyax8-4mo-1373",
+    "ts": 1791649667276,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $998.96 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 998.96247977168,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2lyaxq-4mp-51d7",
+    "ts": 1791649667294,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 637056,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2miqcz-4mq-2053",
+    "ts": 1791650620403,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2miqd1-4mr-e953",
+    "ts": 1791650620405,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mise3-4mo-961f",
+    "ts": 1791650623035,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0672641171315,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2misgu-4mp-ae11",
+    "ts": 1791650623134,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 638838,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2mjfly-4mq-e1bb",
+    "ts": 1791650653126,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 3: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjgyz-4mr-467f",
+    "ts": 1791650654891,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "Existing invoicing tools do not adequately address the pre-project contract and scope definition phase, which is a significant pain point for freelance graphic designers leading to disputes and scope creep. This product would fill that gap by providing a dedicated solution for managing these critical early stages of client engagement.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjiov-4ms-7400",
+    "ts": 1791650657119,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjiov-4mt-3a8f",
+    "ts": 1791650657119,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance graphic designer contract management software complaints",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjip9-4mu-d0ea",
+    "ts": 1791650657133,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20graphic%20designer%20contract%20management%20software%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjlps-4mv-e8e6",
+    "ts": 1791650661040,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20graphic%20designer%20contract%20management%20software%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjlpt-4mw-c777",
+    "ts": 1791650661041,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance graphic designer contract management software complaints - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20graphic%20designer%20contract%20management%20software%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjmey-4mx-c533",
+    "ts": 1791650661946,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20graphic%20designer%20contract%20management%20software%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjns6-4my-c703",
+    "ts": 1791650663718,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.graphicworld.com",
+    "evidence": {
+      "url": "https://www.graphicworld.com/freelance-graphic-designer-contracts/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjo6v-4mz-4200",
+    "ts": 1791650664247,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: net::ERR_CERT_DATE_INVALID at https://www.graphicworld.com/freelance-graphic-designer-contracts/\nCall log:\n  - navigating to \"https://www.graphicworld.com/freelance-graphic-designer-contracts/\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://www.graphicworld.com/freelance-graphic-designer-contracts/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjo6v-4n0-1413",
+    "ts": 1791650664247,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best client contract tools for graphic designers",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjo6w-4n1-b397",
+    "ts": 1791650664248,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjoil-4n2-097c",
+    "ts": 1791650664669,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: Navigation to \"https://www.bing.com/search?q=best%20client%20contract%20tools%20for%20graphic%20designers\" is interrupted by another navigation to \"chrome-error://chromewebdata/\"\nCall log:\n  - navigating to \"https://www.bing.com/search?q=best%20client%20contract%20tools%20for%20graphic%20designers\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjoim-4n3-7a55",
+    "ts": 1791650664670,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjojq-4n4-7a37",
+    "ts": 1791650664710,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjrw7-4n5-31f7",
+    "ts": 1791650669047,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjrw8-4n6-a77e",
+    "ts": 1791650669048,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: best client contract tools for graphic designers at DuckDuckGo",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjslf-4n7-0d0b",
+    "ts": 1791650669955,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20client%20contract%20tools%20for%20graphic%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjtwf-4n8-fa18",
+    "ts": 1791650671647,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.freelancersunion.org",
+    "evidence": {
+      "url": "https://www.freelancersunion.org/resources/contract-template/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjyp8-4n9-595b",
+    "ts": 1791650677868,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://freelancersunion.org/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjyp9-4na-902d",
+    "ts": 1791650677869,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Home | Freelancers Union",
+    "evidence": {
+      "url": "https://freelancersunion.org/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mjze8-4nb-dca9",
+    "ts": 1791650678768,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://freelancersunion.org/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk0to-4nc-f648",
+    "ts": 1791650680620,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "graphic design project scope creep solutions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk0to-4nd-fe92",
+    "ts": 1791650680620,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=graphic%20design%20project%20scope%20creep%20solutions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk3uz-4ne-76e2",
+    "ts": 1791650684555,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=graphic%20design%20project%20scope%20creep%20solutions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk3v0-4nf-c30a",
+    "ts": 1791650684556,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: graphic design project scope creep solutions - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=graphic%20design%20project%20scope%20creep%20solutions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk4k4-4ng-683f",
+    "ts": 1791650685460,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=graphic%20design%20project%20scope%20creep%20solutions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk5us-4nh-59db",
+    "ts": 1791650687140,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening 99designs.com",
+    "evidence": {
+      "url": "https://99designs.com/blog/freelancing/freelance-contract-template/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk9bp-4ni-b5db",
+    "ts": 1791650691637,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://99designs.com/blog/freelancing/freelance-contract-template/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mk9bq-4nj-02f8",
+    "ts": 1791650691638,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: 99designs » Lost your way?",
+    "evidence": {
+      "url": "https://99designs.com/blog/freelancing/freelance-contract-template/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mka0m-4nk-aa32",
+    "ts": 1791650692534,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://99designs.com/blog/freelancing/freelance-contract-template/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkbac-4nl-23da",
+    "ts": 1791650694180,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance contract dispute examples graphic design",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkbad-4nm-6774",
+    "ts": 1791650694181,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20contract%20dispute%20examples%20graphic%20design",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mke8c-4nn-9020",
+    "ts": 1791650697996,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20contract%20dispute%20examples%20graphic%20design",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mke8d-4no-846d",
+    "ts": 1791650697997,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance contract dispute examples graphic design - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20contract%20dispute%20examples%20graphic%20design",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkexi-4np-774f",
+    "ts": 1791650698902,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20contract%20dispute%20examples%20graphic%20design",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkh68-4nq-e6c4",
+    "ts": 1791650701808,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening sourceforge.net",
+    "evidence": {
+      "url": "https://sourceforge.net/software/contract-management/for-freelance/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkik3-4nr-0d51",
+    "ts": 1791650703603,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase is processing a CAPTCHA",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkkmh-4ns-08a8",
+    "ts": 1791650706281,
+    "type": "founder.captcha",
+    "severity": "info",
+    "source": "founder",
+    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
+    "evidence": {
+      "url": "https://sourceforge.net/software/contract-management/for-freelance/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmfs-4nt-95e1",
+    "ts": 1791650708632,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.title: Execution context was destroyed, most likely because of a navigation",
+    "evidence": {
+      "url": "https://sourceforge.net/software/contract-management/for-freelance/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmft-4nu-1460",
+    "ts": 1791650708633,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "integrated contract and project scope tool for designers",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmfu-4nv-de0f",
+    "ts": 1791650708634,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmh0-4nw-2fad",
+    "ts": 1791650708676,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase finished the CAPTCHA attempt",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmu3-4nx-931e",
+    "ts": 1791650709147,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: Navigation to \"https://www.bing.com/search?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\" is interrupted by another navigation to \"https://sourceforge.net/software/contract-management/for-freelance/\"\nCall log:\n  - navigating to \"https://www.bing.com/search?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmu4-4ny-27a7",
+    "ts": 1791650709148,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkmu5-4nz-f168",
+    "ts": 1791650709149,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mknky-4o0-3c56",
+    "ts": 1791650710114,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: Navigation to \"https://html.duckduckgo.com/html/?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\" is interrupted by another navigation to \"https://www.bing.com/search?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\"\nCall log:\n  - navigating to \"https://html.duckduckgo.com/html/?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mknl1-4o1-9519",
+    "ts": 1791650710117,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening sourceforge.net",
+    "evidence": {
+      "url": "https://sourceforge.net/software/freelance-management/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mko5a-4o2-db4b",
+    "ts": 1791650710846,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: Navigation to \"https://sourceforge.net/software/freelance-management/\" is interrupted by another navigation to \"https://html.duckduckgo.com/html/?q=integrated%20contract%20and%20project%20scope%20tool%20for%20designers\"\nCall log:\n  - navigating to \"https://sourceforge.net/software/freelance-management/\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://sourceforge.net/software/freelance-management/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mko5n-4o3-ef04",
+    "ts": 1791650710859,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening monday.com",
+    "evidence": {
+      "url": "https://monday.com/blog/service/complaint-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkoud-4o4-2f19",
+    "ts": 1791650711749,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.goto: Navigation to \"https://monday.com/blog/service/complaint-management-software/\" is interrupted by another navigation to \"https://sourceforge.net/software/freelance-management/\"\nCall log:\n  - navigating to \"https://monday.com/blog/service/complaint-management-software/\", waiting until \"domcontentloaded\"\n",
+    "evidence": {
+      "url": "https://monday.com/blog/service/complaint-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkoxg-4o5-b8e0",
+    "ts": 1791650711860,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening listicler.com",
+    "evidence": {
+      "url": "https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkrfe-4o6-4873",
+    "ts": 1791650715098,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkrff-4o7-7183",
+    "ts": 1791650715099,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Tools for Freelance Graphic Designers Managing Client Projects (2026) | Lis",
+    "evidence": {
+      "url": "https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mks4m-4o8-7852",
+    "ts": 1791650716006,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mktfa-4o9-2bdf",
+    "ts": 1791650717686,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.trustpilot.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkxog-4oa-6ed8",
+    "ts": 1791650723200,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase is processing a CAPTCHA",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkxxb-4ob-d29d",
+    "ts": 1791650723519,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkxxc-4oc-c107",
+    "ts": 1791650723520,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Odoo Reviews | Read Customer Service Reviews of odoo.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkys2-4od-5e2b",
+    "ts": 1791650724626,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mkzrn-4oe-a3f7",
+    "ts": 1791650725907,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase finished the CAPTCHA attempt",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml0et-4of-bd3f",
+    "ts": 1791650726741,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening basicdocs.com",
+    "evidence": {
+      "url": "https://basicdocs.com/blog/contract-management-designers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml3fi-4og-bb49",
+    "ts": 1791650730654,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://basicdocs.com/blog/contract-management-designers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml3fj-4oh-9643",
+    "ts": 1791650730655,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Contract Management Software for Designers (2026) | BasicDocs Blog",
+    "evidence": {
+      "url": "https://basicdocs.com/blog/contract-management-designers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml44k-4oi-5c9f",
+    "ts": 1791650731556,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://basicdocs.com/blog/contract-management-designers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml5mp-4oj-be8a",
+    "ts": 1791650733505,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.plutio.com",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/contracts",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml8qq-4ok-22b4",
+    "ts": 1791650737538,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/contracts",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml8qr-4ol-ad8c",
+    "ts": 1791650737539,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Contracts Software for Designers in 2026",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/contracts",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ml9gp-4om-4d7d",
+    "ts": 1791650738473,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/contracts",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlb5h-4on-da17",
+    "ts": 1791650740661,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening agiled.app",
+    "evidence": {
+      "url": "https://agiled.app/blog/best-client-portal-software-for-designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mleio-4oo-fa79",
+    "ts": 1791650745024,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://agiled.app/blog/best-client-portal-software-for-designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mleip-4op-6b6f",
+    "ts": 1791650745025,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: 10 Best Client Portal Software for Designers (2026) | Agiled",
+    "evidence": {
+      "url": "https://agiled.app/blog/best-client-portal-software-for-designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlf83-4oq-73f6",
+    "ts": 1791650745939,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://agiled.app/blog/best-client-portal-software-for-designers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlgi4-4or-9c9d",
+    "ts": 1791650747596,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.plutio.com",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/client-management",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlk3y-4os-4680",
+    "ts": 1791650752270,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/client-management",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlk3z-4ot-f54e",
+    "ts": 1791650752272,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Client Management Software for Designers in 2026",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/client-management",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mlktg-4ou-184d",
+    "ts": 1791650753188,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.plutio.com/solutions/designers/client-management",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mls0f-4ov-203e",
+    "ts": 1791650762511,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence strongly suggests a need for specialized contract and scope management tools for freelance graphic designers. Multiple sources highlight the prevalence of scope creep and contract disputes in the industry, and the desire for integrated solutions. The existence of multiple platforms offering similar features (HoneyBook, Bonsai, Plutio) indicates market interest, but also suggests a need for a focused, user-friendly solution.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mls0g-4ow-d404",
+    "ts": 1791650762512,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mls0i-4ox-1790",
+    "ts": 1791650762514,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Choosing a small browser tool from the research evidence"
+  },
+  {
+    "id": "mv2mls0j-4oy-75b0",
+    "ts": 1791650762515,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2mlywp-4oz-b0c6",
+    "ts": 1791650771449,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2mm07q-4p0-218b",
+    "ts": 1791650773142,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2mm5fh-4p1-16d7",
+    "ts": 1791650779901,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2mm6rw-4p2-6945",
+    "ts": 1791650781644,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2mm6ry-4p3-8cbe",
+    "ts": 1791650781646,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mn8k8-4p4-974a",
+    "ts": 1791650830616,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2mn8k9-4p5-b6be",
+    "ts": 1791650830617,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mnaoj-4mo-1d3b",
+    "ts": 1791650833363,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0703240947934,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2mnap0-4mp-1cd8",
+    "ts": 1791650833380,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 640110,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2mni72-4mq-5d3a",
+    "ts": 1791650843102,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Choosing a small browser tool from the research evidence"
+  },
+  {
+    "id": "mv2mni73-4mr-beb1",
+    "ts": 1791650843103,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2mnoop-4ms-52fd",
+    "ts": 1791650851513,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2mnqhw-4mt-500b",
+    "ts": 1791650853860,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype passed all checks and is available in the Development window"
+  },
+  {
+    "id": "mv2mpogt-4mu-a97a",
+    "ts": 1791650944541,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2mpogu-4mv-c0e1",
+    "ts": 1791650944542,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mpqjy-4mo-8bfd",
+    "ts": 1791650947246,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0725845199132,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2mpqmj-4mp-57fa",
+    "ts": 1791650947339,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 640857,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2mq9ww-4mq-5b01",
+    "ts": 1791650972336,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 4: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqbco-4mr-ee8f",
+    "ts": 1791650974200,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "While contract management tools exist for general freelancers, there's a gap for illustrators specifically dealing with the nuances of art licensing. Existing solutions may not adequately address royalty tracking, specific usage rights (e.g., print vs. digital, territory), or duration of licenses, which are critical for illustrators. This niche focuses on a specific type of creative professional and a distinct problem within contract management.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqcx8-4ms-a758",
+    "ts": 1791650976236,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqcx9-4mt-359d",
+    "ts": 1791650976237,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator licensing agreement template",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqcxj-4mu-7540",
+    "ts": 1791650976247,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqg7q-4mv-9fd5",
+    "ts": 1791650980502,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqg7r-4mw-bc05",
+    "ts": 1791650980503,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator licensing agreement template - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqgyq-4mx-30de",
+    "ts": 1791650981474,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqibd-4my-54d7",
+    "ts": 1791650983225,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.deviantart.com",
+    "evidence": {
+      "url": "https://www.deviantart.com/forum/topic/art-licensing/178667",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqmuj-4mz-489f",
+    "ts": 1791650989099,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqmuk-4n0-7ab5",
+    "ts": 1791650989100,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Log In | DeviantArt",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqnlf-4n1-ef51",
+    "ts": 1791650990067,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqoet-4n2-09e2",
+    "ts": 1791650991125,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2mqokl-4n3-1451",
+    "ts": 1791650991333,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqokq-4n4-71a6",
+    "ts": 1791650991338,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mqqnj-4mo-0b76",
+    "ts": 1791650994032,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0732414399591,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2mqqq0-4mp-ee90",
+    "ts": 1791650994120,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 641245,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2mra09-4mq-37bf",
+    "ts": 1791651019113,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 5: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrbf8-4mr-f83f",
+    "ts": 1791651020948,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous cycles focused on graphic designers and invoicing. This cycle targets freelance illustrators, a distinct but related creative field. The problem of managing client feedback and revisions is a common pain point in creative work, and a specialized tool could offer significant value by improving efficiency and reducing errors, which is a distinct problem from scope creep or invoice follow-up.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrdwn-4ms-7244",
+    "ts": 1791651024167,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrdwn-4mt-5e37",
+    "ts": 1791651024167,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator client feedback management software",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrdwx-4mu-a57b",
+    "ts": 1791651024177,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20client%20feedback%20management%20software",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrjap-4mv-f0d2",
+    "ts": 1791651031153,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20client%20feedback%20management%20software",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrjaq-4mw-701d",
+    "ts": 1791651031154,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrjb9-4mx-97f9",
+    "ts": 1791651031173,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20client%20feedback%20management%20software",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrqbb-4my-fbc0",
+    "ts": 1791651040247,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20client%20feedback%20management%20software",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mrqbs-4mz-5a0f",
+    "ts": 1791651040264,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.behance.net",
+    "evidence": {
+      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ms0h8-4n0-a32c",
+    "ts": 1791651053420,
+    "type": "founder.captcha",
+    "severity": "info",
+    "source": "founder",
+    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
+    "evidence": {
+      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mskxw-4n1-d26b",
+    "ts": 1791651079940,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Human verification was not resolved; moving to another source",
+    "evidence": {
+      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mskxx-4n2-0fa1",
+    "ts": 1791651079941,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to organize illustration revisions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mskxx-4n3-ebf5",
+    "ts": 1791651079941,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20organize%20illustration%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2msqj8-4n4-23a3",
+    "ts": 1791651087188,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20organize%20illustration%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2msqj8-4n5-b222",
+    "ts": 1791651087188,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2msqj9-4n6-c9a6",
+    "ts": 1791651087189,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20organize%20illustration%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mswlw-4n7-3d99",
+    "ts": 1791651095060,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20organize%20illustration%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mswm8-4n8-97ad",
+    "ts": 1791651095072,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.artstation.com",
+    "evidence": {
+      "url": "https://www.artstation.com/artist/artistname/illustrations",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt2gu-4n9-d6e6",
+    "ts": 1791651102654,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://www.artstation.com/artist/artistname/illustrations",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt2gv-4na-9a38",
+    "ts": 1791651102655,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best tools for managing multiple feedback rounds illustration",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt2gv-4nb-51f9",
+    "ts": 1791651102655,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt7xq-4nc-0e06",
+    "ts": 1791651109742,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt7xr-4nd-a4d2",
+    "ts": 1791651109743,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mt7xr-4ne-a3f9",
+    "ts": 1791651109743,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtgwl-4nf-0823",
+    "ts": 1791651121365,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtgww-4ng-e5e1",
+    "ts": 1791651121376,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.instagram.com",
+    "evidence": {
+      "url": "https://www.instagram.com/explore/tags/freelanceillustrator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtqa7-4nh-6d93",
+    "ts": 1791651133519,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtqa9-4ni-dc8d",
+    "ts": 1791651133521,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Freelanceillustrator • 3.6M reels on Instagram",
+    "evidence": {
+      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtsb7-4nj-70d9",
+    "ts": 1791651136147,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mtuwj-4nk-fe6e",
+    "ts": 1791651139507,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "Not enough readable sources; keeping the hypothesis unvalidated",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxtcz-4nl-9032",
+    "ts": 1791651324131,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 6: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxusg-4nm-b707",
+    "ts": 1791651325984,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "Freelance illustrators, particularly those working on detailed or multi-stage projects, often face challenges in accurately predicting the time required. This can stem from underestimating the complexity of client revisions, the iterative nature of the creative process, or unforeseen technical issues. Existing project management tools may be too general and not cater to the specific workflow of illustrators. This problem is distinct from scope creep (ScopeGuard) and invoicing (Invoice Follow-up Date Calculator).",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxwk3-4nn-08e4",
+    "ts": 1791651328275,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxwk4-4no-3458",
+    "ts": 1791651328276,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation problems",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxwk4-4np-411f",
+    "ts": 1791651328276,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxzui-4nq-6c70",
+    "ts": 1791651332538,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mxzuj-4nr-111c",
+    "ts": 1791651332539,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator timeline estimation problems - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my0m2-4ns-7a63",
+    "ts": 1791651333530,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my1zd-4nt-2256",
+    "ts": 1791651335305,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.behance.net",
+    "evidence": {
+      "url": "https://www.behance.net/forums/topic/freelance-illustration-project-management-tips",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my5ud-4nu-c1cd",
+    "ts": 1791651340309,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.behance.net/forums/topic/freelance-illustration-project-management-tips",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my5ue-4nv-34b2",
+    "ts": 1791651340310,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Oops! We can’t find that page. :: Behance",
+    "evidence": {
+      "url": "https://www.behance.net/forums/topic/freelance-illustration-project-management-tips",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my6m8-4nw-c454",
+    "ts": 1791651341312,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.behance.net/forums/topic/freelance-illustration-project-management-tips",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my7z4-4nx-2f65",
+    "ts": 1791651343072,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration projects",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2my7z5-4ny-0002",
+    "ts": 1791651343073,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mybq6-4nz-8fe3",
+    "ts": 1791651347934,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mybq7-4o0-dbee",
+    "ts": 1791651347935,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: how to estimate time for complex illustration projects - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myci9-4o1-efc0",
+    "ts": 1791651348945,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myewq-4o2-cebd",
+    "ts": 1791651352058,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.reddit.com",
+    "evidence": {
+      "url": "https://www.reddit.com/r/illustration/comments/1234567/struggling_with_project_timelines/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myi1a-4o3-2538",
+    "ts": 1791651356110,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.reddit.com/r/illustration/comments/1234567/struggling_with_project_timelines/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myi1b-4o4-bbd6",
+    "ts": 1791651356111,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: ",
+    "evidence": {
+      "url": "https://www.reddit.com/r/illustration/comments/1234567/struggling_with_project_timelines/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myist-4o5-a117",
+    "ts": 1791651357101,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.reddit.com/r/illustration/comments/1234567/struggling_with_project_timelines/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myk5y-4o6-94ba",
+    "ts": 1791651358870,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "software for freelance illustrators to track project time",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myk5z-4o7-a3c8",
+    "ts": 1791651358871,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=software%20for%20freelance%20illustrators%20to%20track%20project%20time",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mynko-4o8-df7f",
+    "ts": 1791651363288,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=software%20for%20freelance%20illustrators%20to%20track%20project%20time",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mynkp-4o9-c3d6",
+    "ts": 1791651363289,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: software for freelance illustrators to track project time - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=software%20for%20freelance%20illustrators%20to%20track%20project%20time",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myoc4-4oa-d798",
+    "ts": 1791651364276,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=software%20for%20freelance%20illustrators%20to%20track%20project%20time",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myqh9-4ob-bc75",
+    "ts": 1791651367053,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.deviantart.com",
+    "evidence": {
+      "url": "https://www.deviantart.com/forum/threads/how-do-you-estimate-your-illustration-project-times",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myuzx-4oc-aa7b",
+    "ts": 1791651372909,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myuzx-4od-6d8d",
+    "ts": 1791651372909,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Log In | DeviantArt",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myvr9-4oe-e9dc",
+    "ts": 1791651373893,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.deviantart.com/users/login",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myxeq-4of-4bfe",
+    "ts": 1791651376034,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best tools for managing illustration project deadlines",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2myxer-4og-c286",
+    "ts": 1791651376035,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20illustration%20project%20deadlines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz0zy-4oh-0099",
+    "ts": 1791651380686,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20illustration%20project%20deadlines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz0zz-4oi-59fc",
+    "ts": 1791651380687,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: best tools for managing illustration project deadlines - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20illustration%20project%20deadlines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz1rm-4oj-801e",
+    "ts": 1791651381682,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20illustration%20project%20deadlines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz36h-4ok-1e78",
+    "ts": 1791651383513,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.nofeefreelance.com",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz6gg-4ol-a027",
+    "ts": 1791651387760,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz6gh-4om-525e",
+    "ts": 1791651387761,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Set Realistic Timelines When Hiring Freelancers",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mz77p-4on-ec5c",
+    "ts": 1791651388741,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mzea0-4oo-3a58",
+    "ts": 1791651397896,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence strongly suggests that freelance illustrators struggle with accurate timeline estimation for complex projects. Multiple sources discuss the difficulties, the need for structured estimation processes, and the existence of related tools (time tracking, project management, timeline creators). While demand is unvalidated, the recurring problem and existing solutions indicate a potential need for a specialized tool. A prototype is appropriate to test a focused solution.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mzea1-4op-27e3",
+    "ts": 1791651397897,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2mzea2-4oq-3c08",
+    "ts": 1791651397898,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Choosing a small browser tool from the research evidence"
+  },
+  {
+    "id": "mv2mzea3-4or-cc2b",
+    "ts": 1791651397899,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2mzksd-4os-6e62",
+    "ts": 1791651406333,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2mzksd-4ot-cb7c",
+    "ts": 1791651406333,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2mzqxq-4ou-f796",
+    "ts": 1791651414302,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "[\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 160,\n    \"inclusive\": true,\n    \"path\": [\n      \"tests\",\n      0,\n      \"outputIncludes\"\n    ],\n    \"message\": \"Too big: expected string to have <=160 characters\"\n  },\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 160,\n    \"inclusive\": true,\n    \"path\": [\n      \"tests\",\n      1,\n      \"outputIncludes\"\n    ],\n    \"message\": \"Too big: expected string to have <=160 characters\"\n  },\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 160,\n    \"inclusive\": true,\n    \"path\": [\n      \"tests\",\n      2,\n      \"outputIncludes\"\n    ],\n    \"message\": \"Too big: expected string to have <=160 characters\"\n  }\n]"
+  },
+  {
+    "id": "mv2mzqxr-4ov-b2b7",
+    "ts": 1791651414303,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2n1j9u-4ow-91b5",
+    "ts": 1791651497682,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2n1j9v-4ox-b795",
+    "ts": 1791651497683,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2n1lhb-4mo-51de",
+    "ts": 1791651500543,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0909339949039,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2n1lhr-4mp-8a1d",
+    "ts": 1791651500559,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 642270,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2n1yff-4mq-cd4b",
+    "ts": 1791651517323,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2n1yfg-4mr-7259",
+    "ts": 1791651517324,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2n1ysq-4ms-7ead",
+    "ts": 1791651517802,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2n1ysq-4mt-09c5",
+    "ts": 1791651517802,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2n1z72-4mu-ed2b",
+    "ts": 1791651518318,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Research model rejected the request (HTTP 400)"
+  },
+  {
+    "id": "mv2n3igp-4mv-547d",
+    "ts": 1791651589945,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2n3igr-4mw-1155",
+    "ts": 1791651589947,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2n3kmt-4mo-b476",
+    "ts": 1791651592758,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0904908916477,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2n3knb-4mp-d3f9",
+    "ts": 1791651592775,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 642832,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2n4fjk-4mq-0bda",
+    "ts": 1791651632816,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2n4fjl-4mr-03e1",
+    "ts": 1791651632817,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2n4g2p-4ms-2e89",
+    "ts": 1791651633505,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2n4g2q-4mt-10f3",
+    "ts": 1791651633506,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2n4gh5-4mu-5c91",
+    "ts": 1791651634025,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Research model rejected the request (HTTP 400): The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested), or schemas using complex value matchers (for example, integers or numbers with minimum/maximum bounds or strings with complex formats like date-time)"
+  },
+  {
+    "id": "mv2n5p8k-4mv-40e4",
+    "ts": 1791651692036,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2n5p8l-4mw-b583",
+    "ts": 1791651692037,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2n5rbt-4mo-c99a",
+    "ts": 1791651694745,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.0949585257642,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2n5rep-4mp-4317",
+    "ts": 1791651694849,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 643289,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2n8t1z-4mq-729f",
+    "ts": 1791651836951,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2n8t1z-4mr-6953",
+    "ts": 1791651836951,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2n986a-4ms-7b35",
+    "ts": 1791651856546,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2n986b-4mt-8d92",
+    "ts": 1791651856547,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2n9jg8-4mu-0190",
+    "ts": 1791651871160,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "MVP requires persistent storage and complete lifecycle tests"
+  },
+  {
+    "id": "mv2nc578-4mv-0187",
+    "ts": 1791651992660,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2nc579-4mw-80b8",
+    "ts": 1791651992661,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nc78o-4mo-cb56",
+    "ts": 1791651995304,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.11 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.1126570882348,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2nc7az-4mp-b869",
+    "ts": 1791651995387,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 644253,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2nd1pn-4mq-f498",
+    "ts": 1791652034795,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2nd1po-4mr-22e2",
+    "ts": 1791652034796,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2ndd0c-4ms-22ed",
+    "ts": 1791652049436,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2ndd0d-4mt-35e1",
+    "ts": 1791652049437,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2ndua0-4mu-74b7",
+    "ts": 1791652071816,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2ndw6o-4mv-09ae",
+    "ts": 1791652074288,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  }
+]

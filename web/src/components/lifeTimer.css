@@ -1,0 +1,11 @@
+.app:has(> .topbar-shell) { grid-template-rows: auto minmax(0, 1fr); }
+.topbar-shell { min-width: 0; position: relative; z-index: 5; }
+.topbar-shell .topbar { height: 52px; }
+.life-timer { --timer-color: #82e6ff; display: flex; align-items: center; justify-content: center; gap: 28px; min-height: 90px; padding: 12px 20px; border-bottom: 1px solid #23404e; background: radial-gradient(ellipse at 50% 0%, #153341 0%, #07121c 55%, #04090f 100%); }
+.life-timer.urgent { --timer-color: #ff8c9e; border-color: #562635; background: radial-gradient(ellipse at 50% 0%, #341c2b 0%, #120e18 55%, #06090e 100%); }
+.life-timer-caption { display: flex; align-items: center; gap: 9px; color: var(--timer-color); font-size: 11px; font-weight: 700; letter-spacing: .16em; }
+.life-timer-beacon { width: 6px; height: 6px; border-radius: 50%; background: var(--timer-color); box-shadow: 0 0 12px var(--timer-color); }
+.life-timer-value { color: #f4f9ff; font-family: var(--mono); font-size: clamp(36px, 4vw, 54px); font-weight: 700; font-variant-numeric: tabular-nums; letter-spacing: .04em; line-height: 1.1; white-space: nowrap; text-shadow: 0 0 24px color-mix(in srgb, var(--timer-color) 35%, transparent); }
+.life-timer-days { color: var(--timer-color); font-size: .62em; }
+.life-timer-note { max-width: 180px; color: #9aaabb; font-size: 11px; line-height: 1.6; }
+@media(max-width:700px) { .life-timer { gap: 5px; flex-direction: column; min-height: 122px; padding: 10px; } .life-timer-note { max-width: none; font-size: 10px; } .life-timer-value { font-size: 38px; } .life-timer-caption { font-size: 9px; } }

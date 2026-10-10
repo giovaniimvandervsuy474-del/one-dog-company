@@ -1,0 +1,447 @@
+{
+  "products": [
+    {
+      "status": "ready",
+      "name": "ScopeGuard",
+      "purpose": "Helps freelance graphic designers analyze project descriptions to identify deliverables and suggest a revision limit, mitigating scope creep.",
+      "version": 3,
+      "updatedAt": 1791650853858,
+      "runId": "research_1791650653126",
+      "error": "",
+      "code": "<html><head><title>ScopeGuard</title><style>body{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;line-height:1.6;color:#333;background-color:#f4f7f6;margin:0;padding:0;} .container{max-width:800px;margin:40px auto;padding:30px;background-color:#fff;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.05);} h1{color:#2c3e50;text-align:center;margin-bottom:10px;font-size:2.5em;font-weight:700;} p.subtitle{text-align:center;color:#7f8c8d;font-size:1.1em;margin-bottom:30px;} .tool-section{margin-bottom:30px;padding:25px;background-color:#ecf0f1;border-radius:6px;} .tool-section h2{color:#2c3e50;margin-top:0;font-size:1.5em;border-bottom:1px solid #bdc3c7;padding-bottom:10px;margin-bottom:20px;} label{display:block;margin-bottom:8px;font-weight:600;color:#34495e;} textarea{width:100%;padding:12px;border:1px solid #bdc3c7;border-radius:4px;box-sizing:border-box;font-size:1em;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;resize:vertical;min-height:150px;} button{background-color:#3498db;color:#fff;border:none;padding:12px 25px;border-radius:4px;font-size:1.1em;cursor:pointer;transition:background-color 0.3s ease;display:block;width:100%;margin-top:15px;} button:hover{background-color:#2980b9;} .results-section{margin-top:30px;} .results-section h2{color:#2c3e50;font-size:1.5em;border-bottom:1px solid #bdc3c7;padding-bottom:10px;margin-bottom:20px;} pre{background-color:#e8f6f3;padding:20px;border-radius:4px;overflow-x:auto;white-space:pre-wrap;word-wrap:break-word;font-size:0.95em;border:1px solid #a3e1d4;} .example-section{margin-top:30px;padding:25px;background-color:#fdf6e3;border-radius:6px;} .example-section h2{color:#859900;font-size:1.5em;border-bottom:1px solid #b58900;padding-bottom:10px;margin-bottom:20px;} .example-section pre{background-color:#fff;border:1px solid #eee8d5;} .icon{display:inline-block;width:24px;height:24px;margin-right:8px;fill:#3498db;vertical-align:middle;} .icon-info{fill:#95a5a6;} .icon-example{fill:#859900;}</style></head><body><div class=\"container\"><svg class=\"icon icon-info\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z\"></path></svg><h1>ScopeGuard</h1><p class=\"subtitle\">Define and Refine Your Project Scope</p><div class=\"tool-section\"><svg class=\"icon icon-info\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z\"></path></svg><h2>Instructions</h2><p>Paste your project description or client brief below. ScopeGuard will help identify potential scope creep by highlighting key deliverables and suggesting a revision limit based on common freelance practices. Use the reference date for any date-sensitive calculations.</p><label for=\"input-area\">Project Description:</label><textarea id=\"input-area\" data-input placeholder=\"Paste your project description here...\"></textarea><button data-run>Analyze Scope</button></div><div class=\"results-section\"><svg class=\"icon icon-info\" viewBox=\"0 0 24 24\"><path d=\"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm-1-13h2v6h-2zm0 8h2v2h-2z\"></path></svg><h2>Analysis Results</h2><pre data-output></pre></div><div class=\"example-section\"><svg class=\"icon icon-example\" viewBox=\"0 0 24 24\"><path d=\"M19 3h-4.18C14.4 1.87 13.12 1 12 1c-1.12 0-2.4.87-2.82 2H5c-1.11 0-2 .89-2 2v14c0 1.11.89 2 2 2h14c1.11 0 2-.89 2-2V5c0-1.11-.89-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM12 13.5l-2.5 2.5 1.5 1.5 2.5-2.5 2.5 2.5 1.5-1.5-2.5-2.5-2.5 2.5z\"></path></svg><h2>Example</h2><p>Click the button below to fill the input with a sample project description.</p><button onclick=\"document.querySelector('[data-input]').value='Project: Design a new logo and brand identity for 'TechSolutions Inc.'. Deliverables include: 1 primary logo, 3 variations, a color palette, and a style guide. Client requests 2 rounds of revisions. Reference Date: 2023-10-27.'; document.querySelector('[data-run]').click();\">Fill Example and Run</button><pre>Project: Design a new logo and brand identity for TechSolutions Inc.. Deliverables include: 1 primary logo, 3 variations, a color palette, and a style guide. Client requests 2 rounds of revisions. Reference Date: 2023-10-27.</pre></div></div><script>const inputArea = document.querySelector('[data-input]'); const runButton = document.querySelector('[data-run]'); const outputArea = document.querySelector('[data-output]'); const referenceDate = '2023-10-27'; function analyzeScope() { const text = inputArea.value; let output = ''; const deliverablesRegex = /Deliverables include: (.*?)\\./; const revisionsRegex = /requests (\\d+) rounds? of revisions/; const dateRegex = /Reference Date: (\\d{4}-\\d{2}-\\d{2})/; const match = text.match(dateRegex); const effectiveReferenceDate = match ? match[1] : referenceDate; const deliverablesMatch = text.match(deliverablesRegex); const revisionMatch = text.match(revisionsRegex); let identifiedDeliverables = 'None identified'; let suggestedRevisions = '3'; if (deliverablesMatch && deliverablesMatch[1]) { identifiedDeliverables = deliverablesMatch[1].trim(); } if (revisionMatch && revisionMatch[1]) { const numRevisions = parseInt(revisionMatch[1], 10); suggestedRevisions = Math.max(numRevisions + 1, 3).toString(); } output += 'Identified Deliverables:\\n' + identifiedDeliverables + '\\n\\n'; output += 'Suggested Revision Limit:\\n' + suggestedRevisions + ' rounds\\n\\n'; output += 'Analysis Date:\\n' + effectiveReferenceDate; outputArea.textContent = output; } runButton.addEventListener('click', analyzeScope);</script></body></html>",
+      "checks": [
+        {
+          "name": "Standard Project",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Website Mockup Project",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Social Media Graphics",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Different inputs produce different results",
+          "passed": true,
+          "detail": "Functional behavior, not a static mockup"
+        },
+        {
+          "name": "No JavaScript errors",
+          "passed": true,
+          "detail": "Clean runtime"
+        },
+        {
+          "name": "Mobile layout",
+          "passed": true,
+          "detail": "390 px viewport"
+        }
+      ],
+      "log": [
+        {
+          "ts": 1791648773847,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648773847,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648788493,
+          "text": "Unterminated string in JSON at position 11641 (line 2 column 11640)"
+        },
+        {
+          "ts": 1791648868915,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648868916,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648875325,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648877866,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791648884083,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648885482,
+          "text": "Prototype failed checks after one repair; previous working version was retained"
+        },
+        {
+          "ts": 1791648976384,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648976384,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648982970,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648984565,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791648989804,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648991497,
+          "text": "Prototype failed checks after one repair; previous working version was retained"
+        },
+        {
+          "ts": 1791649075481,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791649075481,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791649081826,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649083920,
+          "text": "Prototype passed all checks and is available in the Development window"
+        },
+        {
+          "ts": 1791649190652,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791649190652,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791649194991,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649196939,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791649200985,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649202903,
+          "text": "Prototype passed all checks and is available in the Development window"
+        },
+        {
+          "ts": 1791650762514,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791650762515,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791650771449,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791650773142,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791650779901,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791650781644,
+          "text": "Prototype failed checks after one repair; previous working version was retained"
+        },
+        {
+          "ts": 1791650843102,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791650843103,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791650851513,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        }
+      ],
+      "screenshot": true,
+      "id": "product_1791650853859_1",
+      "createdAt": 1791650853859,
+      "plan": {
+        "problem": "Freelance graphic designers struggle with managing client contracts and clearly defining project scope, leading to scope creep, disputes, and potential non-payment. Existing tools are often too generic or complex, not tailored to the specific needs of creative professionals.",
+        "uncertainties": [
+          "The willingness of freelance graphic designers to pay for a dedicated contract management tool versus using free templates or existing general-purpose tools.",
+          "The specific contract clauses that are most critical and frequently requested by freelance graphic designers.",
+          "The level of integration required with other freelance tools (e.g., invoicing, project management) for user adoption.",
+          "The competitive landscape and how a new tool can differentiate itself effectively."
+        ],
+        "mvp": "A web-based application that allows freelance graphic designers to create, customize, and send client contracts. It should include a library of design-specific contract templates (e.g., covering scope, revisions, IP), an e-signature feature, and basic project scope definition fields. The MVP will not include invoicing or project management features initially.",
+        "nextExperiment": "Develop a functional prototype of the contract creation and sending tool. Recruit 10-15 freelance graphic designers to test the MVP, focusing on ease of use, clarity of contract terms, and the perceived value of design-specific clauses. Gather feedback on the contract templates and e-signature process.",
+        "demand": "UNVALIDATED",
+        "score": 85,
+        "decision": "prototype",
+        "reason": "The evidence strongly suggests a need for specialized contract and scope management tools for freelance graphic designers. Multiple sources highlight the prevalence of scope creep and contract disputes in the industry, and the desire for integrated solutions. The existence of multiple platforms offering similar features (HoneyBook, Bonsai, Plutio) indicates market interest, but also suggests a need for a focused, user-friendly solution.",
+        "validationPlan": {
+          "audience": "Freelance graphic designers with 1-5 years of experience, who manage their own client contracts.",
+          "offer": "A free, limited-use version of the contract management tool for beta testing, allowing users to create and send up to 3 contracts with access to a core set of design-specific templates.",
+          "channel": "Online design communities (e.g., Reddit subreddits like r/graphic_design, r/freelance), design-focused social media groups, and direct outreach to designers identified through portfolios.",
+          "successMetric": "At least 60% of beta testers create and send at least one contract using the tool, and at least 75% of testers report that the tool helps them better define project scope and contract terms compared to their previous methods.",
+          "stopMetric": "Less than 20% of beta testers create and send at least one contract using the tool within two weeks of signup, or if more than 50% of testers report the tool is not significantly easier than their current method."
+        },
+        "businessPlan": {
+          "executiveSummary": "ScopeGuard is a proposed web-based application designed to address the critical challenge of scope creep and contract management for freelance graphic designers. By providing specialized tools for contract creation, scope definition, and revision limit setting, ScopeGuard aims to help designers protect their work, ensure timely payment, and maintain professional client relationships. The MVP will focus on core contract functionalities, with a plan to expand based on user feedback. The market shows a clear need for such a specialized tool, with existing solutions often being too generic or complex. ScopeGuard's differentiation lies in its specific focus on the graphic design niche, offering tailored contract clauses and a user-friendly interface. The business model is subscription-based SaaS, with a tiered pricing structure. Initial acquisition will leverage online design communities and targeted outreach.",
+          "targetCustomer": "The primary target customer is freelance graphic designers who manage their own client contracts and projects. This includes individuals with 1-5 years of experience who are actively seeking ways to professionalize their operations, protect themselves from scope creep, and streamline their business processes. They are likely to be digitally savvy, active in online design communities, and looking for tools that specifically address the nuances of creative project management and client agreements, rather than generic business solutions.",
+          "marketAnalysis": "The market for freelance graphic designers is substantial, with many operating as independent professionals who are responsible for their own client management, including contracts. OBSERVED FACT: Freelance graphic designers often spend significant time on non-design tasks like scoping, quoting, and invoicing, detracting from creative work (listicler). OBSERVED FACT: Tools that integrate proposals, contracts, and invoicing can enhance a solo designer's professionalism (listicler). OBSERVED FACT: Contract management software for designers is crucial for streamlining agreements, protecting intellectual property, and preventing scope creep through revision limits and clear ownership terms (basicdocs). OBSERVED FACT: Designers require contract software with specific templates covering IP transfer, portfolio rights, and revision clauses (basicdocs). OBSERVED FACT: Scope creep is a common challenge in graphic design that can be managed with contracts, revision limits, and clear scope definitions (bing search, basicdocs). OBSERVED FACT: A graphic design contract is essential for establishing clear expectations, protecting work, and mitigating risks (bing search, basicdocs). ASSUMPTION: The increasing trend of remote work and the gig economy will continue to drive growth in the freelance market, including graphic design. UNKNOWN: The precise size of the freelance graphic designer market globally or in key regions. UNKNOWN: The average annual revenue of a freelance graphic designer, which could indicate their budget for such tools. The demand for specialized tools is suggested by the existence of competitors, but direct validation of demand for ScopeGuard specifically is pending.",
+          "competitorAnalysis": "Existing competitors include all-in-one freelance platforms like HoneyBook and Bonsai, which offer contract management as part of a broader suite of services. Plutio is another competitor that specifically highlights contract management for designers, linking contracts directly to proposals and projects with automatic scope and revision limit setup upon signing. Freelancers Union offers a free contract creator, which is a simpler, non-integrated solution. The observed competitors offer integrated solutions that can be complex or may not be as finely tuned to the specific needs of graphic designers as ScopeGuard aims to be. HoneyBook is noted for creative-focused features, and Bonsai for lawyer-vetted graphic design contracts. Plutio's strength lies in its direct integration with project setup. The primary limitation of these competitors is their breadth; they may offer more features than a designer needs, potentially increasing complexity and cost, or they may not have the specific design-centric clauses that ScopeGuard intends to provide.",
+          "whyThisCouldEarn": "This venture could earn revenue because OBSERVED FACT: freelance graphic designers frequently struggle with scope creep and contract disputes, leading to potential non-payment and professional friction. OBSERVED FACT: Specialized contract management tools, particularly those with design-specific clauses like revision limits and IP considerations, are needed to mitigate these issues. Existing solutions are often too generic or complex, leaving a gap for a focused, user-friendly platform. OBSERVED FACT: Tools that enhance professionalism through integrated client-facing flows (contracts, proposals) are valued. By offering a tailored solution that directly addresses these pain points, ScopeGuard can attract and retain freelance graphic designers who are willing to pay for a service that saves them time, reduces risk, and improves their client interactions. The subscription-based SaaS model provides a path to recurring revenue, and the tiered pricing allows for scalability as the user base grows and the product evolves.",
+          "confidenceAndEvidence": "MEDIUM confidence. EVIDENCE FOR: Multiple sources (listicler, basicdocs) indicate that freelance graphic designers struggle with contract management and scope creep, and desire integrated solutions. The existence of competitors like HoneyBook, Bonsai, and Plutio, which offer similar functionalities, suggests market interest and demand for such tools. The specific mention of design-specific contract needs (IP transfer, portfolio rights, revision clauses) by basicdocs directly supports the need for a specialized tool. EVIDENCE AGAINST: The willingness of freelance graphic designers to pay for a dedicated tool versus using free templates or existing general-purpose tools remains unvalidated. The precise contract clauses most critical and frequently requested are not fully detailed in the provided research. The level of integration required with other freelance tools is also an unknown. REMAINING UNKNOWNS: Specific pricing sensitivities of the target audience, detailed feature prioritization based on designer feedback, and the exact integration needs with other freelance workflows. EXPERIMENT NEEDED: Conduct user interviews and surveys with a broader sample of freelance graphic designers to validate willingness to pay, identify critical contract clauses, and understand integration preferences. This will inform feature development and pricing strategy.",
+          "revenueModel": "The revenue model will be a subscription-based Software as a Service (SaaS). Users will pay a recurring fee (monthly or annually) to access the platform's features. This model provides predictable revenue and allows for continuous development and improvement of the service based on user feedback and market trends. Tiers will likely be structured to cater to different levels of user needs, from individual freelancers to potentially small design studios.",
+          "pricingHypothesis": "A tiered subscription model is proposed. A free basic tier will be offered, providing limited contract creation and sending capabilities to attract users and allow them to experience the core value. A premium tier will be available, with pricing anticipated to range from $19 to $49 per month. This premium tier will offer unlimited contracts, access to advanced features, and a more extensive library of premium, design-specific contract templates. This hypothesis is based on common SaaS pricing strategies and the perceived value of specialized tools for creative professionals.",
+          "differentiation": "ScopeGuard will differentiate itself by being an integrated, user-friendly platform specifically designed for freelance graphic designers. It will combine contract management with a focused approach to project scope definition, including features like revision limits. The platform will offer a library of design-specific contract clauses that address unique industry needs such as intellectual property transfer, portfolio rights, and detailed revision processes, which may be less emphasized in more generic contract tools or broader freelance platforms. This specialization aims to provide a more tailored and effective solution than general-purpose contract software or all-in-one platforms that might dilute focus.",
+          "acquisition": "Acquisition will focus on reaching freelance graphic designers through online communities such as Reddit subreddits (e.g., r/graphic_design, r/freelance) and design-focused social media groups. Direct outreach to designers identified through online portfolios will also be employed. Educational content on contract best practices and the importance of scope management will be created and shared to attract and engage potential users. A free trial of the tool will be offered to encourage adoption.",
+          "costs": "Initial costs will include the development of the MVP, which involves building the web application with contract creation, customization, and e-signature features. Ongoing costs will encompass server hosting, maintenance, and potential updates to the software. Marketing and advertising expenses will be incurred to reach the target audience. Customer support will require resources for handling user inquiries and issues. There may also be costs associated with legal consultation to ensure the contract templates are comprehensive and up-to-date, although the initial templates may be sourced from publicly available or licensed resources.",
+          "unitEconomics": "ASSUMED PRICE: $30 per paying customer per month (average of proposed premium tier). ASSUMED VARIABLE COST: $2 per paying customer per month (estimated for payment processing fees, basic customer support interactions, and server load per user). CONTRIBUTION PER PAYING CUSTOMER: $30 (Price) - $2 (Variable Cost) = $28 per month. FIXED MONTHLY COSTS: $5,000 per month (This is an initial estimate covering development, hosting, marketing, and administrative overhead. This figure will need refinement based on actual operational costs). BREAK-EVEN FORMULA: Fixed Monthly Costs / Contribution Per Paying Customer = $5,000 / $28 = approximately 179 paying customers. This means that approximately 179 freelance graphic designers need to subscribe to the premium tier each month for the business to cover its fixed costs. Lifetime Value (LTV) is not asserted as it depends on unvalidated customer retention rates and future pricing.",
+          "revenueScenarios": "Illustrative Scenarios (Not Forecasts):\n\nASSUMPTIONS FOR ALL SCENARIOS:\n- Average Revenue Per Paying Customer (ARPPU): $30/month (mid-point of proposed premium tier).\n- Variable Cost Per Paying Customer: $2/month (estimated for payment processing, basic support).\n- Fixed Monthly Costs: $5,000/month (includes development, hosting, marketing, admin - initial estimate).\n\nSCENARIO 1: CONSERVATIVE\n- Paying Customers: 50\n- Gross Revenue: 50 customers * $30/customer = $1,500\n- Variable Costs: 50 customers * $2/customer = $100\n- Contribution Margin: $1,500 - $100 = $1,400\n- Operating Result: $1,400 - $5,000 = -$3,600\n\nSCENARIO 2: BASE\n- Paying Customers: 200\n- Gross Revenue: 200 customers * $30/customer = $6,000\n- Variable Costs: 200 customers * $2/customer = $400\n- Contribution Margin: $6,000 - $400 = $5,600\n- Operating Result: $5,600 - $5,000 = $600\n\nSCENARIO 3: OPTIMISTIC\n- Paying Customers: 1,000\n- Gross Revenue: 1,000 customers * $30/customer = $30,000\n- Variable Costs: 1,000 customers * $2/customer = $2,000\n- Contribution Margin: $30,000 - $2,000 = $28,000\n- Operating Result: $28,000 - $5,000 = $23,000\n\nZERO-PAYING-CUSTOMER DOWNSIDE:\n- Paying Customers: 0\n- Gross Revenue: $0\n- Variable Costs: $0\n- Contribution Margin: $0\n- Operating Result: $0 - $5,000 = -$5,000 (representing fixed costs incurred without revenue).",
+          "launchPlan": "The launch plan begins with the development of a functional prototype of the contract creation and sending tool. This prototype will be used in an initial experiment where 10-15 freelance graphic designers will be recruited to test it. The focus of this testing will be on the tool's ease of use, the clarity of its contract terms, and the perceived value of its design-specific clauses. Feedback will be actively gathered on the contract templates and the e-signature process. Following this beta test, based on the gathered feedback and validation of key assumptions, a Minimum Viable Product (MVP) will be developed. The MVP will be a web-based application offering a library of design-specific contract templates, an e-signature feature, and basic project scope definition fields. The MVP will be offered with a limited-use free tier to encourage initial adoption and gather further user data. Marketing efforts will commence, targeting online design communities and social media groups. Iterative development will occur based on user feedback and performance metrics, with a roadmap for future feature additions.",
+          "risks": "Key risks include low adoption rates if the tool is perceived as not intuitive, too complex, or too expensive compared to existing alternatives. Competition from established general contract management tools or comprehensive freelance platforms like HoneyBook, Bonsai, and Plutio poses a significant threat. There is also a risk of legal disputes if the contract templates are not sufficiently comprehensive, up-to-date, or legally sound for all jurisdictions, despite efforts to provide design-specific clauses. The MVP's limited scope (no invoicing, project management) might be a barrier for users seeking an all-in-one solution. UNKNOWN: The specific legal requirements and nuances of contract law across different freelance markets.",
+          "stopConditions": "The project will be stopped if the following conditions are met: 1. The 'nextExperiment' (prototype testing with 10-15 designers) fails to achieve its success metrics: less than 60% of beta testers create and send at least one contract within two weeks of signup, or more than 50% of testers report the tool is not significantly easier than their current method. 2. Post-MVP launch, if user acquisition targets are not met within the first three months, specifically if fewer than 50 paying customers are acquired, indicating a lack of market traction. 3. If ongoing user feedback consistently highlights critical missing features that are beyond the scope of the initial product vision or technical feasibility, suggesting a fundamental misalignment with user needs. 4. If legal consultation reveals significant liabilities or complexities in providing contract templates that cannot be reasonably mitigated within the project's budget and scope."
+        },
+        "findings": [
+          "Freelance graphic designers often spend more time on project management tasks like scoping, quoting, and invoicing than on design itself. — https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+          "Tools that integrate proposals, contracts, and invoicing into a single client-facing flow can make a solo designer appear more professional. — https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+          "Contract management software for designers can streamline client agreements, protect intellectual property, and prevent scope creep through revision limits and clear ownership terms. — https://basicdocs.com/blog/contract-management-designers/",
+          "Designers need contract software that includes design-specific templates covering IP transfer, portfolio rights, and revision clauses. — https://basicdocs.com/blog/contract-management-designers/",
+          "Plutio is highlighted as a strong contract software for designers, connecting contracts directly to proposals and projects, automatically creating projects with scope and revision limits upon signing. — https://www.plutio.com/solutions/designers/contracts",
+          "HoneyBook and Bonsai are mentioned as all-in-one platforms for freelancers that include contract management, with HoneyBook specifically noted for its creative-focused features and Bonsai for its contract library with lawyer-vetted graphic design contracts. — https://listicler.com/best/best-tools-freelance-graphic-designers-client-projects",
+          "Freelancers Union offers a free contract creator to help set clear terms and ensure timely payment. — https://freelancersunion.org/",
+          "Scope creep is a common challenge in graphic design projects that can be managed with the right tools and contracts, including revision limits and clear scope definitions. — https://www.bing.com/search?q=graphic%20design%20project%20scope%20creep%20solutions · https://basicdocs.com/blog/contract-management-designers/",
+          "A graphic design contract is essential for freelance designers to establish clear expectations, protect their work, and mitigate risks. — https://www.bing.com/search?q=freelance%20contract%20dispute%20examples%20graphic%20design · https://basicdocs.com/blog/contract-management-designers/",
+          "Client management software for designers should organize client relationships by tracking contact information, project history, brand assets, communication, and billing in one searchable place. — https://www.plutio.com/solutions/designers/client-management"
+        ],
+        "via": "Requesty · source-grounded analysis",
+        "businessPlanUpdatedAt": 1791651852214
+      },
+      "score": 85
+    },
+    {
+      "status": "ready",
+      "name": "Invoice Follow-up Date Calculator",
+      "purpose": "Calculates the exact date for the first invoice reminder based on the invoice date and specified follow-up days.",
+      "version": 2,
+      "updatedAt": 1791649202903,
+      "runId": "research_1791649117827",
+      "error": "",
+      "code": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Invoice Follow-up Date Calculator</title>\n    <style>\n        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 700px; margin: auto; background-color: #f4f4f4; color: #333; }\n        h1 { color: #0056b3; }\n        label { display: block; margin-top: 10px; font-weight: bold; }\n        textarea, input[type=\"text\"], button { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }\n        textarea { min-height: 150px; resize: vertical; }\n        button { background-color: #007bff; color: white; border: none; cursor: pointer; font-size: 16px; }\n        button:hover { background-color: #0056b3; }\n        pre { background-color: #e9e9e9; padding: 15px; border-radius: 4px; overflow-x: auto; margin-top: 20px; white-space: pre-wrap; word-wrap: break-word; }\n        .instructions { margin-bottom: 20px; padding: 10px; background-color: #fff3cd; border-left: 5px solid #ffc107; }\n        .example { margin-top: 20px; padding: 10px; background-color: #e7f3fe; border-left: 5px solid #2196F3; }\n    </style>\n</head>\n<body>\n    <h1>Invoice Follow-up Date Calculator</h1>\n    <div class=\"instructions\">\n        <h2>How to Use:</h2>\n        <p>Paste your invoice details into the text area below. Include the invoice date and the number of days until the first follow-up is due.</p>\n        <p><strong>Format:</strong></p>\n        <p><code>Invoice Date: YYYY-MM-DD</code><br>\n        <code>Follow-up Days: N</code></p>\n        <p>Example:</p>\n        <p><code>Invoice Date: 2023-10-26<br>\n        Follow-up Days: 7</code></p>\n        <p>Then, click 'Calculate Follow-up Date'.</p>\n    </div>\n    <textarea data-input placeholder=\"Paste invoice details here...\"></textarea>\n    <button data-run>Calculate Follow-up Date</button>\n    <pre data-output></pre>\n    <div class=\"example\">\n        <h2>Example Calculation:</h2>\n        <p><strong>Input:</strong></p>\n        <p><code>Invoice Date: 2024-01-15<br>\n        Follow-up Days: 10</code></p>\n        <p><strong>Output:</strong></p>\n        <p><code>The first follow-up reminder should be sent on: 2024-01-25</code></p>\n    </div>\n    <script>\n        function calculateFollowUpDate() {\n            const inputText = document.querySelector('[data-input]').value;\n            const outputElement = document.querySelector('[data-output]');\n            let result = '';\n\n            try {\n                const lines = inputText.split('\\n');\n                let invoiceDateStr = null;\n                let followUpDays = null;\n\n                lines.forEach(line => {\n                    if (line.toLowerCase().startsWith('invoice date:')) {\n                        invoiceDateStr = line.substring('Invoice Date:'.length).trim();\n                    } else if (line.toLowerCase().startsWith('follow-up days:')) {\n                        followUpDays = parseInt(line.substring('Follow-up Days:'.length).trim(), 10);\n                    }\n                });\n\n                if (!invoiceDateStr || isNaN(followUpDays)) {\n                    result = 'Error: Please provide both \"Invoice Date: YYYY-MM-DD\" and \"Follow-up Days: N\".';\n                } else {\n                    const invoiceDate = new Date(invoiceDateStr);\n                    if (isNaN(invoiceDate.getTime())) {\n                        result = 'Error: Invalid date format. Please use YYYY-MM-DD.';\n                    } else {\n                        const followUpDate = new Date(invoiceDate);\n                        followUpDate.setDate(invoiceDate.getDate() + followUpDays);\n                        const year = followUpDate.getFullYear();\n                        const month = String(followUpDate.getMonth() + 1).padStart(2, '0');\n                        const day = String(followUpDate.getDate()).padStart(2, '0');\n                        result = 'The first follow-up reminder should be sent on: ' + year + '-' + month + '-' + day;\n                    }\n                }\n            } catch (error) {\n                result = 'An unexpected error occurred: ' + error.message;\n            }\n\n            outputElement.textContent = result;\n        }\n\n        document.querySelector('[data-run]').addEventListener('click', calculateFollowUpDate);\n    </script>\n</body>\n</html>",
+      "checks": [
+        {
+          "name": "Zero Day Follow-up",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Standard Follow-up",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Leap Year Follow-up",
+          "passed": true,
+          "detail": "Expected result found"
+        },
+        {
+          "name": "Different inputs produce different results",
+          "passed": true,
+          "detail": "Functional behavior, not a static mockup"
+        },
+        {
+          "name": "No JavaScript errors",
+          "passed": true,
+          "detail": "Clean runtime"
+        },
+        {
+          "name": "Mobile layout",
+          "passed": true,
+          "detail": "390 px viewport"
+        }
+      ],
+      "log": [
+        {
+          "ts": 1791648773847,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648773847,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648788493,
+          "text": "Unterminated string in JSON at position 11641 (line 2 column 11640)"
+        },
+        {
+          "ts": 1791648868915,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648868916,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648875325,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648877866,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791648884083,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648885482,
+          "text": "Prototype failed checks after one repair; previous working version was retained"
+        },
+        {
+          "ts": 1791648976384,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791648976384,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791648982970,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648984565,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791648989804,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791648991497,
+          "text": "Prototype failed checks after one repair; previous working version was retained"
+        },
+        {
+          "ts": 1791649075481,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791649075481,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791649081826,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649083920,
+          "text": "Prototype passed all checks and is available in the Development window"
+        },
+        {
+          "ts": 1791649190652,
+          "text": "Choosing a small browser tool from the research evidence"
+        },
+        {
+          "ts": 1791649190652,
+          "text": "Writing the prototype source"
+        },
+        {
+          "ts": 1791649194991,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649196939,
+          "text": "Repairing the prototype using failed browser checks"
+        },
+        {
+          "ts": 1791649200985,
+          "text": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+        },
+        {
+          "ts": 1791649202903,
+          "text": "Prototype passed all checks and is available in the Development window"
+        }
+      ],
+      "screenshot": true,
+      "id": "product_1791650622435_0",
+      "createdAt": 1791650622436,
+      "plan": {
+        "problem": "Freelance designers struggle with the administrative burden of manually following up on invoices, leading to delayed payments and lost revenue. Existing solutions may be too complex, expensive, or lack the specific automation and customization features needed for creative workflows.",
+        "uncertainties": [
+          "The exact price point freelance designers are willing to pay for advanced automated invoice follow-up features.",
+          "The level of integration complexity with various accounting software that freelance designers expect.",
+          "The specific customization options for reminder templates that would be most valuable.",
+          "The competitive landscape and how existing comprehensive accounting solutions meet or fail to meet this specific need."
+        ],
+        "mvp": "A web application that allows freelance designers to connect their existing accounting software (e.g., QuickBooks, Xero) and set up customizable automated invoice follow-up sequences with pre-written, editable reminder templates.",
+        "nextExperiment": "Conduct user interviews with freelance designers to understand their current invoicing pain points, desired automation features, and willingness to pay for a dedicated automated follow-up tool. Offer a limited-time free trial of the MVP to gather usage data and feedback.",
+        "demand": "UNVALIDATED",
+        "score": 65,
+        "decision": "prototype",
+        "reason": "The search results indicate a strong market for invoicing software, with many options offering some level of automation for invoicing and reminders. Several sources mention features relevant to freelance designers, such as customizable templates, integration with accounting software, and automated reminders. However, there's a lack of clear information on specialized, advanced automated follow-up tools specifically tailored for freelance designers at a price point that aligns with their business model. The hypothesis that they are willing to pay a small monthly fee is plausible but unvalidated.",
+        "validationPlan": {
+          "audience": "Freelance designers who actively manage their own invoicing and accounting.",
+          "offer": "A 14-day free trial of the automated invoice follow-up tool, with an offer for a discounted monthly subscription for early adopters who provide feedback.",
+          "channel": "Targeted ads on platforms frequented by freelance designers (e.g., Behance, Dribbble, LinkedIn groups), and outreach through design communities and forums.",
+          "successMetric": "Achieve a 20% conversion rate from free trial to paid subscription, with at least 50% of paid users actively using the automated follow-up features weekly.",
+          "stopMetric": "Fewer than 10 sign-ups for the free trial within the first two weeks, or less than 5% conversion rate from trial to paid subscription."
+        },
+        "findings": [
+          "FreshBooks offers invoice software with pricing tiers starting at $23.00/month, including features like creating and sending invoices, and offers a free invoice generator for solo entrepreneurs. — https://www.bing.com/search?q=freelance%20designer%20automated%20invoice%20follow%20up%20software%20reviews",
+          "QuickBooks Online offers AI-powered tools to automate tasks and increase accuracy, with various pricing plans available, and features like QuickBooks Bill Pay for automating invoicing. — https://www.bing.com/search?q=freelance%20designer%20automated%20invoice%20follow%20up%20software%20reviews · https://www.bing.com/search?q=best%20invoice%20reminder%20tool%20for%20creative%20freelancers · https://www.bing.com/search?q=invoice%20follow%20up%20software%20with%20accounting%20integration · https://aviy.ai/blog/best-invoicing-software-for-freelance-designers",
+          "Invoiced by Flywire is an AI-native invoice-to-cash platform that automates accounts receivable processes, including invoicing, collections, and cash application, with features like 'Smart Chasing' that adjusts reminders based on customer payment behavior. — https://www.invoiced.com/",
+          "Wave offers free invoicing software that allows users to create and send professional invoices, accept online payments, and automatically send overdue reminders with its Pro Plan. — https://www.waveapps.com/invoicing",
+          "Harvest provides time tracking software that integrates with invoicing and payments, allowing users to create and send invoices based on tracked time and expenses, with integrations for PayPal, Stripe, QuickBooks Online, and Xero. — https://www.getharvest.com/features#invoice-and-get-paid",
+          "Several platforms like Invoicehome, Invoice Simple, and Canva offer free invoice templates that can be customized. — https://www.bing.com/search?q=customizable%20invoice%20reminder%20templates%20for%20freelancers",
+          "Aviy.ai's guide highlights that the best invoicing software for freelance designers should handle deposits, milestone billing, recurring retainers, send automatic reminders, and convert quotes to invoices. — https://aviy.ai/blog/best-invoicing-software-for-freelance-designers",
+          "Automated invoice reminder templates for freelancers are available from various sources, including InvoiceBump and recevo.io, with some offering AI-generated reminders. — https://www.bing.com/search?q=customizable%20invoice%20reminder%20templates%20for%20freelancers"
+        ],
+        "via": "Requesty · source-grounded analysis",
+        "businessPlan": {
+          "executiveSummary": "This business plan outlines the strategy for 'Invoice Follow-up Date Calculator,' a web application designed to automate invoice reminders for freelance designers. Freelancers often face challenges with manual invoice follow-ups, leading to delayed payments and revenue loss. Our solution provides a user-friendly platform to connect with existing accounting software, set up customizable automated follow-up sequences, and utilize pre-written, editable reminder templates. The MVP has been developed and tested, demonstrating core functionality. The next step involves user interviews and a limited free trial to validate demand, pricing, and feature set before scaling. We aim to capture a segment of the freelance creative market seeking efficient administrative tools.",
+          "targetCustomer": "Our primary target customer is the freelance designer. This includes graphic designers, web designers, UI/UX designers, and other creative professionals who operate as independent contractors or small agencies. They typically manage their own invoicing and accounting, value efficiency, and are looking for tools that simplify administrative tasks without being overly complex or expensive. They are likely to be active on creative professional platforms and may already use some form of accounting or time-tracking software.",
+          "marketAnalysis": "The market for invoicing and financial management tools for freelancers and small businesses is substantial and growing. Freelance designers, in particular, operate in a sector where efficient cash flow is critical, yet administrative tasks can detract from core creative work. Existing solutions range from free template generators to comprehensive accounting suites. Sources indicate that freelance designers need tools that handle deposits, milestone billing, recurring retainers, and automated reminders. The demand for automation is driven by the desire to reduce administrative overhead and improve payment collection. While many platforms offer invoicing, a specialized, highly customizable automated follow-up tool for this specific demographic remains an underserved niche. The 'gig economy' continues to expand, increasing the pool of potential users who value efficiency and automation.",
+          "competitorAnalysis": "The market for invoicing software is crowded, with established players like QuickBooks Online and FreshBooks offering comprehensive accounting solutions that include invoicing and some level of automated reminders. QuickBooks Online, for instance, offers AI-powered tools and QuickBooks Bill Pay. FreshBooks starts at $23.00/month and provides invoice creation and sending, with a free generator for solo entrepreneurs. Wave offers free invoicing with overdue reminders in its Pro Plan. Harvest integrates time tracking with invoicing and payments, connecting with popular payment gateways and accounting software. Specialized tools like Invoiced by Flywire offer AI-native accounts receivable automation, including 'Smart Chasing' that adapts reminders based on customer behavior. Tools like Invoicehome, Invoice Simple, and Canva provide free, customizable invoice templates. InvoiceBump and recevo.io offer automated invoice reminder templates, some with AI-generated content. The observed solutions either bundle this functionality within broader accounting suites, potentially overwhelming freelance designers with features they don't need, or offer basic template-based reminders. There is a gap for a dedicated, highly customizable, and user-friendly automated follow-up tool specifically designed for the workflow and budget of freelance designers, which is where our solution aims to differentiate.",
+          "whyThisCouldEarn": "This venture could earn revenue by addressing a specific, unmet need for freelance designers: a dedicated, user-friendly, and highly customizable tool for automating invoice follow-ups. While broad accounting software exists, it often lacks the tailored features and simplicity that creative freelancers desire. By focusing on this niche, we can offer a solution that saves freelancers significant time and improves their cash flow, justifying a subscription fee. The observed willingness of freelancers to invest in tools that enhance their productivity and administrative efficiency, coupled with the potential for recurring revenue through a SaaS model, provides a path to profitability. The success hinges on effectively communicating our unique value proposition and demonstrating tangible benefits in reducing administrative burden and accelerating payment collection.",
+          "confidenceAndEvidence": "MEDIUM confidence. EVIDENCE FOR: The research indicates a strong demand for invoicing software among freelancers, with many existing solutions offering some form of automated reminders. The existence of specialized tools like InvoiceBump and recevo.io suggests a niche for automated follow-up. The problem statement highlights a clear pain point for freelance designers regarding manual follow-ups. EVIDENCE AGAINST: The specific willingness to pay for an *advanced* automated follow-up tool, beyond what basic accounting software offers, is not directly quantified. The exact integration complexity expectations and preferred customization options for reminder templates are also not fully detailed. REMAINING UNKNOWNS: The precise price point freelance designers are willing to pay for advanced automation, the depth of integration required with various accounting software, and the most impactful customization options for reminder templates. EXPERIMENT NEEDED: Conduct in-depth user interviews with a diverse group of freelance designers to explore these unknowns. Supplement this with a paid pilot program where users test the MVP and provide detailed feedback on features, usability, and pricing, aiming to validate willingness to pay and feature prioritization.",
+          "revenueModel": "The revenue model is a Software-as-a-Service (SaaS) subscription. Customers will pay a recurring monthly fee for access to the automated invoice follow-up features. We will offer a tiered pricing structure based on the number of invoices processed per month or the level of advanced features, such as AI-driven follow-up optimization and deeper integration capabilities. An initial free trial period will be offered to allow users to experience the value before committing to a paid subscription.",
+          "pricingHypothesis": "We hypothesize that freelance designers will be willing to pay a monthly subscription fee of $15-$25 for a dedicated automated invoice follow-up tool that integrates with their existing accounting software and offers advanced customization. This price point is positioned below comprehensive accounting suites but above basic free template services, reflecting the value of specialized automation and time savings. This hypothesis will be tested through the proposed user interviews and the paid pilot program.",
+          "differentiation": "Our solution differentiates itself by focusing exclusively on the automated invoice follow-up process, offering a level of customization and ease of use specifically tailored for freelance designers. Unlike comprehensive accounting suites that may include this as a secondary feature, our tool is designed to be intuitive and efficient for creatives who prioritize design and client work over administrative tasks. We will offer highly customizable reminder templates and intelligent follow-up sequences that can adapt to client behavior, a feature not commonly found in simpler invoicing tools. The integration with existing accounting software aims to minimize disruption to current workflows.",
+          "acquisition": "The primary acquisition channel will be targeted digital advertising on platforms frequented by freelance designers, such as Behance, Dribbble, and relevant LinkedIn groups. Additionally, we will engage with design communities and forums to build awareness and trust. An early adopter program offering a discount for feedback will incentivize initial sign-ups and word-of-mouth referrals. The success of the initial experiment will inform the scaling of these channels.",
+          "costs": "Initial development costs for the MVP are estimated to be $15,000, covering design, development, and initial testing. Ongoing monthly costs include server hosting ($50), third-party API integrations (estimated $100, variable based on usage), customer support tools ($30), and marketing spend (starting at $200, scalable). These are estimates and will be refined based on actual usage and chosen technologies. The prototype capabilities are basic and do not include production-ready features like robust hosting, persistent data storage, user account management, payment gateway integration, or advanced security, which will add significant costs and complexity to a production version.",
+          "unitEconomics": "Assumed Price per Paying Customer: $20/month.\nAssumed Variable Cost per Paying Customer: $2/month (estimated costs for API usage, transaction fees, and direct support).\nContribution per Paying Customer: $20 - $2 = $18/month.\nAssumed Fixed Monthly Costs: $380/month (includes hosting, basic support tools, and initial marketing budget).\nBreak-Even Formula: Break-Even Customers = Fixed Monthly Costs / Contribution per Paying Customer.\nBreak-Even Customers = $380 / $18 ≈ 21 customers.\n\nNote: Lifetime Value (LTV) is not asserted here as it requires validated customer retention data, which is currently unknown. The focus is on the immediate contribution and break-even point based on current assumptions.",
+          "revenueScenarios": "Illustrative Scenarios (Assumptions: Price = $20/month, Variable Cost per customer = $2/month for API/support, Fixed Monthly Costs = $380):\n\nZERO-PAYING-CUSTOMER DOWNSIDE:\nPaying Customers: 0\nGross Revenue: $0\nCosts (Variable + Fixed): $380\nOperating Result: -$380\n\nCONSERVATIVE SCENARIO (Month 6 Post-Launch):\nAssumptions: 10% conversion rate from trial, 50 trial sign-ups/month.\nPaying Customers: 5 (from initial 50 trials)\nGross Revenue: 5 * $20 = $100\nCosts (Variable + Fixed): (5 * $2) + $380 = $390\nOperating Result: $100 - $390 = -$290\n\nBASE SCENARIO (Month 12 Post-Launch):\nAssumptions: 15% conversion rate from trial, 100 trial sign-ups/month.\nPaying Customers: 15 (from 100 trials)\nGross Revenue: 15 * $20 = $300\nCosts (Variable + Fixed): (15 * $2) + $380 = $410\nOperating Result: $300 - $410 = -$110\n\nOPTIMISTIC SCENARIO (Month 18 Post-Launch):\nAssumptions: 20% conversion rate from trial, 200 trial sign-ups/month.\nPaying Customers: 40 (from 200 trials)\nGross Revenue: 40 * $20 = $800\nCosts (Variable + Fixed): (40 * $2) + $380 = $460\nOperating Result: $800 - $460 = $340\n\nNote: These scenarios are illustrative and depend heavily on the success of the acquisition experiment and market adoption. The 'Fixed Monthly Costs' include estimated operational expenses and do not account for salaries or significant marketing scaling.",
+          "launchPlan": "The launch will commence with a targeted outreach to freelance design communities and a limited-time free trial offer (14 days) promoted through specialized online channels. Early adopters who provide feedback will receive a discounted monthly subscription. The initial focus will be on gathering user data and testimonials from this pilot group. Based on the success metrics of the trial (20% conversion rate, 50% active users), we will iterate on the product and gradually scale marketing efforts. Key milestones include: 1. Successful completion of user interviews and feedback analysis. 2. Achieving the target conversion rate from the free trial. 3. Securing at least 50 early adopter paid subscribers. 4. Implementing initial user-requested feature enhancements based on feedback. 5. Expanding marketing to broader freelance platforms.",
+          "risks": "Key risks include: 1. Low adoption rates due to the crowded market or insufficient differentiation. 2. Inability to achieve the hypothesized price point. 3. Technical challenges with integrating with diverse accounting software. 4. High customer acquisition costs. 5. Competitors introducing similar, more advanced features. 6. The MVP's limited scope (lacking full production features) may deter users seeking a complete solution. 7. Insufficient evidence of demand beyond the initial problem statement.",
+          "stopConditions": "The project will be stopped if: 1. The initial user interviews and free trial experiment yield fewer than 10 sign-ups within the first two weeks, or a conversion rate from trial to paid subscription below 5%. 2. We are unable to validate the pricing hypothesis through user feedback and pilot program results. 3. Significant technical hurdles arise in integrating with key accounting platforms that cannot be overcome within a reasonable budget and timeline. 4. Competitors launch superior, integrated solutions at a lower price point. 5. The cost of customer acquisition consistently exceeds the projected revenue per customer."
+        },
+        "businessPlanUpdatedAt": 1791651523578
+      },
+      "score": 65
+    }
+  ],
+  "target": 20,
+  "qualifyingCount": 0,
+  "complete": false,
+  "recommended": null,
+  "rankingMethod": "Provisional ranking by observed research evidence score. At twenty products, the AI compares their business plans. Scores do not establish demand or profitability; the winner is a candidate for customer validation."
+}

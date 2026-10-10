@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Invoice Follow-up Date Calculator</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 700px; margin: auto; background-color: #f4f4f4; color: #333; }
+        h1 { color: #0056b3; }
+        label { display: block; margin-top: 10px; font-weight: bold; }
+        textarea, input[type="text"], button { width: 100%; padding: 10px; margin-top: 5px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; }
+        textarea { min-height: 150px; resize: vertical; }
+        button { background-color: #007bff; color: white; border: none; cursor: pointer; font-size: 16px; }
+        button:hover { background-color: #0056b3; }
+        pre { background-color: #e9e9e9; padding: 15px; border-radius: 4px; overflow-x: auto; margin-top: 20px; white-space: pre-wrap; word-wrap: break-word; }
+        .instructions { margin-bottom: 20px; padding: 10px; background-color: #fff3cd; border-left: 5px solid #ffc107; }
+        .example { margin-top: 20px; padding: 10px; background-color: #e7f3fe; border-left: 5px solid #2196F3; }
+    </style>
+</head>
+<body>
+    <h1>Invoice Follow-up Date Calculator</h1>
+    <div class="instructions">
+        <h2>How to Use:</h2>
+        <p>Paste your invoice details into the text area below. Include the invoice date and the number of days until the first follow-up is due.</p>
+        <p><strong>Format:</strong></p>
+        <p><code>Invoice Date: YYYY-MM-DD</code><br>
+        <code>Follow-up Days: N</code></p>
+        <p>Example:</p>
+        <p><code>Invoice Date: 2023-10-26<br>
+        Follow-up Days: 7</code></p>
+        <p>Then, click 'Calculate Follow-up Date'.</p>
+    </div>
+    <textarea data-input placeholder="Paste invoice details here..."></textarea>
+    <button data-run>Calculate Follow-up Date</button>
+    <pre data-output></pre>
+    <div class="example">
+        <h2>Example Calculation:</h2>
+        <p><strong>Input:</strong></p>
+        <p><code>Invoice Date: 2024-01-15<br>
+        Follow-up Days: 10</code></p>
+        <p><strong>Output:</strong></p>
+        <p><code>The first follow-up reminder should be sent on: 2024-01-25</code></p>
+    </div>
+    <script>
+        function calculateFollowUpDate() {
+            const inputText = document.querySelector('[data-input]').value;
+            const outputElement = document.querySelector('[data-output]');
+            let result = '';
+
+            try {
+                const lines = inputText.split('\n');
+                let invoiceDateStr = null;
+                let followUpDays = null;
+
+                lines.forEach(line => {
+                    if (line.toLowerCase().startsWith('invoice date:')) {
+                        invoiceDateStr = line.substring('Invoice Date:'.length).trim();
+                    } else if (line.toLowerCase().startsWith('follow-up days:')) {
+                        followUpDays = parseInt(line.substring('Follow-up Days:'.length).trim(), 10);
+                    }
+                });
+
+                if (!invoiceDateStr || isNaN(followUpDays)) {
+                    result = 'Error: Please provide both "Invoice Date: YYYY-MM-DD" and "Follow-up Days: N".';
+                } else {
+                    const invoiceDate = new Date(invoiceDateStr);
+                    if (isNaN(invoiceDate.getTime())) {
+                        result = 'Error: Invalid date format. Please use YYYY-MM-DD.';
+                    } else {
+                        const followUpDate = new Date(invoiceDate);
+                        followUpDate.setDate(invoiceDate.getDate() + followUpDays);
+                        const year = followUpDate.getFullYear();
+                        const month = String(followUpDate.getMonth() + 1).padStart(2, '0');
+                        const day = String(followUpDate.getDate()).padStart(2, '0');
+                        result = 'The first follow-up reminder should be sent on: ' + year + '-' + month + '-' + day;
+                    }
+                }
+            } catch (error) {
+                result = 'An unexpected error occurred: ' + error.message;
+            }
+
+            outputElement.textContent = result;
+        }
+
+        document.querySelector('[data-run]').addEventListener('click', calculateFollowUpDate);
+    </script>
+</body>
+</html>

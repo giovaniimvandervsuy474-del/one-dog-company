@@ -1,0 +1,26 @@
+/* Keep live activity and chat independently scrollable, with a visible composer. */
+.home .home-r { overflow-y: auto; overflow-x: hidden; }
+.home .home-r > .panel:first-child { display: grid; grid-template-rows: auto minmax(45px, 1fr) minmax(112px, 46%); flex: 1 0 250px !important; min-height: 250px; }
+.home .home-r > .panel:first-child > .panel-h { min-width: 0; }
+.home .home-r .activity { min-width: 0; overflow-x: hidden; overflow-y: auto; scrollbar-gutter: stable; }
+.home .home-r .activity .act { flex-shrink: 0; min-width: 0; grid-template-columns: 38px auto minmax(0, 1fr); }
+.home .home-r .chat { max-height: none; min-height: 0; min-width: 0; overflow: hidden; }
+.home .home-r .chat-b { min-height: 0; min-width: 0; overflow-y: auto; overflow-x: hidden; overflow-wrap: anywhere; scrollbar-gutter: stable; }
+.home .home-r .chat-in { flex-shrink: 0; min-width: 0; padding: 7px 8px; gap: 5px; }
+.home .home-r .chat-in input:first-child { flex: 0 1 60px; }
+.home .home-r .chat-in button { flex-shrink: 0; }
+.home .home-r .chat-err { flex-shrink: 0; overflow-wrap: anywhere; }
+.home .home-r > .panel + .panel { flex-shrink: 0; }
+
+/* Compact survival strip keeps the dashboard's main stage prominent. */
+.topbar-shell .life-timer { min-height: 34px; height: 34px; padding: 3px 16px; gap: 16px; flex-direction: row; }
+.topbar-shell .life-timer-value { font-size: 24px; line-height: 1; letter-spacing: .03em; }
+.topbar-shell .life-timer-caption { font-size: 9px; letter-spacing: .12em; }
+.topbar-shell .life-timer-note { max-width: none; font-size: 10px; line-height: 1.2; }
+@media(max-width:700px) { .topbar-shell .life-timer { gap: 12px; padding: 3px 10px; } .topbar-shell .life-timer-note { display: none; } .topbar-shell .life-timer-value { font-size: 22px; } }
+
+/* Hide unsolicited AI announcements below the activity feed. */
+.home .home-r .chat-b .msg.ai { display: none; }
+.home .home-r .chat-b:not(:has(.msg:not(.ai))) { display: none; }
+.home .home-r > .panel:first-child { grid-template-rows: auto minmax(45px, 1fr) auto; }
+.home .home-r .chat { max-height: 180px; }

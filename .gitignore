@@ -1,0 +1,18 @@
+node_modules
+dist
+.env
+.DS_Store
+chronicle/logs-archive/*.tmp
+
+# Private operational data and credentials
+.env.*
+!.env.example
+chronicle/
+config/
+workspace/
+*.pem
+*.key
+*.log
+# Sanitized autonomous exports may be committed separately.
+
+.github-ssh/

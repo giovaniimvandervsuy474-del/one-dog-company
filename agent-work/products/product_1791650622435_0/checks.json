@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Zero Day Follow-up",
+    "passed": true,
+    "detail": "Expected result found"
+  },
+  {
+    "name": "Standard Follow-up",
+    "passed": true,
+    "detail": "Expected result found"
+  },
+  {
+    "name": "Leap Year Follow-up",
+    "passed": true,
+    "detail": "Expected result found"
+  },
+  {
+    "name": "Different inputs produce different results",
+    "passed": true,
+    "detail": "Functional behavior, not a static mockup"
+  },
+  {
+    "name": "No JavaScript errors",
+    "passed": true,
+    "detail": "Clean runtime"
+  },
+  {
+    "name": "Mobile layout",
+    "passed": true,
+    "detail": "390 px viewport"
+  }
+]
