@@ -1,145 +1,5 @@
 [
   {
-    "id": "mv2o99z5-4qm-06a6",
-    "ts": 1791653538497,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: support ticket prioritization for small SaaS teams software pricing alternatives",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9aov-4qn-57b0",
-    "ts": 1791653539423,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9cta-4qo-3c27",
-    "ts": 1791653542174,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening thectoclub.com",
-    "evidence": {
-      "url": "https://thectoclub.com/it-service-management/ticket-prioritization-strategies-for-customer-support-teams/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9e7q-4qp-7b22",
-    "ts": 1791653543990,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase is processing a CAPTCHA",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9g96-4qq-4449",
-    "ts": 1791653546634,
-    "type": "founder.captcha",
-    "severity": "info",
-    "source": "founder",
-    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
-    "evidence": {
-      "url": "https://thectoclub.com/it-service-management/ticket-prioritization-strategies-for-customer-support-teams/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9ir2-4qr-9b43",
-    "ts": 1791653549870,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.title: Execution context was destroyed, most likely because of a navigation",
-    "evidence": {
-      "url": "https://thectoclub.com/it-service-management/ticket-prioritization-strategies-for-customer-support-teams/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9ir3-4qs-8dcc",
-    "ts": 1791653549871,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "support ticket prioritization for small SaaS teams reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9ir4-4qt-a79a",
-    "ts": 1791653549872,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9ise-4qu-c541",
-    "ts": 1791653549918,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase finished the CAPTCHA attempt",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9jbi-4qv-eaec",
-    "ts": 1791653550606,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.goto: Navigation to \"https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20reviews%20missing%20features\" is interrupted by another navigation to \"https://thectoclub.com/it-service-management/ticket-prioritization-strategies-for-customer-support-teams/\"\nCall log:\n  - navigating to \"https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20reviews%20missing%20features\", waiting until \"domcontentloaded\"\n",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9jbk-4qw-5e8f",
-    "ts": 1791653550608,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o9jbk-4qx-f69b",
-    "ts": 1791653550608,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2o9k40-4qy-174b",
     "ts": 1791653551632,
     "type": "founder.source_skipped",
@@ -2869,6 +2729,139 @@
     "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
     "data": {
       "pid": 650130,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2p4fbf-4mq-2474",
+    "ts": 1791654991755,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 18: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4gf0-4mr-2732",
+    "ts": 1791654993180,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4gf1-4ms-1bb4",
+    "ts": 1791654993181,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4icc-4mt-bf2b",
+    "ts": 1791654995676,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4icc-4mu-5fd8",
+    "ts": 1791654995676,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "customer review analysis for independent shops complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4ico-4mv-1abd",
+    "ts": 1791654995688,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p4pwd-4mw-11ad",
+    "ts": 1791655005469,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: customer review analysis for independent shops complaints pain points",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p5kep-4mx-3c95",
+    "ts": 1791655045009,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2p5kkm-4my-429e",
+    "ts": 1791655045222,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p5kkp-4mz-e0b8",
+    "ts": 1791655045225,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p5mp8-4mo-a591",
+    "ts": 1791655047980,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.19 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.189347239738,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2p5mpp-4mp-57d6",
+    "ts": 1791655047997,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 650439,
       "node": "v24.21.0"
     }
   }
