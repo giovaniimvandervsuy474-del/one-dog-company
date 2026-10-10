@@ -1,137 +1,5 @@
 [
   {
-    "id": "mv2ot296-4qg-61e7",
-    "ts": 1791654461610,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot297-4qh-67f8",
-    "ts": 1791654461611,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams reviews missing feature",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot303-4qi-108a",
-    "ts": 1791654462579,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot4cd-4qj-88d9",
-    "ts": 1791654464317,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.shiftbase.com",
-    "evidence": {
-      "url": "https://www.shiftbase.com/pricing",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot84h-4qk-b62e",
-    "ts": 1791654469217,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.shiftbase.com/pricing",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot84i-4ql-a6c1",
-    "ts": 1791654469218,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Shiftbase pricing: free for up to 15 employees, 14-day trial",
-    "evidence": {
-      "url": "https://www.shiftbase.com/pricing",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ot8w4-4qm-a6a2",
-    "ts": 1791654470212,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.shiftbase.com/pricing",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otanw-4qn-9558",
-    "ts": 1791654472508,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.trustpilot.com",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/rippling.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otezb-4qo-778e",
-    "ts": 1791654478103,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/rippling.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otezc-4qp-390b",
-    "ts": 1791654478104,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Rippling Reviews | Read Customer Service Reviews of rippling.com",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/rippling.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otfqm-4qq-e0e4",
-    "ts": 1791654479086,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/rippling.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2othd2-4qr-4718",
     "ts": 1791654481190,
     "type": "founder.navigate",
@@ -2849,6 +2717,128 @@
     "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
     "data": {
       "pid": 653048,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2py8n0-4mq-1a9f",
+    "ts": 1791656382780,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 24: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2py9zg-4mr-43ea",
+    "ts": 1791656384524,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous cycle's research indicates a strong need for specialized timeline estimation tools among freelance illustrators, as existing general-purpose software and basic calculators do not adequately address the multi-faceted nature of creative work. The proposed interactive calculator aims to fill this gap by offering a granular breakdown of illustration stages, revision handling, and complexity adjustments. The previous decision to prototype is validated by the identified market gap and the potential for a subscription model. The next step is to gather more specific user feedback on the proposed features and validate demand through direct user interaction.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pyc0m-4ms-13a2",
+    "ts": 1791656387158,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pyc0o-4mt-2ae7",
+    "ts": 1791656387160,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pyc0z-4mu-b7e1",
+    "ts": 1791656387172,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pyixx-4mv-bc58",
+    "ts": 1791656396133,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pywt9-4mw-429f",
+    "ts": 1791656414109,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2pywyl-4mx-dcca",
+    "ts": 1791656414301,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pywyq-4my-bf10",
+    "ts": 1791656414306,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pyz31-4mo-c0f3",
+    "ts": 1791656417053,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.22 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.2190909915331,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2pyz5e-4mp-2780",
+    "ts": 1791656417138,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 653395,
       "node": "v24.21.0"
     }
   }
