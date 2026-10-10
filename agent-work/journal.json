@@ -1,135 +1,5 @@
 [
   {
-    "id": "mv2osnno-4q5-6400",
-    "ts": 1791654442692,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "work shift handoff summaries for small hospitality teams software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osnnp-4q6-c351",
-    "ts": 1791654442693,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osqv1-4q7-bb1c",
-    "ts": 1791654446845,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osqv2-4q8-ce86",
-    "ts": 1791654446846,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams software pricing altern",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osrlx-4q9-c2d6",
-    "ts": 1791654447813,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osszg-4qa-862a",
-    "ts": 1791654449596,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.shiftsummary.io",
-    "evidence": {
-      "url": "https://www.shiftsummary.io/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oswbq-4qb-e934",
-    "ts": 1791654453926,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.shiftsummary.io/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oswbr-4qc-cfdf",
-    "ts": 1791654453927,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: ShiftSummary — Structured Shift Handoffs for Hospitality Teams",
-    "evidence": {
-      "url": "https://www.shiftsummary.io/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osx2q-4qd-085d",
-    "ts": 1791654454898,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.shiftsummary.io/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osz20-4qe-4d6b",
-    "ts": 1791654457464,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "work shift handoff summaries for small hospitality teams reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osz20-4qf-8df9",
-    "ts": 1791654457464,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2ot296-4qg-61e7",
     "ts": 1791654461610,
     "type": "founder.read",
@@ -2857,6 +2727,129 @@
     "evidence": {
       "url": "https://www.bing.com/search?q=best%20project%20timeline%20calculator%20for%20artists",
       "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ptyp4-4pd-4aac",
+    "ts": 1791656183272,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+project+timeline+calculator+for+artists&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+project+timeline+calculator+for+artists&sc=12-44&qs=n&sk=&cvid=AF248ACCA4C74814A2470DC5FF2034E8",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ptyp9-4pe-b648",
+    "ts": 1791656183277,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: best project timeline calculator for artists - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+project+timeline+calculator+for+artists&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+project+timeline+calculator+for+artists&sc=12-44&qs=n&sk=&cvid=AF248ACCA4C74814A2470DC5FF2034E8",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ptza0-4pf-b840",
+    "ts": 1791656184024,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+project+timeline+calculator+for+artists&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+project+timeline+calculator+for+artists&sc=12-44&qs=n&sk=&cvid=AF248ACCA4C74814A2470DC5FF2034E8",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pu9z7-4pg-9055",
+    "ts": 1791656197891,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence suggests a clear need for better timeline estimation tools among freelance illustrators, but existing solutions are either too general or focus on pricing rather than detailed temporal breakdown. The proposed interactive calculator directly addresses this gap with a specialized approach. The market exists, and a subscription model is viable, making a prototype a logical next step to validate demand and refine the product.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pu9zc-4ph-ac81",
+    "ts": 1791656197896,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pu9zm-4pi-6d17",
+    "ts": 1791656197906,
+    "type": "founder.prototype_deferred",
+    "severity": "info",
+    "source": "founder",
+    "title": "Continuing research instead of building from weak evidence",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pu9zn-4pj-156c",
+    "ts": 1791656197907,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pxr0n-4pk-98e7",
+    "ts": 1791656359943,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2pxr0r-4pl-4fe4",
+    "ts": 1791656359947,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pxt76-4mo-1079",
+    "ts": 1791656362770,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.22 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.2185359070488,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2pxt7n-4mp-6ceb",
+    "ts": 1791656362787,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 653048,
+      "node": "v24.21.0"
     }
   }
 ]
