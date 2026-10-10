@@ -1,542 +1,5 @@
 [
   {
-    "id": "mv2nqhmq-4nl-0434",
-    "ts": 1791652661954,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening scopedue.com",
-    "evidence": {
-      "url": "https://scopedue.com/pricing/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqlki-4nm-7ca5",
-    "ts": 1791652667058,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://scopedue.com/pricing/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqlkj-4nn-7346",
-    "ts": 1791652667059,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: ScopeDue Pricing — $29/mo, one plan, everything included (30-day free trial)",
-    "evidence": {
-      "url": "https://scopedue.com/pricing/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqmc8-4no-3cf1",
-    "ts": 1791652668056,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://scopedue.com/pricing/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqnzg-4np-fa71",
-    "ts": 1791652670188,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.trustpilot.com",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/relayfi.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqst8-4nq-49a5",
-    "ts": 1791652676444,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase is processing a CAPTCHA",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqu1f-4nr-dd00",
-    "ts": 1791652678035,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n  - waiting for fonts to load...\n  - fonts loaded\n",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/relayfi.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqu28-4ns-9a53",
-    "ts": 1791652678064,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening agiled.app",
-    "evidence": {
-      "url": "https://agiled.app/blog/best-invoicing-software-for-freelancers",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqwut-4nt-8b5d",
-    "ts": 1791652681685,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase finished the CAPTCHA attempt",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqye8-4nu-5992",
-    "ts": 1791652683680,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://agiled.app/blog/best-invoicing-software-for-freelancers",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqyea-4nv-b26c",
-    "ts": 1791652683682,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: 13 Best Invoicing Software for Freelancers (2026) | Agiled",
-    "evidence": {
-      "url": "https://agiled.app/blog/best-invoicing-software-for-freelancers",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqz8w-4nw-3a37",
-    "ts": 1791652684784,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://agiled.app/blog/best-invoicing-software-for-freelancers",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nr0ox-4nx-0885",
-    "ts": 1791652686657,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening taskip.net",
-    "evidence": {
-      "url": "https://taskip.net/invoicing-software-for-freelancers/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nr552-4ny-d68d",
-    "ts": 1791652692422,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://taskip.net/invoicing-software-for-freelancers/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nr554-4nz-34e7",
-    "ts": 1791652692424,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Best Invoicing Software for Freelancers in 2026 (12 Tools Compared)",
-    "evidence": {
-      "url": "https://taskip.net/invoicing-software-for-freelancers/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nr6hb-4o0-c0b6",
-    "ts": 1791652694159,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://taskip.net/invoicing-software-for-freelancers/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrclj-4o1-7e69",
-    "ts": 1791652702087,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2nrcln-4o2-6796",
-    "ts": 1791652702091,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nremn-4mo-e08d",
-    "ts": 1791652704720,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.13 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1337758351998,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2nren2-4mp-b3ac",
-    "ts": 1791652704734,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 645998,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2nru2h-4mq-5b62",
-    "ts": 1791652724729,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 8: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrva3-4mr-e388",
-    "ts": 1791652726299,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrva4-4ms-512d",
-    "ts": 1791652726300,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrwx0-4mt-b8da",
-    "ts": 1791652728420,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrwx0-4mu-d8d7",
-    "ts": 1791652728420,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "customer review analysis for independent shops complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nrwxd-4mv-db81",
-    "ts": 1791652728433,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns29v-4mw-e8c2",
-    "ts": 1791652735363,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns29v-4mx-88e5",
-    "ts": 1791652735363,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns2ad-4my-0c79",
-    "ts": 1791652735381,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns79s-4mz-57fa",
-    "ts": 1791652741840,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns79u-4n0-fbc9",
-    "ts": 1791652741842,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: customer review analysis for independent shops complaints pain points at DuckDuc",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ns9k6-4n1-6d12",
-    "ts": 1791652744806,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=customer%20review%20analysis%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsb0k-4n2-255f",
-    "ts": 1791652746692,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening bigideasdb.com",
-    "evidence": {
-      "url": "https://bigideasdb.com/customer-pain-point-analysis",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsfog-4n3-b416",
-    "ts": 1791652752736,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://bigideasdb.com/customer-pain-point-analysis",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsfoh-4n4-41c7",
-    "ts": 1791652752737,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "customer review analysis for independent shops software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsfoh-4n5-1c1e",
-    "ts": 1791652752737,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsj36-4n6-29b3",
-    "ts": 1791652757154,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsj37-4n7-b63f",
-    "ts": 1791652757155,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: customer review analysis for independent shops software pricing alternatives - S",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsjyf-4n8-c43b",
-    "ts": 1791652758279,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsm2z-4n9-cc14",
-    "ts": 1791652761035,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening businessmarketingworld.com",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/uncategorized/customer-reviews-address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nspof-4na-c58c",
-    "ts": 1791652765695,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/uncategorized/customer-reviews-address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nspog-4nb-f816",
-    "ts": 1791652765696,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: How to Use Customer Reviews to Identify and Address Pain Points – Business & Mar",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/uncategorized/customer-reviews-address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsqen-4nc-47e7",
-    "ts": 1791652766639,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/uncategorized/customer-reviews-address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsrpp-4nd-b4a2",
-    "ts": 1791652768333,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "customer review analysis for independent shops reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsrpp-4ne-47b6",
-    "ts": 1791652768333,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsv3u-4nf-764f",
-    "ts": 1791652772730,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2nsv3v-4ng-1600",
     "ts": 1791652772731,
     "type": "founder.source",
@@ -2883,6 +2346,548 @@
     "severity": "info",
     "source": "founder",
     "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omdcd-4oi-5775",
+    "ts": 1791654149389,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 13: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omek0-4oj-2470",
+    "ts": 1791654150960,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      2\n    ],\n    \"message\": \"Invalid URL; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omek1-4ok-15df",
+    "ts": 1791654150961,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omgam-4ol-3c14",
+    "ts": 1791654153214,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omgam-4om-bff9",
+    "ts": 1791654153214,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "project scope comparison for web studios complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omgan-4on-b2ad",
+    "ts": 1791654153215,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omjpe-4oo-e2f6",
+    "ts": 1791654157634,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omjpf-4op-baeb",
+    "ts": 1791654157635,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: project scope comparison for web studios complaints pain points - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omkh5-4oq-920a",
+    "ts": 1791654158633,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omlun-4or-a9f2",
+    "ts": 1791654160415,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.trustpilot.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omq1t-4os-6d9f",
+    "ts": 1791654165857,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase is processing a CAPTCHA",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omqjs-4ot-a2af",
+    "ts": 1791654166504,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omqjt-4ou-c48c",
+    "ts": 1791654166505,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Odoo Reviews | Read Customer Service Reviews of odoo.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omrk9-4ov-f5d7",
+    "ts": 1791654167817,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/odoo.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omsjm-4ow-41a2",
+    "ts": 1791654169090,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase finished the CAPTCHA attempt",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omuq7-4ox-9747",
+    "ts": 1791654171919,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "project scope comparison for web studios software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omuq7-4oy-5501",
+    "ts": 1791654171919,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omy0k-4oz-d0c1",
+    "ts": 1791654176180,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omy0l-4p0-06dc",
+    "ts": 1791654176181,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: project scope comparison for web studios software pricing alternatives - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2omyrw-4p1-4312",
+    "ts": 1791654177164,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on0xv-4p2-6fad",
+    "ts": 1791654179971,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening scopestack.ai",
+    "evidence": {
+      "url": "https://scopestack.ai/blog/how-to-scope-web-design-project",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on4dw-4p3-3e59",
+    "ts": 1791654184436,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://scopestack.ai/blog/how-to-scope-web-design-project",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on4dy-4p4-e064",
+    "ts": 1791654184438,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: How to Scope a Web Design Project: Step-by-Step Guide | ScopeStack",
+    "evidence": {
+      "url": "https://scopestack.ai/blog/how-to-scope-web-design-project",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on56w-4p5-f850",
+    "ts": 1791654185480,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://scopestack.ai/blog/how-to-scope-web-design-project",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on6x9-4p6-5830",
+    "ts": 1791654187725,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "project scope comparison for web studios reviews missing features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2on6xa-4p7-b5b8",
+    "ts": 1791654187726,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onadj-4p8-fc0d",
+    "ts": 1791654192199,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onadk-4p9-9f73",
+    "ts": 1791654192200,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: project scope comparison for web studios reviews missing features - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onb59-4pa-9c22",
+    "ts": 1791654193197,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=project%20scope%20comparison%20for%20web%20studios%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oncj0-4pb-a2a9",
+    "ts": 1791654194988,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening bigideasdb.com",
+    "evidence": {
+      "url": "https://bigideasdb.com/web-developer-pain-points-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ong65-4pc-d3fe",
+    "ts": 1791654199709,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://bigideasdb.com/web-developer-pain-points-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ong6c-4pd-25c1",
+    "ts": 1791654199716,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Web Developer Pain Points in 2026 (Real Complaints)",
+    "evidence": {
+      "url": "https://bigideasdb.com/web-developer-pain-points-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ongy3-4pe-3d08",
+    "ts": 1791654200715,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://bigideasdb.com/web-developer-pain-points-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onihf-4pf-b41e",
+    "ts": 1791654202707,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.sitepoint.com",
+    "evidence": {
+      "url": "https://www.sitepoint.com/community/t/common-pain-points-for-clients-of-web-design-and-development-studios-share-your-negative-experiences/414857/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onmz8-4pg-2acd",
+    "ts": 1791654208532,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.sitepoint.com/community/t/common-pain-points-for-clients-of-web-design-and-development-studios-share-your-negative-experiences/414857",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onmza-4ph-0e05",
+    "ts": 1791654208534,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Common Pain Points for Clients of Web Design and Development Studios: Share Your",
+    "evidence": {
+      "url": "https://www.sitepoint.com/community/t/common-pain-points-for-clients-of-web-design-and-development-studios-share-your-negative-experiences/414857",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onnsb-4pi-4053",
+    "ts": 1791654209579,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.sitepoint.com/community/t/common-pain-points-for-clients-of-web-design-and-development-studios-share-your-negative-experiences/414857",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onpb3-4pj-1def",
+    "ts": 1791654211551,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening kuberstar.com",
+    "evidence": {
+      "url": "https://kuberstar.com/tools",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onto8-4pk-29f1",
+    "ts": 1791654217208,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://kuberstar.com/tools",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onto9-4pl-36b6",
+    "ts": 1791654217209,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Project Cost Calculators - Website & App Pricing | KUBERSTAR",
+    "evidence": {
+      "url": "https://kuberstar.com/tools",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onufo-4pm-beea",
+    "ts": 1791654218196,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://kuberstar.com/tools",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onvub-4pn-fbcb",
+    "ts": 1791654220019,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.stratagem-systems.com",
+    "evidence": {
+      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onze1-4po-5ee4",
+    "ts": 1791654224617,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2onze3-4pp-4a4d",
+    "ts": 1791654224619,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: How to Compare Software Development Proposals in 2026 (Beyond Hourly Rate)",
+    "evidence": {
+      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oo061-4pq-1b43",
+    "ts": 1791654225625,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ooe9m-4pr-d753",
+    "ts": 1791654243898,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
     "evidence": {
       "file": "workspace/research/report.json"
     }
