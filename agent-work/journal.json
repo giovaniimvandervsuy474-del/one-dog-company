@@ -1,460 +1,5 @@
 [
   {
-    "id": "mv2oxmlk-4mv-8883",
-    "ts": 1791654674600,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oxu52-4mw-85c0",
-    "ts": 1791654684374,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: manual client reporting for small marketing agencies complaints pain points",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oz2u5-4mx-d8b0",
-    "ts": 1791654742301,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oz2u6-4my-67b2",
-    "ts": 1791654742302,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: manual client reporting for small marketing agencies complaints pain points - Se",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oz3jp-4mz-981d",
-    "ts": 1791654743221,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oz4u5-4n0-0bfa",
-    "ts": 1791654744893,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening plaintrack.io",
-    "evidence": {
-      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozj1x-4n1-1723",
-    "ts": 1791654763317,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozj1z-4n2-ba6f",
-    "ts": 1791654763319,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Client Reporting Checklist for Small Agencies | PlainTrack",
-    "evidence": {
-      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozjr4-4n3-453d",
-    "ts": 1791654764224,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozl23-4n4-d14b",
-    "ts": 1791654765915,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "manual client reporting for small marketing agencies software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozl24-4n5-1115",
-    "ts": 1791654765916,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ozrnu-4n6-266c",
-    "ts": 1791654774474,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: manual client reporting for small marketing agencies software pricing alternatives",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p02ly-4n7-7221",
-    "ts": 1791654788662,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2p02rl-4n8-faa2",
-    "ts": 1791654788865,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle stopped by the operator",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p02ro-4n9-5c3f",
-    "ts": 1791654788868,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p04zu-4mo-293e",
-    "ts": 1791654791754,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.18 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.183728289426,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2p050b-4mp-2d1e",
-    "ts": 1791654791771,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 649686,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2p0kfo-4mq-d2b3",
-    "ts": 1791654811764,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 17: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0lo6-4mr-1c26",
-    "ts": 1791654813366,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0lo7-4ms-0ac1",
-    "ts": 1791654813367,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0ngp-4mt-35ce",
-    "ts": 1791654815689,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0ngp-4mu-0e02",
-    "ts": 1791654815689,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "invoice follow-up for freelance designers complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0nh1-4mv-e4fb",
-    "ts": 1791654815701,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p0uzu-4mw-6c97",
-    "ts": 1791654825450,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: invoice follow-up for freelance designers complaints pain points",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p1lvv-4mx-2508",
-    "ts": 1791654860299,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p1lvx-4my-9287",
-    "ts": 1791654860301,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: invoice follow-up for freelance designers complaints pain points - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p1mlo-4mz-9a0c",
-    "ts": 1791654861228,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p1ow8-4n0-fecc",
-    "ts": 1791654864200,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.usecollect.co",
-    "evidence": {
-      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p2645-4n1-cc72",
-    "ts": 1791654886517,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p2646-4n2-28dc",
-    "ts": 1791654886518,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Invoice Dispute Resolution for Freelancers: Escalation Guide — Collect | Collect",
-    "evidence": {
-      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p26tt-4n3-5986",
-    "ts": 1791654887441,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p290b-4n4-cc2d",
-    "ts": 1791654890267,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "invoice follow-up for freelance designers software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p290b-4n5-f44e",
-    "ts": 1791654890267,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p2g08-4n6-93d2",
-    "ts": 1791654899336,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: invoice follow-up for freelance designers software pricing alternatives",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p38rn-4n7-bb94",
-    "ts": 1791654936611,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p38ro-4n8-8ece",
-    "ts": 1791654936612,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: invoice follow-up for freelance designers software pricing alternatives - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p39he-4n9-014b",
-    "ts": 1791654937538,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p3asm-4na-a51a",
-    "ts": 1791654939238,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening invoiceformly.com",
-    "evidence": {
-      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2p3sv0-4nb-575b",
-    "ts": 1791654962652,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2p3sv2-4nc-bf8e",
     "ts": 1791654962654,
     "type": "founder.source",
@@ -2828,6 +2373,464 @@
     "source": "founder",
     "title": "Cycle complete: evidence and decisions are available for review",
     "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q99ll-4no-0f0c",
+    "ts": 1791656897241,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 26: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q9axj-4np-f27c",
+    "ts": 1791656898967,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous research indicates a clear problem for freelance illustrators in accurately estimating project timelines for complex commissions. Existing tools are either too general or lack the specific features needed to account for the iterative and subjective nature of creative work. The proposed MVP, a web-based interactive calculator, directly addresses this gap. The next step is to validate the demand and gather more specific insights into user needs before full prototype development.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q9coo-4nq-4dd3",
+    "ts": 1791656901240,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q9coq-4nr-c19e",
+    "ts": 1791656901242,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q9cor-4ns-1345",
+    "ts": 1791656901243,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q9jd1-4nt-d12c",
+    "ts": 1791656909893,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa55k-4nu-613e",
+    "ts": 1791656938136,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=28A4797A229444658F370056FE6CCE6B",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa55n-4nv-a1b7",
+    "ts": 1791656938139,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator timeline estimation tool complaints - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=28A4797A229444658F370056FE6CCE6B",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa5p3-4nw-ea4d",
+    "ts": 1791656938839,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=28A4797A229444658F370056FE6CCE6B",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa6bc-4nx-0703",
+    "ts": 1791656939640,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.reddit.com",
+    "evidence": {
+      "url": "https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa9yl-4ny-b3fa",
+    "ts": 1791656944365,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qa9yn-4nz-599e",
+    "ts": 1791656944367,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: ",
+    "evidence": {
+      "url": "https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qaai4-4o0-4bb2",
+    "ts": 1791656945068,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.reddit.com/r/webdev/comments/1bjrnox/freelancers_how_the_hell_do_i_come_up_with/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qab33-4o1-cf7c",
+    "ts": 1791656945823,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best software for illustration project timeline planning",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qab35-4o2-d823",
+    "ts": 1791656945825,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20software%20for%20illustration%20project%20timeline%20planning",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qah3a-4o3-aa51",
+    "ts": 1791656953606,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: best software for illustration project timeline planning",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20software%20for%20illustration%20project%20timeline%20planning",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb31a-4o4-95d7",
+    "ts": 1791656982047,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+software+for+illustration+project+timeline+planning&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+software+for+illustration+project+timeline+planning&sc=7-56&qs=n&sk=&cvid=5F8D9EAD2D0540D594B69B483D764489",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb31f-4o5-bda8",
+    "ts": 1791656982051,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: best software for illustration project timeline planning - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+software+for+illustration+project+timeline+planning&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+software+for+illustration+project+timeline+planning&sc=7-56&qs=n&sk=&cvid=5F8D9EAD2D0540D594B69B483D764489",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb3lc-4o6-2f81",
+    "ts": 1791656982768,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best+software+for+illustration+project+timeline+planning&form=QBLH&sp=-1&ghc=1&lq=0&pq=best+software+for+illustration+project+timeline+planning&sc=7-56&qs=n&sk=&cvid=5F8D9EAD2D0540D594B69B483D764489",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb49h-4o7-4487",
+    "ts": 1791656983637,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.ziprecruiter.com",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/Freelancer-Illustrator-How-do-freelance-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb5tj-4o8-a558",
+    "ts": 1791656985655,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase is processing a CAPTCHA",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb7pu-4o9-32a9",
+    "ts": 1791656988114,
+    "type": "founder.captcha",
+    "severity": "info",
+    "source": "founder",
+    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/Freelancer-Illustrator-How-do-freelance-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb91z-4oa-7b68",
+    "ts": 1791656989847,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase finished the CAPTCHA attempt",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9et-4ob-766f",
+    "ts": 1791656990309,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.title: Execution context was destroyed, most likely because of a navigation",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/Freelancer-Illustrator-How-do-freelance-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9ex-4oc-60ee",
+    "ts": 1791656990313,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration projects revisions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9f0-4od-e191",
+    "ts": 1791656990316,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9r3-4oe-5149",
+    "ts": 1791656990751,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "locator.evaluateAll: Execution context was destroyed, most likely because of a navigation",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9r6-4of-a60b",
+    "ts": 1791656990754,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qb9rp-4og-ab46",
+    "ts": 1791656990773,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbdvr-4oh-1c87",
+    "ts": 1791656996103,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbdvw-4oi-3e56",
+    "ts": 1791656996108,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: how to estimate time for complex illustration projects revisions at DuckDuckGo",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbefj-4oj-3ec0",
+    "ts": 1791656996815,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects%20revisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbf0x-4ok-bc45",
+    "ts": 1791656997585,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.ziprecruiter.com",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/freelance-graphic-designer-illustrator-how-do-freelance-graphic-designer-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbiv0-4ol-ee79",
+    "ts": 1791657002556,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/freelance-graphic-designer-illustrator-how-do-freelance-graphic-designer-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbiv6-4om-3121",
+    "ts": 1791657002562,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: How do freelance graphic designer illustrators typically manage client communica",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/freelance-graphic-designer-illustrator-how-do-freelance-graphic-designer-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbjeo-4on-c7fd",
+    "ts": 1791657003264,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.ziprecruiter.com/e/freelance-graphic-designer-illustrator-how-do-freelance-graphic-designer-illustrators-typically-manage-client-communication-and-project-timelines",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbk02-4oo-28c7",
+    "ts": 1791657004034,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustration project management software features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbk07-4op-0775",
+    "ts": 1791657004039,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustration%20project%20management%20software%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qbpwx-4oq-09cd",
+    "ts": 1791657011697,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustration project management software features",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustration%20project%20management%20software%20features",
       "file": "workspace/research/report.json"
     }
   }
