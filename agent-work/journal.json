@@ -1,89 +1,5 @@
 [
   {
-    "id": "mv2q0a4f-4mw-051a",
-    "ts": 1791656478015,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0a4j-4mx-7e2f",
-    "ts": 1791656478019,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: freelance illustrator timeline estimation tool - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0aqn-4my-5f20",
-    "ts": 1791656478815,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0be7-4mz-0a9e",
-    "ts": 1791656479664,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening lancertools.com",
-    "evidence": {
-      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0fgn-4n0-7d57",
-    "ts": 1791656484935,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0fgq-4n1-d9df",
-    "ts": 1791656484938,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Freelance Illustrator Rate Calculator — What Should You Charge? | LancerTools",
-    "evidence": {
-      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0g2p-4n2-6165",
-    "ts": 1791656485729,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2q0gp5-4n3-ee94",
     "ts": 1791656486537,
     "type": "founder.research_question",
@@ -2812,5 +2728,73 @@
     "severity": "info",
     "source": "founder",
     "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2rest8-4tu-4c7c",
+    "ts": 1791658835036,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Generation was incomplete; retrying once with a smaller implementation"
+  },
+  {
+    "id": "mv2restd-4tv-9103",
+    "ts": 1791658835041,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2rfj9v-4tw-09d7",
+    "ts": 1791658869331,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Product must expose the input, run button and output"
+  },
+  {
+    "id": "mv2rfjag-4tx-7953",
+    "ts": 1791658869352,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rjgnp-4ty-340c",
+    "ts": 1791659052565,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 31: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rjhnx-4tz-2de0",
+    "ts": 1791659053869,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "Freelance illustrators struggle with accurately estimating project timelines for complex commissions, leading to under- or over-promising. Existing generic project management tools do not specifically address the unique variables and iterative nature of illustration projects. A specialized, interactive calculator is hypothesized to solve this problem.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rjhnx-4u0-b688",
+    "ts": 1791659053869,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase daily time budget reached",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
   }
 ]
