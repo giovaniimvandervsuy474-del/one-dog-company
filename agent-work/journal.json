@@ -1,754 +1,5 @@
 [
   {
-    "id": "mv2mm6rw-4p2-6945",
-    "ts": 1791650781644,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Prototype failed checks after one repair; previous working version was retained"
-  },
-  {
-    "id": "mv2mm6ry-4p3-8cbe",
-    "ts": 1791650781646,
-    "type": "founder.completed",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle complete: evidence and decisions are available for review",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mn8k8-4p4-974a",
-    "ts": 1791650830616,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2mn8k9-4p5-b6be",
-    "ts": 1791650830617,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mnaoj-4mo-1d3b",
-    "ts": 1791650833363,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0703240947934,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2mnap0-4mp-1cd8",
-    "ts": 1791650833380,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 640110,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2mni72-4mq-5d3a",
-    "ts": 1791650843102,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Choosing a small browser tool from the research evidence"
-  },
-  {
-    "id": "mv2mni73-4mr-beb1",
-    "ts": 1791650843103,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2mnoop-4ms-52fd",
-    "ts": 1791650851513,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
-  },
-  {
-    "id": "mv2mnqhw-4mt-500b",
-    "ts": 1791650853860,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Prototype passed all checks and is available in the Development window"
-  },
-  {
-    "id": "mv2mpogt-4mu-a97a",
-    "ts": 1791650944541,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2mpogu-4mv-c0e1",
-    "ts": 1791650944542,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mpqjy-4mo-8bfd",
-    "ts": 1791650947246,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0725845199132,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2mpqmj-4mp-57fa",
-    "ts": 1791650947339,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 640857,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2mq9ww-4mq-5b01",
-    "ts": 1791650972336,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 4: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqbco-4mr-ee8f",
-    "ts": 1791650974200,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "While contract management tools exist for general freelancers, there's a gap for illustrators specifically dealing with the nuances of art licensing. Existing solutions may not adequately address royalty tracking, specific usage rights (e.g., print vs. digital, territory), or duration of licenses, which are critical for illustrators. This niche focuses on a specific type of creative professional and a distinct problem within contract management.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqcx8-4ms-a758",
-    "ts": 1791650976236,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqcx9-4mt-359d",
-    "ts": 1791650976237,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator licensing agreement template",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqcxj-4mu-7540",
-    "ts": 1791650976247,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqg7q-4mv-9fd5",
-    "ts": 1791650980502,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqg7r-4mw-bc05",
-    "ts": 1791650980503,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: freelance illustrator licensing agreement template - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqgyq-4mx-30de",
-    "ts": 1791650981474,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20licensing%20agreement%20template",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqibd-4my-54d7",
-    "ts": 1791650983225,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.deviantart.com",
-    "evidence": {
-      "url": "https://www.deviantart.com/forum/topic/art-licensing/178667",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqmuj-4mz-489f",
-    "ts": 1791650989099,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.deviantart.com/users/login",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqmuk-4n0-7ab5",
-    "ts": 1791650989100,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Log In | DeviantArt",
-    "evidence": {
-      "url": "https://www.deviantart.com/users/login",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqnlf-4n1-ef51",
-    "ts": 1791650990067,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.deviantart.com/users/login",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqoet-4n2-09e2",
-    "ts": 1791650991125,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2mqokl-4n3-1451",
-    "ts": 1791650991333,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle stopped by the operator",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqokq-4n4-71a6",
-    "ts": 1791650991338,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mqqnj-4mo-0b76",
-    "ts": 1791650994032,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.07 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0732414399591,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2mqqq0-4mp-ee90",
-    "ts": 1791650994120,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 641245,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2mra09-4mq-37bf",
-    "ts": 1791651019113,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 5: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrbf8-4mr-f83f",
-    "ts": 1791651020948,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The previous cycles focused on graphic designers and invoicing. This cycle targets freelance illustrators, a distinct but related creative field. The problem of managing client feedback and revisions is a common pain point in creative work, and a specialized tool could offer significant value by improving efficiency and reducing errors, which is a distinct problem from scope creep or invoice follow-up.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrdwn-4ms-7244",
-    "ts": 1791651024167,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrdwn-4mt-5e37",
-    "ts": 1791651024167,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator client feedback management software",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrdwx-4mu-a57b",
-    "ts": 1791651024177,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20client%20feedback%20management%20software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrjap-4mv-f0d2",
-    "ts": 1791651031153,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20client%20feedback%20management%20software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrjaq-4mw-701d",
-    "ts": 1791651031154,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrjb9-4mx-97f9",
-    "ts": 1791651031173,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20client%20feedback%20management%20software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrqbb-4my-fbc0",
-    "ts": 1791651040247,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20client%20feedback%20management%20software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mrqbs-4mz-5a0f",
-    "ts": 1791651040264,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.behance.net",
-    "evidence": {
-      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ms0h8-4n0-a32c",
-    "ts": 1791651053420,
-    "type": "founder.captcha",
-    "severity": "info",
-    "source": "founder",
-    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
-    "evidence": {
-      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mskxw-4n1-d26b",
-    "ts": 1791651079940,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "Human verification was not resolved; moving to another source",
-    "evidence": {
-      "url": "https://www.behance.net/gallery/164767931/Illustration-Portfolio-2023",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mskxx-4n2-0fa1",
-    "ts": 1791651079941,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "how to organize illustration revisions",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mskxx-4n3-ebf5",
-    "ts": 1791651079941,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how%20to%20organize%20illustration%20revisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2msqj8-4n4-23a3",
-    "ts": 1791651087188,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how%20to%20organize%20illustration%20revisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2msqj8-4n5-b222",
-    "ts": 1791651087188,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2msqj9-4n6-c9a6",
-    "ts": 1791651087189,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=how%20to%20organize%20illustration%20revisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mswlw-4n7-3d99",
-    "ts": 1791651095060,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=how%20to%20organize%20illustration%20revisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mswm8-4n8-97ad",
-    "ts": 1791651095072,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.artstation.com",
-    "evidence": {
-      "url": "https://www.artstation.com/artist/artistname/illustrations",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt2gu-4n9-d6e6",
-    "ts": 1791651102654,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://www.artstation.com/artist/artistname/illustrations",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt2gv-4na-9a38",
-    "ts": 1791651102655,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "best tools for managing multiple feedback rounds illustration",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt2gv-4nb-51f9",
-    "ts": 1791651102655,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt7xq-4nc-0e06",
-    "ts": 1791651109742,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt7xr-4nd-a4d2",
-    "ts": 1791651109743,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mt7xr-4ne-a3f9",
-    "ts": 1791651109743,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtgwl-4nf-0823",
-    "ts": 1791651121365,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.screenshot: Timeout 5000ms exceeded.\nCall log:\n  - taking page screenshot\n",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=best%20tools%20for%20managing%20multiple%20feedback%20rounds%20illustration",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtgww-4ng-e5e1",
-    "ts": 1791651121376,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.instagram.com",
-    "evidence": {
-      "url": "https://www.instagram.com/explore/tags/freelanceillustrator/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtqa7-4nh-6d93",
-    "ts": 1791651133519,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtqa9-4ni-dc8d",
-    "ts": 1791651133521,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Freelanceillustrator • 3.6M reels on Instagram",
-    "evidence": {
-      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtsb7-4nj-70d9",
-    "ts": 1791651136147,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.instagram.com/popular/freelanceillustrator/?utm_source=explore_tag",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mtuwj-4nk-fe6e",
-    "ts": 1791651139507,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "Not enough readable sources; keeping the hypothesis unvalidated",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mxtcz-4nl-9032",
-    "ts": 1791651324131,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 6: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mxusg-4nm-b707",
-    "ts": 1791651325984,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "Freelance illustrators, particularly those working on detailed or multi-stage projects, often face challenges in accurately predicting the time required. This can stem from underestimating the complexity of client revisions, the iterative nature of the creative process, or unforeseen technical issues. Existing project management tools may be too general and not cater to the specific workflow of illustrators. This problem is distinct from scope creep (ScopeGuard) and invoicing (Invoice Follow-up Date Calculator).",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mxwk3-4nn-08e4",
-    "ts": 1791651328275,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mxwk4-4no-3458",
-    "ts": 1791651328276,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator timeline estimation problems",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2mxwk4-4np-411f",
-    "ts": 1791651328276,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2mxzui-4nq-6c70",
     "ts": 1791651332538,
     "type": "founder.read",
@@ -2778,6 +2029,796 @@
     "source": "founder",
     "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
     "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nxwpb-4o3-9eda",
+    "ts": 1791653008079,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nxwpc-4o4-e82a",
+    "ts": 1791653008080,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "meeting action tracking for small remote teams complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nxwpc-4o5-0a75",
+    "ts": 1791653008080,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nxzn5-4o6-a868",
+    "ts": 1791653011889,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nxzn6-4o7-268a",
+    "ts": 1791653011890,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: meeting action tracking for small remote teams complaints pain points - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny0bj-4o8-b066",
+    "ts": 1791653012767,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny1la-4o9-bab7",
+    "ts": 1791653014414,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.convoe.com",
+    "evidence": {
+      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny4lr-4oa-7622",
+    "ts": 1791653018319,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny4ls-4ob-1063",
+    "ts": 1791653018320,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Track Meeting Action Items: 4 Methods That Actually Work",
+    "evidence": {
+      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny5a1-4oc-c0c4",
+    "ts": 1791653019193,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny6iq-4od-1f9e",
+    "ts": 1791653020802,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "meeting action tracking for small remote teams software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny6iq-4oe-5977",
+    "ts": 1791653020802,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny9gv-4of-7c8f",
+    "ts": 1791653024623,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ny9gw-4og-9dd2",
+    "ts": 1791653024624,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: meeting action tracking for small remote teams software pricing alternatives - S",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nya56-4oh-d2dc",
+    "ts": 1791653025498,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nybek-4oi-6c28",
+    "ts": 1791653027132,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening edworking.com",
+    "evidence": {
+      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyeob-4oj-7fff",
+    "ts": 1791653031371,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyeoc-4ok-65e3",
+    "ts": 1791653031372,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Action Item Tracker For Project Meetings",
+    "evidence": {
+      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyfct-4ol-0583",
+    "ts": 1791653032253,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyh3r-4om-1281",
+    "ts": 1791653034519,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "meeting action tracking for small remote teams reviews missing features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyh3s-4on-2a93",
+    "ts": 1791653034520,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyk1q-4oo-9495",
+    "ts": 1791653038334,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyk1r-4op-0a3f",
+    "ts": 1791653038335,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: meeting action tracking for small remote teams reviews missing features - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nykq0-4oq-6fe7",
+    "ts": 1791653039208,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2nyzzf-4or-2df6",
+    "ts": 1791653058987,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2vh1-4os-2b08",
+    "ts": 1791653239765,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 10: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2wga-4ot-4484",
+    "ts": 1791653241034,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2wgb-4ou-522f",
+    "ts": 1791653241035,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2y1q-4ov-d309",
+    "ts": 1791653243102,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2y1r-4ow-7902",
+    "ts": 1791653243103,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "inventory reorder planning for independent shops complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o2y1r-4ox-2188",
+    "ts": 1791653243103,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o31ce-4oy-eb09",
+    "ts": 1791653247374,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o31cf-4oz-5de7",
+    "ts": 1791653247375,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: inventory reorder planning for independent shops complaints pain points - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o321l-4p0-88d2",
+    "ts": 1791653248281,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o33b3-4p1-eabf",
+    "ts": 1791653249919,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.trustpilot.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/inventory-planner.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o37tl-4p2-f3a3",
+    "ts": 1791653255769,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase is processing a CAPTCHA",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o38as-4p3-cbd0",
+    "ts": 1791653256388,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/inventory-planner.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o38at-4p4-2754",
+    "ts": 1791653256389,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Inventory Planner by Sage Reviews | Read Customer Service Reviews of inventory-p",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/inventory-planner.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o390o-4p5-a655",
+    "ts": 1791653257320,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/inventory-planner.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o39z8-4p6-bf78",
+    "ts": 1791653258564,
+    "type": "founder.captcha_progress",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase finished the CAPTCHA attempt",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3arj-4p7-a2e8",
+    "ts": 1791653259583,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "inventory reorder planning for independent shops software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3arj-4p8-7403",
+    "ts": 1791653259583,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3dv1-4p9-38b0",
+    "ts": 1791653263597,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3dv2-4pa-2869",
+    "ts": 1791653263598,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: inventory reorder planning for independent shops software pricing alternatives -",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3ejr-4pb-3a4e",
+    "ts": 1791653264487,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3g54-4pc-c4ea",
+    "ts": 1791653266552,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening blog.gettransport.com",
+    "evidence": {
+      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/#:~:text=This%20article%20identifies%20key%20pain%20points%20in%20retail,steps%20to%20diagnose%20root%20causes%20and%20sharpen%20forecasting.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3j0p-4pd-6a59",
+    "ts": 1791653270281,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3j0q-4pe-a499",
+    "ts": 1791653270282,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Identifying Key Pain Points in Retail Inventory Management | Transportation News",
+    "evidence": {
+      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3joy-4pf-adf5",
+    "ts": 1791653271154,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3kyq-4pg-fa74",
+    "ts": 1791653272802,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "inventory reorder planning for independent shops reviews missing features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3kyq-4ph-1d53",
+    "ts": 1791653272802,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3nxx-4pi-20f9",
+    "ts": 1791653276661,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3nxy-4pj-d81a",
+    "ts": 1791653276662,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: inventory reorder planning for independent shops reviews missing features - Sear",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3omt-4pk-0c18",
+    "ts": 1791653277557,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3pwj-4pl-9161",
+    "ts": 1791653279204,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening shelfperks.com",
+    "evidence": {
+      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3t9e-4pm-5195",
+    "ts": 1791653283554,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3t9i-4pn-339d",
+    "ts": 1791653283558,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Why Is Managing Inventory So Hard? 7 Pain Points Every Retailer Faces",
+    "evidence": {
+      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3txq-4po-6141",
+    "ts": 1791653284430,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3v7f-4pp-0b0b",
+    "ts": 1791653286075,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening evolveamz.com",
+    "evidence": {
+      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3zg9-4pq-20eb",
+    "ts": 1791653291577,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o3zga-4pr-373e",
+    "ts": 1791653291578,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Inventory Reorder Mastery 2026: Safety Stock, Lead Time & the Reorder-Point Form",
+    "evidence": {
+      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o404s-4ps-4131",
+    "ts": 1791653292460,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o41e0-4pt-d57c",
+    "ts": 1791653294088,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.prediko.io",
+    "evidence": {
+      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o456j-4pu-fa4c",
+    "ts": 1791653299003,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o456l-4pv-fb6a",
+    "ts": 1791653299005,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: 7 Best Inventory Replenishment Tools [2026]",
+    "evidence": {
+      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o45wb-4pw-b32f",
+    "ts": 1791653299931,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2o48c9-4px-3995",
+    "ts": 1791653303097,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.guideflow.com",
+    "evidence": {
+      "url": "https://www.guideflow.com/blog/inventory-replenishment-software",
       "file": "workspace/research/report.json"
     }
   }
