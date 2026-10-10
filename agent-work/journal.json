@@ -1,391 +1,5 @@
 [
   {
-    "id": "mv2othd2-4qr-4718",
-    "ts": 1791654481190,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening worldmetrics.org",
-    "evidence": {
-      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/#:~:text=7shifts%20is%20the%20best%20pick%20for%20restaurants%20that,capture%2C%20and%20labor%20reporting%20in%20one%20documented%20workflow.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otko0-4qs-5ced",
-    "ts": 1791654485473,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otko2-4qt-da1d",
-    "ts": 1791654485474,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Best Hospitality Workforce Management Software (2026)",
-    "evidence": {
-      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otlf1-4qu-cf89",
-    "ts": 1791654486445,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otmrs-4qv-69e6",
-    "ts": 1791654488200,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening zipdo.co",
-    "evidence": {
-      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otq6m-4qw-f4d9",
-    "ts": 1791654492622,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otq6o-4qx-d6ac",
-    "ts": 1791654492624,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Best Hospitality Workforce Management Software (2026)",
-    "evidence": {
-      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otqxe-4qy-d5c2",
-    "ts": 1791654493586,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ott8c-4qz-5448",
-    "ts": 1791654496572,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.skillsjunky.com",
-    "evidence": {
-      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oty6m-4r0-2f97",
-    "ts": 1791654502990,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oty6n-4r1-9125",
-    "ts": 1791654502991,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Shift Handoff Summary Skill — Skills Junky",
-    "evidence": {
-      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2otyxl-4r2-6508",
-    "ts": 1791654503961,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oueb8-4r3-a939",
-    "ts": 1791654523892,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ovnz7-4r4-55d4",
-    "ts": 1791654583076,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2ovnz8-4r5-f6f9",
-    "ts": 1791654583076,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ovpzl-4mo-11aa",
-    "ts": 1791654585681,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.17 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1735333311901,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2ovq21-4mp-68e5",
-    "ts": 1791654585769,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 649095,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2ow5hi-4mq-257a",
-    "ts": 1791654605766,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 15: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ow6pb-4mr-ebce",
-    "ts": 1791654607343,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ow6pc-4ms-2b8e",
-    "ts": 1791654607344,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ow8il-4mt-8e23",
-    "ts": 1791654609693,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ow8il-4mu-c7ac",
-    "ts": 1791654609693,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "event registration cleanup for community organizers complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ow8iv-4mv-c433",
-    "ts": 1791654609703,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=event%20registration%20cleanup%20for%20community%20organizers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2owgde-4mw-fc6c",
-    "ts": 1791654619874,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: event registration cleanup for community organizers complaints pain points",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=event%20registration%20cleanup%20for%20community%20organizers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ox1j5-4mx-f796",
-    "ts": 1791654647297,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2ox1oj-4my-5f66",
-    "ts": 1791654647491,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle stopped by the operator",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ox1ol-4mz-e164",
-    "ts": 1791654647493,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ox3x3-4mo-0f0d",
-    "ts": 1791654650391,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.18 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1759475457189,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2ox3zn-4mp-8c92",
-    "ts": 1791654650483,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 649347,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2oxjf0-4mq-db87",
-    "ts": 1791654670476,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 16: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oxknf-4mr-aded",
-    "ts": 1791654672075,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oxkng-4ms-8543",
-    "ts": 1791654672076,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oxmla-4mt-6dcf",
-    "ts": 1791654674590,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oxmla-4mu-d7ee",
-    "ts": 1791654674590,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "manual client reporting for small marketing agencies complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2oxmlk-4mv-8883",
     "ts": 1791654674600,
     "type": "founder.navigate",
@@ -2840,6 +2454,381 @@
     "data": {
       "pid": 653395,
       "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2pzeiu-4mq-08db",
+    "ts": 1791656437062,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 25: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pzfnk-4mr-8d30",
+    "ts": 1791656438528,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous research indicates a recurring problem for freelance illustrators in accurately estimating project timelines for complex commissions. Existing solutions are either too generic or focus on pricing, leaving a gap for a specialized tool. The evidence suggests a potential market need, and a prototype is the appropriate next step to validate demand and gather specific requirements.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pzhir-4ms-5229",
+    "ts": 1791656440947,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pzhit-4mt-a430",
+    "ts": 1791656440949,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation tool",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pzhjb-4mu-7e0f",
+    "ts": 1791656440967,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pzph8-4mv-08e1",
+    "ts": 1791656451260,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation tool",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0a4f-4mw-051a",
+    "ts": 1791656478015,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0a4j-4mx-7e2f",
+    "ts": 1791656478019,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator timeline estimation tool - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0aqn-4my-5f20",
+    "ts": 1791656478815,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=EAF1802F5B144D41927A2340144A52B0",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0be7-4mz-0a9e",
+    "ts": 1791656479664,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening lancertools.com",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0fgn-4n0-7d57",
+    "ts": 1791656484935,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0fgq-4n1-d9df",
+    "ts": 1791656484938,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Freelance Illustrator Rate Calculator — What Should You Charge? | LancerTools",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0g2p-4n2-6165",
+    "ts": 1791656485729,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0gp5-4n3-ee94",
+    "ts": 1791656486537,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration projects",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0gp8-4n4-deb1",
+    "ts": 1791656486540,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q0n9w-4n5-fd02",
+    "ts": 1791656495060,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: how to estimate time for complex illustration projects",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1ah8-4n6-b42e",
+    "ts": 1791656525132,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1ahc-4n7-c16b",
+    "ts": 1791656525136,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: how to estimate time for complex illustration projects - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1b39-4n8-adfb",
+    "ts": 1791656525925,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1bpq-4n9-d9b2",
+    "ts": 1791656526734,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "illustration project management software timeline",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1bpt-4na-0395",
+    "ts": 1791656526737,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=illustration%20project%20management%20software%20timeline",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q1i4u-4nb-7762",
+    "ts": 1791656535054,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: illustration project management software timeline",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=illustration%20project%20management%20software%20timeline",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q241a-4nc-61e6",
+    "ts": 1791656563438,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=illustration+project+management+software+timeline&form=QBLH&sp=-1&ghc=1&lq=0&pq=illustration+project+management+software+timeline&sc=7-49&qs=n&sk=&cvid=279C62A8EBF84A6D95BAD855CFDD1930",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q241n-4nd-ba3f",
+    "ts": 1791656563451,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: illustration project management software timeline - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=illustration+project+management+software+timeline&form=QBLH&sp=-1&ghc=1&lq=0&pq=illustration+project+management+software+timeline&sc=7-49&qs=n&sk=&cvid=279C62A8EBF84A6D95BAD855CFDD1930",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q24q4-4ne-0e37",
+    "ts": 1791656564332,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=illustration+project+management+software+timeline&form=QBLH&sp=-1&ghc=1&lq=0&pq=illustration+project+management+software+timeline&sc=7-49&qs=n&sk=&cvid=279C62A8EBF84A6D95BAD855CFDD1930",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q2imy-4nf-9864",
+    "ts": 1791656582362,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The proposed solution directly addresses a specific pain point for a defined target audience. While generic tools exist, they do not cater to the unique workflow of illustration projects. The evidence suggests a need for better estimation tools, and the proposed MVP is a focused, achievable first step to validate demand and gather user feedback.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q2in1-4ng-cb70",
+    "ts": 1791656582365,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2q2inc-4nh-aef4",
+    "ts": 1791656582376,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2q2ing-4ni-b681",
+    "ts": 1791656582380,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2q3rme-4nj-6425",
+    "ts": 1791656640662,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2q3ys5-4nk-c181",
+    "ts": 1791656649941,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2q53vc-4nl-ec25",
+    "ts": 1791656703192,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2q5ay1-4nm-a348",
+    "ts": 1791656712361,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2q5ayi-4nn-87dd",
+    "ts": 1791656712378,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
     }
   }
 ]
