@@ -1,4 +1,4 @@
-import { useRef } from 'react'
+import { useMemo, useRef } from 'react'
 import { useFrame } from '@react-three/fiber'
 import * as THREE from 'three'
 import { Text } from '@react-three/drei'
@@ -28,6 +28,23 @@ function Plant({ position, scale = 1 }: { position: [number,number,number]; scal
     {Array.from({length:12},(_,i)=><mesh key={i} position={[Math.sin(i*2.4)*.18,.35+(i%4)*.1,Math.cos(i*2.4)*.16]} rotation={[.3,i*2.4,.65]} scale={[.095,.29,.06]}><sphereGeometry args={[1,12,10]}/><meshStandardMaterial color={i%2?'#587847':'#304a31'} roughness={1}/></mesh>)}
   </group>
 }
+function CompanySign() {
+  const texture = useMemo(() => {
+    const canvas = document.createElement('canvas'); canvas.width = 1600; canvas.height = 320
+    const ctx = canvas.getContext('2d')!
+    ctx.fillStyle = '#ead9b8'; ctx.fillRect(0, 0, 1600, 320)
+    ctx.strokeStyle = '#c5b38e'; ctx.lineWidth = 8; ctx.strokeRect(18, 18, 1564, 284)
+    ctx.fillStyle = '#171511'; ctx.textAlign = 'center'; ctx.textBaseline = 'middle'
+    ctx.font = '900 138px Impact, Arial Black, sans-serif'
+    ctx.fillText('ONE DOG COMPANY', 800, 166, 1480)
+    const map = new THREE.CanvasTexture(canvas); map.colorSpace = THREE.SRGBColorSpace
+    return map
+  }, [])
+  return <group position={[0,4.35,-3.45]}>
+    <mesh><boxGeometry args={[3.85,.77,.035]}/><meshStandardMaterial map={texture} roughness={1}/></mesh>
+    {[-1,1].flatMap(x=>[-1,1].map(y=><mesh key={`${x}:${y}`} position={[x*1.87,y*.34,.03]} rotation={[0,0,x*y*.65]}><planeGeometry args={[.3,.095]}/><meshStandardMaterial color="#d6c6a4" transparent opacity={.88} roughness={1} side={THREE.DoubleSide}/></mesh>))}
+  </group>
+}
 export default function Room() {
   return <>
     <color attach="background" args={['#14121b']}/><fog attach="fog" args={['#14121b',12,24]}/>
@@ -41,6 +58,7 @@ export default function Room() {
     {Array.from({length:14},(_,i)=>{const h=.7+(i*7%9)*.16;return <group key={i} position={[(i-6.5)*.43,.95,-3.72]}><mesh position={[0,h/2,0]}><boxGeometry args={[.35,h,.07]}/><meshBasicMaterial color={i%2?'#18304b':'#122239'}/></mesh>{Array.from({length:12},(_,j)=><mesh key={j} position={[(j%3-1)*.09,.15+Math.floor(j/3)*.23,.05]}><planeGeometry args={[.03,.065]}/><meshBasicMaterial color={(i+j)%3?'#789eca':'#f1ba78'}/></mesh>)}</group>})}
     {[-3.3,-1.1,1.1,3.3].map(x=><mesh key={x} position={[x,3.1,-3.6]}><boxGeometry args={[.085,4.6,.17]}/><meshStandardMaterial color="#756353" metalness={.3}/></mesh>)}
     {[.83,3.1,5.4].map(y=><mesh key={y} position={[0,y,-3.6]}><boxGeometry args={[6.7,.08,.17]}/><meshStandardMaterial color="#756353" metalness={.3}/></mesh>)}
+    <CompanySign/>
     {/* Oak workstation with brass hardware. */}
     <mesh position={[0,.85,1.23]}><boxGeometry args={[6.5,.15,1.65]}/><meshStandardMaterial color="#574033" roughness={.7}/></mesh>
     <mesh position={[0,.932,1.23]}><boxGeometry args={[6.4,.012,1.55]}/><meshStandardMaterial color="#886348" roughness={.8}/></mesh>

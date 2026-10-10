@@ -1,554 +1,5 @@
 [
   {
-    "id": "mv2n1j9v-4ox-b795",
-    "ts": 1791651497683,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2n1lhb-4mo-51de",
-    "ts": 1791651500543,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0909339949039,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2n1lhr-4mp-8a1d",
-    "ts": 1791651500559,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 642270,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2n1yff-4mq-cd4b",
-    "ts": 1791651517323,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2n1yfg-4mr-7259",
-    "ts": 1791651517324,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2n1ysq-4ms-7ead",
-    "ts": 1791651517802,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2n1ysq-4mt-09c5",
-    "ts": 1791651517802,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2n1z72-4mu-ed2b",
-    "ts": 1791651518318,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Research model rejected the request (HTTP 400)"
-  },
-  {
-    "id": "mv2n3igp-4mv-547d",
-    "ts": 1791651589945,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2n3igr-4mw-1155",
-    "ts": 1791651589947,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2n3kmt-4mo-b476",
-    "ts": 1791651592758,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0904908916477,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2n3knb-4mp-d3f9",
-    "ts": 1791651592775,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 642832,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2n4fjk-4mq-0bda",
-    "ts": 1791651632816,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2n4fjl-4mr-03e1",
-    "ts": 1791651632817,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2n4g2p-4ms-2e89",
-    "ts": 1791651633505,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2n4g2q-4mt-10f3",
-    "ts": 1791651633506,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2n4gh5-4mu-5c91",
-    "ts": 1791651634025,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Research model rejected the request (HTTP 400): The specified schema produces a constraint that has too many states for serving. Typical causes of this error are schemas with lots of text (for example, very long property or enum names), schemas with long array length limits (especially when nested), or schemas using complex value matchers (for example, integers or numbers with minimum/maximum bounds or strings with complex formats like date-time)"
-  },
-  {
-    "id": "mv2n5p8k-4mv-40e4",
-    "ts": 1791651692036,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2n5p8l-4mw-b583",
-    "ts": 1791651692037,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2n5rbt-4mo-c99a",
-    "ts": 1791651694745,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.09 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.0949585257642,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2n5rep-4mp-4317",
-    "ts": 1791651694849,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 643289,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2n8t1z-4mq-729f",
-    "ts": 1791651836951,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2n8t1z-4mr-6953",
-    "ts": 1791651836951,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2n986a-4ms-7b35",
-    "ts": 1791651856546,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2n986b-4mt-8d92",
-    "ts": 1791651856547,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2n9jg8-4mu-0190",
-    "ts": 1791651871160,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "MVP requires persistent storage and complete lifecycle tests"
-  },
-  {
-    "id": "mv2nc578-4mv-0187",
-    "ts": 1791651992660,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2nc579-4mw-80b8",
-    "ts": 1791651992661,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nc78o-4mo-cb56",
-    "ts": 1791651995304,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.11 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1126570882348,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2nc7az-4mp-b869",
-    "ts": 1791651995387,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 644253,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2nd1pn-4mq-f498",
-    "ts": 1791652034795,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2nd1po-4mr-22e2",
-    "ts": 1791652034796,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2ndd0c-4ms-22ed",
-    "ts": 1791652049436,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2ndd0d-4mt-35e1",
-    "ts": 1791652049437,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2ndua0-4mu-74b7",
-    "ts": 1791652071816,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
-  },
-  {
-    "id": "mv2ndw6o-4mv-09ae",
-    "ts": 1791652074288,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Prototype failed checks after one repair; previous working version was retained"
-  },
-  {
-    "id": "mv2nootg-4mw-3435",
-    "ts": 1791652577956,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2nooti-4mx-3808",
-    "ts": 1791652577958,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nor06-4mo-afc6",
-    "ts": 1791652580790,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $999.12 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 999.1235766116412,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2nor0n-4mp-05f4",
-    "ts": 1791652580807,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 645515,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2np6g4-4mq-2d47",
-    "ts": 1791652600804,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 7: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2np7hq-4mr-cc11",
-    "ts": 1791652602158,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2np7hq-4ms-05f4",
-    "ts": 1791652602158,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2np927-4mt-2634",
-    "ts": 1791652604191,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2np928-4mu-fae4",
-    "ts": 1791652604192,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "invoice follow-up for freelance designers complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2np92j-4mv-32ff",
-    "ts": 1791652604203,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npdla-4mw-708d",
-    "ts": 1791652610062,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npdlc-4mx-752b",
-    "ts": 1791652610064,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: invoice follow-up for freelance designers complaints pain points - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npewg-4my-75b2",
-    "ts": 1791652611760,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npgjo-4mz-bc88",
-    "ts": 1791652613892,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening scopedue.com",
-    "evidence": {
-      "url": "https://scopedue.com/blog/how-to-follow-up-on-overdue-freelance-invoice/#:~:text=Most%20overdue%20invoice%20problems%20get%20worse%20when%20the,happens%20next%2C%20and%20what%20record%20will%20be%20saved.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npl9u-4n0-86cc",
-    "ts": 1791652620018,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://scopedue.com/blog/how-to-follow-up-on-overdue-freelance-invoice/#:~:text=Most%20overdue%20invoice%20problems%20get%20worse%20when%20the,happens%20next%2C%20and%20what%20record%20will%20be%20saved.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npl9v-4n1-f3ad",
-    "ts": 1791652620019,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: How to Follow Up on an Overdue Freelance Invoice | ScopeDue",
-    "evidence": {
-      "url": "https://scopedue.com/blog/how-to-follow-up-on-overdue-freelance-invoice/#:~:text=Most%20overdue%20invoice%20problems%20get%20worse%20when%20the,happens%20next%2C%20and%20what%20record%20will%20be%20saved.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npmb9-4n2-fe5c",
-    "ts": 1791652621365,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://scopedue.com/blog/how-to-follow-up-on-overdue-freelance-invoice/#:~:text=Most%20overdue%20invoice%20problems%20get%20worse%20when%20the,happens%20next%2C%20and%20what%20record%20will%20be%20saved.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npoo8-4n3-5b39",
-    "ts": 1791652624424,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "invoice follow-up for freelance designers software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npoo8-4n4-a457",
-    "ts": 1791652624424,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2npsnl-4n5-acd0",
     "ts": 1791652629585,
     "type": "founder.read",
@@ -2822,5 +2273,644 @@
     "severity": "info",
     "source": "founder",
     "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2oava7-4r5-427c",
+    "ts": 1791653612767,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2ob5yp-4r6-6564",
+    "ts": 1791653626609,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2ob5yr-4r7-9e57",
+    "ts": 1791653626611,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oe5vi-4r8-94f0",
+    "ts": 1791653766462,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2oe5vj-4r9-ef63",
+    "ts": 1791653766463,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oe81f-4mo-86f4",
+    "ts": 1791653769267,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.15 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.154941387765,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2oe81w-4mp-fabd",
+    "ts": 1791653769284,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 647452,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2oenh9-4mq-4f2b",
+    "ts": 1791653789277,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 12: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeov6-4mr-5d4a",
+    "ts": 1791653791074,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      2\n    ],\n    \"message\": \"Invalid URL; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeov7-4ms-f959",
+    "ts": 1791653791075,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeqgt-4mt-6285",
+    "ts": 1791653793149,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeqgt-4mu-85ae",
+    "ts": 1791653793149,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "subscription expense auditing for freelancers complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeqh4-4mv-e778",
+    "ts": 1791653793160,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeteg-4mw-c363",
+    "ts": 1791653796952,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeteh-4mx-8cc0",
+    "ts": 1791653796953,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: subscription expense auditing for freelancers complaints pain points - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeu3g-4my-e8ba",
+    "ts": 1791653797852,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oevdm-4mz-9adf",
+    "ts": 1791653799514,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening lemsubs.com",
+    "evidence": {
+      "url": "https://lemsubs.com/audit/freelancer",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeyj8-4n0-b746",
+    "ts": 1791653803604,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://lemsubs.com/audit/freelancer",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oeyj9-4n1-4697",
+    "ts": 1791653803605,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Freelancer Subscription Audit — Free Checklist (2026)",
+    "evidence": {
+      "url": "https://lemsubs.com/audit/freelancer",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oez7r-4n2-fe1a",
+    "ts": 1791653804488,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://lemsubs.com/audit/freelancer",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of0gk-4n3-5ee3",
+    "ts": 1791653806100,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "subscription expense auditing for freelancers software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of0gl-4n4-f5b4",
+    "ts": 1791653806101,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of3hg-4n5-e7b3",
+    "ts": 1791653810020,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of3hh-4n6-e298",
+    "ts": 1791653810021,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: subscription expense auditing for freelancers software pricing alternatives - Se",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of465-4n7-2461",
+    "ts": 1791653810909,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2of6cc-4n8-d41b",
+    "ts": 1791653813724,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening damongo.com",
+    "evidence": {
+      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofash-4n9-1711",
+    "ts": 1791653819489,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofasi-4na-8365",
+    "ts": 1791653819490,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: The SaaS Subscription Audit Every Freelancer Needs: Cut Costs and Boost Profits ",
+    "evidence": {
+      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofbi1-4nb-cb58",
+    "ts": 1791653820409,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofdch-4nc-003a",
+    "ts": 1791653822801,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "subscription expense auditing for freelancers reviews missing features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofdci-4nd-0dc4",
+    "ts": 1791653822802,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofggq-4ne-55f2",
+    "ts": 1791653826842,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofggr-4nf-e2fa",
+    "ts": 1791653826843,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: subscription expense auditing for freelancers reviews missing features - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofh5a-4ng-16a2",
+    "ts": 1791653827726,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofiey-4nh-131e",
+    "ts": 1791653829370,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening costloop.app",
+    "evidence": {
+      "url": "https://costloop.app/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofldg-4ni-5d05",
+    "ts": 1791653833204,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://costloop.app/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofldi-4nj-b31e",
+    "ts": 1791653833206,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: CostLoop | SaaS Subscription Tracking & Spend Management for SMBs",
+    "evidence": {
+      "url": "https://costloop.app/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofm30-4nk-0557",
+    "ts": 1791653834124,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://costloop.app/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofnf8-4nl-edc4",
+    "ts": 1791653835860,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening usfinancecalculators.com",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/personal-finance/subscription-audit-annual-cost-calculator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofx2i-4nm-45ca",
+    "ts": 1791653848362,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/personal-finance/subscription-audit-annual-cost-calculator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofx2k-4nn-deb2",
+    "ts": 1791653848364,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Subscription Tracker 2026: Annual Cost & Recurring Audit",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/personal-finance/subscription-audit-annual-cost-calculator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ofxvk-4no-b6f6",
+    "ts": 1791653849408,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/personal-finance/subscription-audit-annual-cost-calculator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2og12m-4np-9992",
+    "ts": 1791653853550,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening usfinancecalculators.com",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/blog/saas-sprawl-freelance-tech-stack/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogb38-4nq-ffdb",
+    "ts": 1791653866532,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/blog/saas-sprawl-freelance-tech-stack/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogb3a-4nr-fafb",
+    "ts": 1791653866534,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: SaaS Sprawl Audit: Cut Your Freelance Tech Stack Costs",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/blog/saas-sprawl-freelance-tech-stack/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogbs0-4ns-c2ee",
+    "ts": 1791653867424,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://usfinancecalculators.com/blog/saas-sprawl-freelance-tech-stack/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogdrp-4nt-b272",
+    "ts": 1791653870005,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening unclekam.com",
+    "evidence": {
+      "url": "https://unclekam.com/tax-strategy-blog/freelancer-software-subscription-optimization-2026-guide/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oghlb-4nu-799e",
+    "ts": 1791653874959,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://unclekam.com/tax-strategy-blog/freelancer-software-subscription-optimization-2026-guide/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oghld-4nv-462e",
+    "ts": 1791653874961,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Freelancer Software Subscription Optimization: 2026 Guide - Uncle Kam",
+    "evidence": {
+      "url": "https://unclekam.com/tax-strategy-blog/freelancer-software-subscription-optimization-2026-guide/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogibm-4nw-f88a",
+    "ts": 1791653875906,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://unclekam.com/tax-strategy-blog/freelancer-software-subscription-optimization-2026-guide/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogjta-4nx-0b8a",
+    "ts": 1791653877838,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening subscription-audit.com",
+    "evidence": {
+      "url": "https://subscription-audit.com/freelancers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogomg-4ny-8712",
+    "ts": 1791653884072,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://subscription-audit.com/freelancers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogomj-4nz-f77b",
+    "ts": 1791653884075,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: freelancers – Subscription Audit",
+    "evidence": {
+      "url": "https://subscription-audit.com/freelancers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogpdm-4o0-3810",
+    "ts": 1791653885050,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://subscription-audit.com/freelancers/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogqmm-4o1-6821",
+    "ts": 1791653886670,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening costloop.app",
+    "evidence": {
+      "url": "https://costloop.app/pricing/",
+      "file": "workspace/research/report.json"
+    }
   }
 ]
