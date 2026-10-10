@@ -1,275 +1,5 @@
 [
   {
-    "id": "mv2onnsb-4pi-4053",
-    "ts": 1791654209579,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.sitepoint.com/community/t/common-pain-points-for-clients-of-web-design-and-development-studios-share-your-negative-experiences/414857",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onpb3-4pj-1def",
-    "ts": 1791654211551,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening kuberstar.com",
-    "evidence": {
-      "url": "https://kuberstar.com/tools",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onto8-4pk-29f1",
-    "ts": 1791654217208,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://kuberstar.com/tools",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onto9-4pl-36b6",
-    "ts": 1791654217209,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Project Cost Calculators - Website & App Pricing | KUBERSTAR",
-    "evidence": {
-      "url": "https://kuberstar.com/tools",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onufo-4pm-beea",
-    "ts": 1791654218196,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://kuberstar.com/tools",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onvub-4pn-fbcb",
-    "ts": 1791654220019,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.stratagem-systems.com",
-    "evidence": {
-      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onze1-4po-5ee4",
-    "ts": 1791654224617,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2onze3-4pp-4a4d",
-    "ts": 1791654224619,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: How to Compare Software Development Proposals in 2026 (Beyond Hourly Rate)",
-    "evidence": {
-      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oo061-4pq-1b43",
-    "ts": 1791654225625,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.stratagem-systems.com/blog/how-to-compare-software-development-proposals-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ooe9m-4pr-d753",
-    "ts": 1791654243898,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2os9jz-4ps-234a",
-    "ts": 1791654424415,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 14: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osalr-4pt-740b",
-    "ts": 1791654425775,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osals-4pu-c520",
-    "ts": 1791654425776,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osc5s-4pv-8cd0",
-    "ts": 1791654427792,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osc5t-4pw-0066",
-    "ts": 1791654427793,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "work shift handoff summaries for small hospitality teams complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osc5t-4px-1ca4",
-    "ts": 1791654427793,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osfgo-4py-eab8",
-    "ts": 1791654432072,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osfgp-4pz-1277",
-    "ts": 1791654432073,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams complaints pain points ",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osg7r-4q0-5e4d",
-    "ts": 1791654433047,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oshmc-4q1-a634",
-    "ts": 1791654434868,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.shiftbase.com",
-    "evidence": {
-      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oslje-4q2-aaef",
-    "ts": 1791654439946,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oslje-4q3-b3f0",
-    "ts": 1791654439946,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: End of shift report: what to include for a clean handover",
-    "evidence": {
-      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2osmb9-4q4-fe08",
-    "ts": 1791654440949,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2osnno-4q5-6400",
     "ts": 1791654442692,
     "type": "founder.research_question",
@@ -2863,5 +2593,270 @@
     "severity": "info",
     "source": "founder",
     "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2pn4po-4oq-34a5",
+    "ts": 1791655864476,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 16,\n    \"inclusive\": true,\n    \"path\": [\n      \"flows\",\n      0,\n      \"steps\"\n    ],\n    \"message\": \"Too big: expected array to have <=16 items\"\n  }\n]"
+  },
+  {
+    "id": "mv2pn4pv-4or-0133",
+    "ts": 1791655864483,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pr1at-4os-b6e3",
+    "ts": 1791656046677,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 23: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pr2bz-4ot-b161",
+    "ts": 1791656048015,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous research indicates a significant problem for freelance illustrators in accurately estimating project timelines for complex commissions. Existing solutions are often generic or lack the specificity needed for creative work. The demand is currently unvalidated, and the next step is to develop a prototype to test the core estimation workflow and gather user feedback. This hypothesis focuses on a specific audience (freelance illustrators) and a narrow problem (timeline estimation for complex commissions), aligning with the need for focused research.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pr473-4ou-c3f9",
+    "ts": 1791656050431,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pr475-4ov-2acb",
+    "ts": 1791656050433,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation tool",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pr475-4ow-5b66",
+    "ts": 1791656050433,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2prbjv-4ox-7fd7",
+    "ts": 1791656059963,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation tool",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2prvue-4oy-35b9",
+    "ts": 1791656086262,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=2BE3B0BFFDC34BBEA0E5D5CE526C8384",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2prvuh-4oz-76a1",
+    "ts": 1791656086265,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator timeline estimation tool - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=2BE3B0BFFDC34BBEA0E5D5CE526C8384",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2prwf5-4p0-0aca",
+    "ts": 1791656087009,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool&sc=12-46&qs=n&sk=&cvid=2BE3B0BFFDC34BBEA0E5D5CE526C8384",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2prx3f-4p1-5ce1",
+    "ts": 1791656087883,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening lancertools.com",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2przxy-4p2-a3d6",
+    "ts": 1791656091574,
+    "type": "founder.click",
+    "severity": "info",
+    "source": "founder",
+    "title": "Clicking a source link on www.bing.com",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pse4n-4p3-8f55",
+    "ts": 1791656109959,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.waitForNavigation: Timeout 18000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================",
+    "evidence": {
+      "url": "https://lancertools.com/tools/freelance-rate-calculator/illustrator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pse4q-4p4-fa84",
+    "ts": 1791656109962,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration commissions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pse4s-4p5-bd2b",
+    "ts": 1791656109964,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pskne-4p6-ebb3",
+    "ts": 1791656118410,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: how to estimate time for complex illustration commissions",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pt7mf-4p7-7583",
+    "ts": 1791656148183,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+commissions&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+commissions&sc=8-57&qs=n&sk=&cvid=7C4E72C57B2E480CB9392C51F8BE01D7",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pt7mj-4p8-d2b7",
+    "ts": 1791656148187,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: how to estimate time for complex illustration commissions - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+commissions&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+commissions&sc=8-57&qs=n&sk=&cvid=7C4E72C57B2E480CB9392C51F8BE01D7",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pt87f-4p9-8f5f",
+    "ts": 1791656148939,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+commissions&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+commissions&sc=8-57&qs=n&sk=&cvid=7C4E72C57B2E480CB9392C51F8BE01D7",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pt8t7-4pa-3856",
+    "ts": 1791656149723,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best project timeline calculator for artists",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pt8t9-4pb-e8b5",
+    "ts": 1791656149725,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20project%20timeline%20calculator%20for%20artists",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ptexc-4pc-160b",
+    "ts": 1791656157648,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: best project timeline calculator for artists",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20project%20timeline%20calculator%20for%20artists",
+      "file": "workspace/research/report.json"
+    }
   }
 ]
