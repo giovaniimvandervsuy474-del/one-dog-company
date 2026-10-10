@@ -1,76 +1,5 @@
 [
   {
-    "id": "mv2q1ah8-4n6-b42e",
-    "ts": 1791656525132,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q1ahc-4n7-c16b",
-    "ts": 1791656525136,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: how to estimate time for complex illustration projects - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q1b39-4n8-adfb",
-    "ts": 1791656525925,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how+to+estimate+time+for+complex+illustration+projects&form=QBLH&sp=-1&ghc=1&lq=0&pq=how+to+estimate+time+for+complex+illustration+projects&sc=12-54&qs=n&sk=&cvid=3B545A37FFDB46FEBD500CC50B9CD670",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q1bpq-4n9-d9b2",
-    "ts": 1791656526734,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "illustration project management software timeline",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q1bpt-4na-0395",
-    "ts": 1791656526737,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=illustration%20project%20management%20software%20timeline",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q1i4u-4nb-7762",
-    "ts": 1791656535054,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: illustration project management software timeline",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=illustration%20project%20management%20software%20timeline",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2q241a-4nc-61e6",
     "ts": 1791656563438,
     "type": "founder.read",
@@ -2787,6 +2716,72 @@
   {
     "id": "mv2rngl9-4u3-86b5",
     "ts": 1791659239101,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase daily time budget reached",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rre6e-4u4-5352",
+    "ts": 1791659422598,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 33: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rrfrs-4u5-c515",
+    "ts": 1791659424664,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous research on a similar calculator for illustrators indicates a persistent need for better timeline estimation tools within the freelance creative space. While the previous attempts focused on a general calculator, this hypothesis narrows the focus to 'complex commissions' and explicitly mentions the contributing factors like client feedback and revision rounds, which are common pain points. The previous lessons highlight unvalidated demand and the need for user interviews and paid pilots. This hypothesis aims to address that by focusing on a more specific problem within the broader illustration niche, building on the prior research's direction.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rrfrt-4u6-ee21",
+    "ts": 1791659424665,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase daily time budget reached",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rvcxl-4u7-01d4",
+    "ts": 1791659607609,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 34: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rvein-4u8-e954",
+    "ts": 1791659609663,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous cycle's lessons consistently highlight a significant, unvalidated need among freelance illustrators for better timeline estimation tools, especially for complex commissions. Existing solutions are too generic. This hypothesis focuses on the core problem of inaccurate estimation due to revision complexity, a specific pain point for this audience. The queries aim to uncover firsthand complaints, existing paid alternatives, and desired features.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rvein-4u9-5414",
+    "ts": 1791659609663,
     "type": "founder.error",
     "severity": "info",
     "source": "founder",
