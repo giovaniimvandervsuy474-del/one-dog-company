@@ -1,232 +1,5 @@
 [
   {
-    "id": "mv2sqq9j-4ok-2c47",
-    "ts": 1791661071223,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sqq9n-4ol-331c",
-    "ts": 1791661071227,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20pricing%20calculator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sqrtq-4om-361e",
-    "ts": 1791661073246,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20pricing%20calculator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sqrtv-4on-5d3e",
-    "ts": 1791661073251,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: DuckDuckGo",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20pricing%20calculator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sqrvr-4oo-fde1",
-    "ts": 1791661073319,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20pricing%20calculator",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sqs8l-4op-ea09",
-    "ts": 1791661073781,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.timeline.co",
-    "evidence": {
-      "url": "https://www.timeline.co/hubfs/Complaints%20Procedure%20(2024).pdf",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sr53n-4oq-d0e0",
-    "ts": 1791661090451,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "Insufficient readable evidence",
-    "evidence": {
-      "url": "https://www.timeline.co/hubfs/Complaints%20Procedure%20(2024).pdf",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sr55i-4or-d07d",
-    "ts": 1791661090518,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening dictionary.cambridge.org",
-    "evidence": {
-      "url": "https://dictionary.cambridge.org/dictionary/english/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sr940-4os-5b59",
-    "ts": 1791661095648,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://dictionary.cambridge.org/dictionary/english/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sr949-4ot-087b",
-    "ts": 1791661095657,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: ESTIMATE | English meaning - Cambridge Dictionary",
-    "evidence": {
-      "url": "https://dictionary.cambridge.org/dictionary/english/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sr98t-4ou-eeea",
-    "ts": 1791661095821,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://dictionary.cambridge.org/dictionary/english/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2srawa-4ov-5c93",
-    "ts": 1791661097962,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.merriam-webster.com",
-    "evidence": {
-      "url": "https://www.merriam-webster.com/dictionary/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sref2-4ow-d8d4",
-    "ts": 1791661102526,
-    "type": "founder.captcha",
-    "severity": "info",
-    "source": "founder",
-    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
-    "evidence": {
-      "url": "https://www.merriam-webster.com/dictionary/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sref2-4ox-6e66",
-    "ts": 1791661102526,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "Human verification was not resolved; moving to another source",
-    "evidence": {
-      "url": "https://www.merriam-webster.com/dictionary/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2srekf-4oy-647c",
-    "ts": 1791661102719,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening estimate.co.uk",
-    "evidence": {
-      "url": "https://estimate.co.uk/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sriqe-4oz-ed5e",
-    "ts": 1791661108118,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://estimate.co.uk/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2srit2-4p0-4e2a",
-    "ts": 1791661108214,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Easy To Use Construction Estimating Software | esti-mate",
-    "evidence": {
-      "url": "https://estimate.co.uk/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2srj4b-4p1-c685",
-    "ts": 1791661108619,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://estimate.co.uk/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2srkcn-4p2-9ebf",
-    "ts": 1791661110215,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening dictionary.cambridge.org",
-    "evidence": {
-      "url": "https://dictionary.cambridge.org/us/dictionary/english/estimate",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2srodd-4p3-99f1",
     "ts": 1791661115425,
     "type": "founder.read",
@@ -2865,5 +2638,210 @@
     "severity": "info",
     "source": "founder",
     "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2tzljv-4vi-ed37",
+    "ts": 1791663164635,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2tzouy-4vj-e2b2",
+    "ts": 1791663168922,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2u0rl1-4vk-3dfe",
+    "ts": 1791663219109,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2u0uwr-4vl-68b3",
+    "ts": 1791663223419,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2u0uxi-4vm-4ea0",
+    "ts": 1791663223446,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4rfs-4vn-aec1",
+    "ts": 1791663405544,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 42: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4sl9-4vo-d226",
+    "ts": 1791663407037,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The problem of inaccurate timeline estimation is a significant pain point for freelance illustrators, leading to stress, missed deadlines, and reduced profitability. Existing solutions are often generic or manual, failing to account for the unique complexities of illustration work. This hypothesis proposes a specialized, interactive tool to address this gap. The queries aim to uncover firsthand complaints, explore existing paid alternatives, and identify missing features in current estimation methods.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4tcy-4vp-2f39",
+    "ts": 1791663408034,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Self-hosted Chromium connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4tcz-4vq-8e25",
+    "ts": 1791663408035,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4td1-4vr-e8fc",
+    "ts": 1791663408037,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u4w7h-4vs-8fbe",
+    "ts": 1791663411725,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation tool complaints",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u56ss-4vt-b278",
+    "ts": 1791663425452,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Insufficient readable evidence",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u56su-4vu-1c29",
+    "ts": 1791663425454,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u56sv-4vv-7da6",
+    "ts": 1791663425455,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u587i-4vw-872f",
+    "ts": 1791663427278,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u587j-4vx-ec69",
+    "ts": 1791663427279,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: DuckDuckGo",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u588r-4vy-2759",
+    "ts": 1791663427323,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u58kv-4vz-c7e4",
+    "ts": 1791663427759,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to accurately estimate illustration project time",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2u58kw-4w0-a623",
+    "ts": 1791663427760,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20accurately%20estimate%20illustration%20project%20time",
+      "file": "workspace/research/report.json"
+    }
   }
 ]
