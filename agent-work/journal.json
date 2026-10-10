@@ -1,40 +1,5 @@
 [
   {
-    "id": "mv2q0gp5-4n3-ee94",
-    "ts": 1791656486537,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "how to estimate time for complex illustration projects",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0gp8-4n4-deb1",
-    "ts": 1791656486540,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2q0n9w-4n5-fd02",
-    "ts": 1791656495060,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: how to estimate time for complex illustration projects",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20projects",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2q1ah8-4n6-b42e",
     "ts": 1791656525132,
     "type": "founder.read",
@@ -2789,6 +2754,39 @@
   {
     "id": "mv2rjhnx-4u0-b688",
     "ts": 1791659053869,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase daily time budget reached",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rnff3-4u1-9dcb",
+    "ts": 1791659237583,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 32: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rngl9-4u2-42c9",
+    "ts": 1791659239101,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous product, 'ScopeGuard', addressed scope creep for graphic designers. The lessons highlight a recurring need for specialized estimation tools within the freelance creative space, specifically for illustrators dealing with complex commissions and timeline uncertainties. This hypothesis focuses on the timeline estimation problem for illustrators, a distinct but related niche to the previous work, addressing the 'unvalidated demand' noted in the lessons. The queries aim to uncover firsthand complaints about estimation difficulties, existing paid solutions, and desired features.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2rngl9-4u3-86b5",
+    "ts": 1791659239101,
     "type": "founder.error",
     "severity": "info",
     "source": "founder",
