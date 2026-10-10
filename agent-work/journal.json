@@ -1,381 +1,5 @@
 [
   {
-    "id": "mv2rdihh-4tr-f4bd",
-    "ts": 1791658774997,
-    "type": "founder.workspace_updated",
-    "severity": "info",
-    "source": "founder",
-    "title": "Evidence, decision and validation experiment saved",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rdihz-4ts-431a",
-    "ts": 1791658775015,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2rdii3-4tt-d646",
-    "ts": 1791658775019,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2rest8-4tu-4c7c",
-    "ts": 1791658835036,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2restd-4tv-9103",
-    "ts": 1791658835041,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2rfj9v-4tw-09d7",
-    "ts": 1791658869331,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Product must expose the input, run button and output"
-  },
-  {
-    "id": "mv2rfjag-4tx-7953",
-    "ts": 1791658869352,
-    "type": "founder.completed",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle complete: evidence and decisions are available for review",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rjgnp-4ty-340c",
-    "ts": 1791659052565,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 31: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rjhnx-4tz-2de0",
-    "ts": 1791659053869,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "Freelance illustrators struggle with accurately estimating project timelines for complex commissions, leading to under- or over-promising. Existing generic project management tools do not specifically address the unique variables and iterative nature of illustration projects. A specialized, interactive calculator is hypothesized to solve this problem.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rjhnx-4u0-b688",
-    "ts": 1791659053869,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase daily time budget reached",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rnff3-4u1-9dcb",
-    "ts": 1791659237583,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 32: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rngl9-4u2-42c9",
-    "ts": 1791659239101,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The previous product, 'ScopeGuard', addressed scope creep for graphic designers. The lessons highlight a recurring need for specialized estimation tools within the freelance creative space, specifically for illustrators dealing with complex commissions and timeline uncertainties. This hypothesis focuses on the timeline estimation problem for illustrators, a distinct but related niche to the previous work, addressing the 'unvalidated demand' noted in the lessons. The queries aim to uncover firsthand complaints about estimation difficulties, existing paid solutions, and desired features.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rngl9-4u3-86b5",
-    "ts": 1791659239101,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase daily time budget reached",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rre6e-4u4-5352",
-    "ts": 1791659422598,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 33: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rrfrs-4u5-c515",
-    "ts": 1791659424664,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The previous research on a similar calculator for illustrators indicates a persistent need for better timeline estimation tools within the freelance creative space. While the previous attempts focused on a general calculator, this hypothesis narrows the focus to 'complex commissions' and explicitly mentions the contributing factors like client feedback and revision rounds, which are common pain points. The previous lessons highlight unvalidated demand and the need for user interviews and paid pilots. This hypothesis aims to address that by focusing on a more specific problem within the broader illustration niche, building on the prior research's direction.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rrfrt-4u6-ee21",
-    "ts": 1791659424665,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase daily time budget reached",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rvcxl-4u7-01d4",
-    "ts": 1791659607609,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 34: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rvein-4u8-e954",
-    "ts": 1791659609663,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The previous cycle's lessons consistently highlight a significant, unvalidated need among freelance illustrators for better timeline estimation tools, especially for complex commissions. Existing solutions are too generic. This hypothesis focuses on the core problem of inaccurate estimation due to revision complexity, a specific pain point for this audience. The queries aim to uncover firsthand complaints, existing paid alternatives, and desired features.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rvein-4u9-5414",
-    "ts": 1791659609663,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase daily time budget reached",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sjbqd-4ua-8915",
-    "ts": 1791660725797,
-    "type": "system.shutdown",
-    "severity": "warn",
-    "source": "system",
-    "title": "Shutting down (SIGTERM)"
-  },
-  {
-    "id": "mv2sjbqh-4ub-4dcf",
-    "ts": 1791660725801,
-    "type": "founder.paused",
-    "severity": "info",
-    "source": "founder",
-    "title": "Operator paused research and development; no new paid work will start",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sje84-4mo-919b",
-    "ts": 1791660729028,
-    "type": "economy.boot",
-    "severity": "info",
-    "source": "economy",
-    "title": "Treasury online: $1000.04 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
-    "data": {
-      "treasury": 1000.0440055371287,
-      "source": "DEMO"
-    }
-  },
-  {
-    "id": "mv2sje8o-4mp-d12e",
-    "ts": 1791660729048,
-    "type": "system.boot",
-    "severity": "success",
-    "source": "system",
-    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
-    "data": {
-      "pid": 660767,
-      "node": "v24.21.0"
-    }
-  },
-  {
-    "id": "mv2sjxoe-4mq-58c4",
-    "ts": 1791660754238,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 35: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sjz0m-4mr-f4ab",
-    "ts": 1791660755974,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The previous cycle focused on a similar problem for freelance illustrators but did not result in a completed product. The lessons indicate a persistent, unvalidated demand for a tool that helps freelance illustrators estimate project timelines for complex commissions. This hypothesis refines the problem by focusing on the *accuracy* of estimates and the *variability* inherent in creative work, which generic tools fail to address. The target audience is specific, and the proposed solution is a focused calculator, aligning with the need for a prototype to validate demand.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sjzre-4ms-ff20",
-    "ts": 1791660756938,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Self-hosted Chromium connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sjzrf-4mt-7ddc",
-    "ts": 1791660756939,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator timeline estimation tool",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sjzti-4mu-c49d",
-    "ts": 1791660757014,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2sk2re-4mv-a028",
-    "ts": 1791660760826,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: freelance illustrator timeline estimation tool",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skg70-4mw-3652",
-    "ts": 1791660778236,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "Insufficient readable evidence",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skg71-4mx-2fbd",
-    "ts": 1791660778237,
-    "type": "founder.search_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Search returned no usable links; trying an alternate search provider",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skg7n-4my-8092",
-    "ts": 1791660778259,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening html.duckduckgo.com",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skhlm-4mz-a142",
-    "ts": 1791660780058,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skhlo-4n0-0504",
-    "ts": 1791660780060,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: DuckDuckGo",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2skho0-4n1-e6ca",
-    "ts": 1791660780144,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://html.duckduckgo.com/html/?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2ski01-4n2-d1d5",
     "ts": 1791660780577,
     "type": "founder.research_question",
@@ -2856,6 +2480,395 @@
     "title": "Clicking a source link on www.bing.com",
     "evidence": {
       "url": "https://www.mytulify.com/freelancer-tools/project-estimator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tm1cc-4t1-7bfc",
+    "ts": 1791662531916,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.waitForNavigation: Timeout 18000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================",
+    "evidence": {
+      "url": "https://www.mytulify.com/freelancer-tools/project-estimator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tm1cf-4t2-797a",
+    "ts": 1791662531919,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration commissions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tm1ch-4t3-47f3",
+    "ts": 1791662531921,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tm4wb-4t4-fdea",
+    "ts": 1791662536523,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: how to estimate time for complex illustration commissions",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tme8h-4t5-a78f",
+    "ts": 1791662548625,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Insufficient readable evidence",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tme8l-4t6-ecc3",
+    "ts": 1791662548629,
+    "type": "founder.search_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Search returned no usable links; trying an alternate search provider",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tme8p-4t7-4b39",
+    "ts": 1791662548633,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening html.duckduckgo.com",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmfq9-4t8-4fb4",
+    "ts": 1791662550561,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmfqc-4t9-2538",
+    "ts": 1791662550564,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: DuckDuckGo",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmfsi-4ta-543a",
+    "ts": 1791662550642,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://html.duckduckgo.com/html/?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmg4o-4tb-d90e",
+    "ts": 1791662551080,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening 5solo.com",
+    "evidence": {
+      "url": "https://5solo.com/en/tools/freelance-estimate-generator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmjhc-4tc-da36",
+    "ts": 1791662555424,
+    "type": "founder.captcha",
+    "severity": "info",
+    "source": "founder",
+    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
+    "evidence": {
+      "url": "https://5solo.com/en/tools/freelance-estimate-generator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmjhc-4td-11ed",
+    "ts": 1791662555424,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Human verification was not resolved; moving to another source",
+    "evidence": {
+      "url": "https://5solo.com/en/tools/freelance-estimate-generator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmjhe-4te-069f",
+    "ts": 1791662555426,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "best project management software for illustrators",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tmjhg-4tf-5810",
+    "ts": 1791662555428,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20project%20management%20software%20for%20illustrators",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnb3h-4tg-0b4a",
+    "ts": 1791662591213,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Insufficient readable evidence",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=best%20project%20management%20software%20for%20illustrators",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnb3n-4th-4ab2",
+    "ts": 1791662591219,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening evvytools.com",
+    "evidence": {
+      "url": "https://evvytools.com/tools/freelance-business/project-estimator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnf1y-4ti-f1b0",
+    "ts": 1791662596342,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://evvytools.com/tools/freelance-business/project-estimator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnf21-4tj-33bf",
+    "ts": 1791662596345,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Project Estimator - Calculate Cost, Timeline, and Delivery Date | EvvyTools",
+    "evidence": {
+      "url": "https://evvytools.com/tools/freelance-business/project-estimator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnf4n-4tk-9703",
+    "ts": 1791662596439,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://evvytools.com/tools/freelance-business/project-estimator/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnfhv-4tl-5846",
+    "ts": 1791662596915,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustration pricing calculator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tnfhy-4tm-d090",
+    "ts": 1791662596918,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustration%20pricing%20calculator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2to8th-4tn-4168",
+    "ts": 1791662634917,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Insufficient readable evidence",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustration%20pricing%20calculator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2to8tr-4to-a40c",
+    "ts": 1791662634927,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening freelancertoolskit.com",
+    "evidence": {
+      "url": "https://freelancertoolskit.com/tools/quote-estimator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2toc2p-4tp-6200",
+    "ts": 1791662639137,
+    "type": "founder.captcha",
+    "severity": "info",
+    "source": "founder",
+    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
+    "evidence": {
+      "url": "https://freelancertoolskit.com/tools/quote-estimator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2toc2q-4tq-5cf1",
+    "ts": 1791662639138,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "Human verification was not resolved; moving to another source",
+    "evidence": {
+      "url": "https://freelancertoolskit.com/tools/quote-estimator",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tomuf-4tr-a934",
+    "ts": 1791662653095,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The problem is validated by the existence of multiple general freelance estimation tools and explicit mentions of estimation challenges like the 'planning fallacy' in competitor analysis. The proposed solution addresses a specific niche (freelance illustrators) with a specialized tool, differentiating it from generic offerings. The freemium model provides a low-risk entry point for validation. The score reflects medium confidence due to the lack of direct evidence on the unique estimation challenges of illustrators specifically, and the unvalidated demand.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tomuj-4ts-555c",
+    "ts": 1791662653099,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tomuw-4tt-675a",
+    "ts": 1791662653112,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2tomv4-4tu-38eb",
+    "ts": 1791662653120,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2tptgs-4tv-475a",
+    "ts": 1791662708332,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2tq4z5-4tw-2cf4",
+    "ts": 1791662723249,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2tr7ki-4tx-66ae",
+    "ts": 1791662773266,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2triz7-4ty-ea4e",
+    "ts": 1791662788051,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2trj13-4tz-d790",
+    "ts": 1791662788119,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
       "file": "workspace/research/report.json"
     }
   }
