@@ -1,255 +1,5 @@
 [
   {
-    "id": "mv2oeteh-4mx-8cc0",
-    "ts": 1791653796953,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: subscription expense auditing for freelancers complaints pain points - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oeu3g-4my-e8ba",
-    "ts": 1791653797852,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oevdm-4mz-9adf",
-    "ts": 1791653799514,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening lemsubs.com",
-    "evidence": {
-      "url": "https://lemsubs.com/audit/freelancer",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oeyj8-4n0-b746",
-    "ts": 1791653803604,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://lemsubs.com/audit/freelancer",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oeyj9-4n1-4697",
-    "ts": 1791653803605,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Freelancer Subscription Audit — Free Checklist (2026)",
-    "evidence": {
-      "url": "https://lemsubs.com/audit/freelancer",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2oez7r-4n2-fe1a",
-    "ts": 1791653804488,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://lemsubs.com/audit/freelancer",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of0gk-4n3-5ee3",
-    "ts": 1791653806100,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "subscription expense auditing for freelancers software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of0gl-4n4-f5b4",
-    "ts": 1791653806101,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of3hg-4n5-e7b3",
-    "ts": 1791653810020,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of3hh-4n6-e298",
-    "ts": 1791653810021,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: subscription expense auditing for freelancers software pricing alternatives - Se",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of465-4n7-2461",
-    "ts": 1791653810909,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2of6cc-4n8-d41b",
-    "ts": 1791653813724,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening damongo.com",
-    "evidence": {
-      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofash-4n9-1711",
-    "ts": 1791653819489,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofasi-4na-8365",
-    "ts": 1791653819490,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: The SaaS Subscription Audit Every Freelancer Needs: Cut Costs and Boost Profits ",
-    "evidence": {
-      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofbi1-4nb-cb58",
-    "ts": 1791653820409,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://damongo.com/the-saas-subscription-audit-every-freelancer-needs-cut-costs-and-boost-profits-in-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofdch-4nc-003a",
-    "ts": 1791653822801,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "subscription expense auditing for freelancers reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofdci-4nd-0dc4",
-    "ts": 1791653822802,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofggq-4ne-55f2",
-    "ts": 1791653826842,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofggr-4nf-e2fa",
-    "ts": 1791653826843,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: subscription expense auditing for freelancers reviews missing features - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofh5a-4ng-16a2",
-    "ts": 1791653827726,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=subscription%20expense%20auditing%20for%20freelancers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ofiey-4nh-131e",
-    "ts": 1791653829370,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening costloop.app",
-    "evidence": {
-      "url": "https://costloop.app/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2ofldg-4ni-5d05",
     "ts": 1791653833204,
     "type": "founder.read",
@@ -2887,6 +2637,247 @@
     "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
     "data": {
       "pid": 650736,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2p8g6s-4mq-fef7",
+    "ts": 1791655179509,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 20: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p8hem-4mr-60c6",
+    "ts": 1791655181086,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "The previous research indicates a recurring problem for freelance illustrators in accurately estimating timelines for complex projects. Existing solutions are either too general or not specifically designed for the nuances of illustration work. A focused calculator that considers project-specific parameters could address this gap. The proposed prototype is a logical next step to validate the core functionality and gather user feedback.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p8j47-4ms-0bbb",
+    "ts": 1791655183303,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p8j47-4mt-9b69",
+    "ts": 1791655183303,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "freelance illustrator timeline estimation problems",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p8j4j-4mu-0dd3",
+    "ts": 1791655183315,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p8q8r-4mv-e526",
+    "ts": 1791655192539,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: freelance illustrator timeline estimation problems",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20problems",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9bed-4mw-cff1",
+    "ts": 1791655219957,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+problems&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+problems&sc=12-50&qs=n&sk=&cvid=D0C67D267586454581DA3DC5D6958D0D",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9bee-4mx-61f4",
+    "ts": 1791655219958,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: freelance illustrator timeline estimation problems - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+problems&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+problems&sc=12-50&qs=n&sk=&cvid=D0C67D267586454581DA3DC5D6958D0D",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9bzl-4my-7e21",
+    "ts": 1791655220721,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+problems&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+problems&sc=12-50&qs=n&sk=&cvid=D0C67D267586454581DA3DC5D6958D0D",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9co2-4mz-20a9",
+    "ts": 1791655221602,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.nofeefreelance.com",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9h5u-4n0-25f2",
+    "ts": 1791655227426,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9h5v-4n1-a439",
+    "ts": 1791655227427,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Set Realistic Timelines When Hiring Freelancers",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9hr9-4n2-6c62",
+    "ts": 1791655228197,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.nofeefreelance.com/blog/set-realistic-timelines-when-hiring-freelancers",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9ida-4n3-642d",
+    "ts": 1791655228990,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "how to estimate time for complex illustration commissions",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9idb-4n4-4c9c",
+    "ts": 1791655228991,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p9oq7-4n5-baad",
+    "ts": 1791655237231,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: how to estimate time for complex illustration commissions",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=how%20to%20estimate%20time%20for%20complex%20illustration%20commissions",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pa17w-4n6-4304",
+    "ts": 1791655253420,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2pa1dr-4n7-78ea",
+    "ts": 1791655253631,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pa1dv-4n8-9707",
+    "ts": 1791655253635,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2pa3nc-4mo-5900",
+    "ts": 1791655256569,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.20 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.1959989469827,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2pa3nu-4mp-38e7",
+    "ts": 1791655256586,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 651394,
       "node": "v24.21.0"
     }
   }
