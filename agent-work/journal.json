@@ -1,116 +1,5 @@
 [
   {
-    "id": "mv2pdzsc-4nq-807b",
-    "ts": 1791655438188,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2peeoi-4nr-0d8a",
-    "ts": 1791655457490,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Generation was incomplete; retrying once with a smaller implementation"
-  },
-  {
-    "id": "mv2peeol-4ns-bd02",
-    "ts": 1791655457493,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2peu8b-4nt-7415",
-    "ts": 1791655477643,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Product must expose the input, run button and output"
-  },
-  {
-    "id": "mv2peu8j-4nu-2c45",
-    "ts": 1791655477651,
-    "type": "founder.completed",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle complete: evidence and decisions are available for review",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2pis6h-4nv-97ca",
-    "ts": 1791655661609,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 22: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2pit8t-4nw-ceac",
-    "ts": 1791655662989,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "The evidence suggests a market need for tools that assist freelancers with project estimation. While general project management software and basic calculators exist, there is an opportunity for a specialized tool tailored to the unique workflow of freelance illustrators, particularly for complex commissions. The demand is unvalidated, but the existence of related tools and search interest indicates potential. A prototype is the appropriate next step to validate this demand directly.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2piv4v-4nx-3e2c",
-    "ts": 1791655665439,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2piv4w-4ny-e8d2",
-    "ts": 1791655665440,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator timeline estimation tool",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2piv4x-4nz-bc8e",
-    "ts": 1791655665441,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2pj2i7-4o0-1205",
-    "ts": 1791655674991,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: freelance illustrator timeline estimation tool",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2pjnab-4o1-7257",
     "ts": 1791655701923,
     "type": "founder.read",
@@ -2815,6 +2704,109 @@
     "title": "Inspecting the next section",
     "evidence": {
       "url": "https://glancers.co/en/blog/how-to-present-a-realistic-timeline-in-your-freelance-proposal",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qvbk9-4rf-c40c",
+    "ts": 1791657926217,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence suggests a clear need for better timeline estimation among freelance illustrators, who often juggle multiple complex projects. Current methods are prone to inaccuracies, leading to negative business outcomes. While general tools exist, they lack the specialization required for illustration projects. A targeted, interactive calculator could fill this gap, offering a valuable solution. The demand is unvalidated, and the market is not saturated with direct competitors, making a prototype a logical next step to test the hypothesis.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qvbke-4rg-ba6b",
+    "ts": 1791657926222,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2qvbkw-4rh-aa99",
+    "ts": 1791657926240,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2qvbkz-4ri-0879",
+    "ts": 1791657926243,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2qwfov-4rj-a8c5",
+    "ts": 1791657978223,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2qwm9q-4rk-0616",
+    "ts": 1791657986750,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2qxhi3-4rl-ef6e",
+    "ts": 1791658027227,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2qxo35-4rm-4fc5",
+    "ts": 1791658035761,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2qxo5k-4rn-6486",
+    "ts": 1791658035848,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2r1kaf-4ro-7a9c",
+    "ts": 1791658217463,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 29: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2r1la0-4rp-9f45",
+    "ts": 1791658218744,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "Freelance illustrators face significant challenges in accurately estimating project timelines for complex commissions, often leading to under-promising and over-delivering. Existing general-purpose tools do not adequately address the specific nuances of illustration workflows, such as detailed phase breakdowns and revision rounds. A specialized, interactive calculator could fill this gap, offering a valuable solution to improve client satisfaction and profitability. Demand is unvalidated, and the market is not saturated with direct competitors, making a prototype a logical next step to test the hypothesis.",
+    "evidence": {
       "file": "workspace/research/report.json"
     }
   }
