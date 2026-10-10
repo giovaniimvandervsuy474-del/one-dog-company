@@ -1,202 +1,5 @@
 [
   {
-    "id": "mv2r40hr-4si-551e",
-    "ts": 1791658331775,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.ziprecruiter.com/e/freelance-graphic-designer-illustrator-how-do-freelance-graphic-designer-illustrators-typically-manage-client-communication-and-project-timelines",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2r4alj-4sj-bb8e",
-    "ts": 1791658344871,
-    "type": "founder.decision",
-    "severity": "info",
-    "source": "founder",
-    "title": "prototype: The evidence strongly suggests a significant pain point for freelance illustrators regarding timeline estimation, a critical factor for their business success. The lack of specialized tools in this area presents a clear market opportunity. While demand is unvalidated, the problem is well-articulated, and the potential for a niche solution is high. A prototype is the appropriate next step to test the core hypothesis.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2r4alp-4sk-e8d0",
-    "ts": 1791658344877,
-    "type": "founder.workspace_updated",
-    "severity": "info",
-    "source": "founder",
-    "title": "Evidence, decision and validation experiment saved",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2r4am4-4sl-6ec5",
-    "ts": 1791658344892,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Designing a complete multi-screen MVP from the research evidence"
-  },
-  {
-    "id": "mv2r4ame-4sm-dee3",
-    "ts": 1791658344902,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Writing the prototype source"
-  },
-  {
-    "id": "mv2r52ar-4sn-3e5e",
-    "ts": 1791658380771,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
-  },
-  {
-    "id": "mv2r58lv-4so-d1a2",
-    "ts": 1791658388947,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Repairing the prototype using failed browser checks"
-  },
-  {
-    "id": "mv2r5x4z-4sp-a5c1",
-    "ts": 1791658420739,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
-  },
-  {
-    "id": "mv2r638u-4sq-c2be",
-    "ts": 1791658428654,
-    "type": "founder.development",
-    "severity": "info",
-    "source": "founder",
-    "title": "Prototype failed checks after one repair; previous working version was retained"
-  },
-  {
-    "id": "mv2r639e-4sr-0fa6",
-    "ts": 1791658428674,
-    "type": "founder.completed",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle complete: evidence and decisions are available for review",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ra135-4ss-3356",
-    "ts": 1791658612481,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 30: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ra24t-4st-bcce",
-    "ts": 1791658613837,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "Freelance illustrators struggle with accurately estimating project timelines for complex commissions, leading to under-bidding and missed deadlines. Existing general-purpose tools are not tailored to the unique, iterative nature of illustration work. This product aims to fill that gap with a specialized calculator.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ra3vb-4su-3008",
-    "ts": 1791658616087,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ra3vc-4sv-53e9",
-    "ts": 1791658616088,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "freelance illustrator timeline estimation tool complaints",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ra3vd-4sw-2486",
-    "ts": 1791658616089,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2raakr-4sx-1f49",
-    "ts": 1791658624779,
-    "type": "founder.typing",
-    "severity": "info",
-    "source": "founder",
-    "title": "Typing search: freelance illustrator timeline estimation tool complaints",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance%20illustrator%20timeline%20estimation%20tool%20complaints",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rax0y-4sy-6875",
-    "ts": 1791658653874,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=598745011FD34353A2225DD64F667C55",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2rax10-4sz-cb4d",
-    "ts": 1791658653876,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: freelance illustrator timeline estimation tool complaints - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=598745011FD34353A2225DD64F667C55",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2raxlb-4t0-5081",
-    "ts": 1791658654607,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=freelance+illustrator+timeline+estimation+tool+complaints&form=QBLH&sp=-1&ghc=1&lq=0&pq=freelance+illustrator+timeline+estimation+tool+complaints&sc=7-57&qs=n&sk=&cvid=598745011FD34353A2225DD64F667C55",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2ray75-4t1-12fb",
     "ts": 1791658655393,
     "type": "founder.navigate",
@@ -2851,5 +2654,211 @@
     "severity": "info",
     "source": "founder",
     "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2t9dkt-4rs-67b1",
+    "ts": 1791661941245,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2t9lfw-4rt-431a",
+    "ts": 1791661951436,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2tanyu-4ru-4a99",
+    "ts": 1791662001366,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2tarel-4rv-acf2",
+    "ts": 1791662005821,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2tarf7-4rw-734a",
+    "ts": 1791662005843,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tepml-4rx-8e1b",
+    "ts": 1791662190141,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 39: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ter2p-4ry-8464",
+    "ts": 1791662192017,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "Existing tools for animation project management are often too general and do not account for the highly specialized and variable nature of character rigging. Freelance animators face unique challenges in estimating rigging time due to factors like character complexity, desired control sophistication, and the need for iterative adjustments. This leads to under-pricing and missed deadlines. This hypothesis focuses on a specific, high-value task within animation production where estimation is particularly difficult.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2terow-4rz-5807",
+    "ts": 1791662192816,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Self-hosted Chromium connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2teroy-4s0-98fc",
+    "ts": 1791662192818,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "\"rigging time estimation\" \"3d animation\" \"freelancer complaints\"",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2teroy-4s1-ca0d",
+    "ts": 1791662192819,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22rigging%20time%20estimation%22%20%223d%20animation%22%20%22freelancer%20complaints%22",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2teu3b-4s2-b35f",
+    "ts": 1791662195927,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: \"rigging time estimation\" \"3d animation\" \"freelancer complaints\"",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22rigging%20time%20estimation%22%20%223d%20animation%22%20%22freelancer%20complaints%22",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tf4kr-4s3-cdf1",
+    "ts": 1791662209515,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&form=QBLH&sp=-1&ghc=1&lq=0&pq=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&sc=7-64&qs=n&sk=&cvid=BFDA0E71F12B49B6B29C74C8ED5DAC08",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tf4kt-4s4-1fae",
+    "ts": 1791662209517,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: \"rigging time estimation\" \"3d animation\" \"freelancer complaints\" - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&form=QBLH&sp=-1&ghc=1&lq=0&pq=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&sc=7-64&qs=n&sk=&cvid=BFDA0E71F12B49B6B29C74C8ED5DAC08",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tf4ld-4s5-47e0",
+    "ts": 1791662209537,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&form=QBLH&sp=-1&ghc=1&lq=0&pq=%22rigging+time+estimation%22+%223d+animation%22+%22freelancer+complaints%22&sc=7-64&qs=n&sk=&cvid=BFDA0E71F12B49B6B29C74C8ED5DAC08",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tf534-4s6-f8bc",
+    "ts": 1791662210176,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening resources.rework.com",
+    "evidence": {
+      "url": "https://resources.rework.com/libraries/job-description-templates/3d-artist",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tf5k3-4s7-447f",
+    "ts": 1791662210788,
+    "type": "founder.click",
+    "severity": "info",
+    "source": "founder",
+    "title": "Clicking a source link on www.bing.com",
+    "evidence": {
+      "url": "https://resources.rework.com/libraries/job-description-templates/3d-artist",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tfjjm-4s8-8969",
+    "ts": 1791662228914,
+    "type": "founder.source_skipped",
+    "severity": "info",
+    "source": "founder",
+    "title": "page.waitForNavigation: Timeout 18000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation until \"domcontentloaded\"\n============================================================",
+    "evidence": {
+      "url": "https://resources.rework.com/libraries/job-description-templates/3d-artist",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tfjjo-4s9-32cc",
+    "ts": 1791662228916,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "\"character rigging software\" \"time tracking\"",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2tfjjr-4sa-3d5e",
+    "ts": 1791662228919,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=%22character%20rigging%20software%22%20%22time%20tracking%22",
+      "file": "workspace/research/report.json"
+    }
   }
 ]
