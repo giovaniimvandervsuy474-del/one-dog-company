@@ -1,196 +1,5 @@
 [
   {
-    "id": "mv2npsnl-4n5-acd0",
-    "ts": 1791652629585,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npsnn-4n6-f82d",
-    "ts": 1791652629587,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: invoice follow-up for freelance designers software pricing alternatives - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npurj-4n7-6998",
-    "ts": 1791652632319,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npwb1-4n8-9ee7",
-    "ts": 1791652634317,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening jupiterinvoice.com",
-    "evidence": {
-      "url": "https://jupiterinvoice.com/blog/freelancer-late-invoice-follow-up-sequence/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npzvp-4n9-67ac",
-    "ts": 1791652638949,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://jupiterinvoice.com/blog/freelancer-late-invoice-follow-up-sequence/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2npzvr-4na-d17c",
-    "ts": 1791652638951,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: The Calm Follow-Up Sequence for a Late Freelance Invoice",
-    "evidence": {
-      "url": "https://jupiterinvoice.com/blog/freelancer-late-invoice-follow-up-sequence/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq0tg-4nb-0d9d",
-    "ts": 1791652640164,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://jupiterinvoice.com/blog/freelancer-late-invoice-follow-up-sequence/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq3ft-4nc-f8a2",
-    "ts": 1791652643561,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "invoice follow-up for freelance designers reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq3fu-4nd-b4c5",
-    "ts": 1791652643562,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq78c-4ne-467e",
-    "ts": 1791652648476,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq78e-4nf-2c57",
-    "ts": 1791652648478,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: invoice follow-up for freelance designers reviews missing features - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nq852-4ng-de15",
-    "ts": 1791652649654,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqagt-4nh-0a92",
-    "ts": 1791652652669,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening freelancerecovery.com",
-    "evidence": {
-      "url": "https://freelancerecovery.com/best-follow-up-timeline-for-unpaid-freelance-invoices-us/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqew9-4ni-400c",
-    "ts": 1791652658409,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://freelancerecovery.com/best-follow-up-timeline-for-unpaid-freelance-invoices-us/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqewa-4nj-eb65",
-    "ts": 1791652658410,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: The Exact Follow-Up Timeline for Late Freelance Invoices (That Actually Works) -",
-    "evidence": {
-      "url": "https://freelancerecovery.com/best-follow-up-timeline-for-unpaid-freelance-invoices-us/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nqg66-4nk-36f4",
-    "ts": 1791652660062,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://freelancerecovery.com/best-follow-up-timeline-for-unpaid-freelance-invoices-us/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2nqhmq-4nl-0434",
     "ts": 1791652661954,
     "type": "founder.navigate",
@@ -2910,6 +2719,171 @@
     "title": "Opening costloop.app",
     "evidence": {
       "url": "https://costloop.app/pricing/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogtl7-4o2-dffe",
+    "ts": 1791653890507,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://costloop.app/pricing/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogtl9-4o3-1604",
+    "ts": 1791653890509,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: CostLoop Pricing",
+    "evidence": {
+      "url": "https://costloop.app/pricing/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogu9p-4o4-45f0",
+    "ts": 1791653891390,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://costloop.app/pricing/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogvjy-4o5-6742",
+    "ts": 1791653893054,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening costloop.app",
+    "evidence": {
+      "url": "https://costloop.app/alternatives/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogyfd-4o6-5c86",
+    "ts": 1791653896777,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://costloop.app/alternatives/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogyfe-4o7-bfdf",
+    "ts": 1791653896778,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: SaaS Subscription Tracker Alternatives (2026) | CostLoop",
+    "evidence": {
+      "url": "https://costloop.app/alternatives/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ogz3p-4o8-ab6d",
+    "ts": 1791653897653,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://costloop.app/alternatives/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ohdei-4o9-541d",
+    "ts": 1791653916186,
+    "type": "founder.decision",
+    "severity": "info",
+    "source": "founder",
+    "title": "prototype: The evidence strongly suggests a significant pain point for freelancers related to managing and optimizing software subscriptions, leading to financial waste. Existing solutions are either too generic (spreadsheets, accounting software) or lack specific freelancer-centric features. The market is large and growing, and a dedicated, user-friendly tool with a clear ROI proposition (cost savings and tax optimization) has a strong potential to gain traction. The proposed MVP is a reasonable first step to validate core assumptions before significant investment.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ohdel-4oa-6088",
+    "ts": 1791653916189,
+    "type": "founder.workspace_updated",
+    "severity": "info",
+    "source": "founder",
+    "title": "Evidence, decision and validation experiment saved",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ohdeo-4ob-fd3e",
+    "ts": 1791653916192,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Designing a complete multi-screen MVP from the research evidence"
+  },
+  {
+    "id": "mv2ohdep-4oc-303e",
+    "ts": 1791653916193,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Writing the prototype source"
+  },
+  {
+    "id": "mv2ohqxh-4od-6cd2",
+    "ts": 1791653933717,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2ohwzf-4oe-3bec",
+    "ts": 1791653941563,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Repairing the prototype using failed browser checks"
+  },
+  {
+    "id": "mv2oi9a9-4of-4477",
+    "ts": 1791653957506,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Running real browser checks: inputs, output, JavaScript and mobile layout"
+  },
+  {
+    "id": "mv2oifkr-4og-2ea6",
+    "ts": 1791653965659,
+    "type": "founder.development",
+    "severity": "info",
+    "source": "founder",
+    "title": "Prototype failed checks after one repair; previous working version was retained"
+  },
+  {
+    "id": "mv2oifkv-4oh-0e0c",
+    "ts": 1791653965663,
+    "type": "founder.completed",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle complete: evidence and decisions are available for review",
+    "evidence": {
       "file": "workspace/research/report.json"
     }
   }
