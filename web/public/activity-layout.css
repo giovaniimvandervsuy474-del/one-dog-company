@@ -24,3 +24,10 @@
 .home .home-r .chat-b:not(:has(.msg:not(.ai))) { display: none; }
 .home .home-r > .panel:first-child { grid-template-rows: auto minmax(45px, 1fr) auto; }
 .home .home-r .chat { max-height: 180px; }
+
+/* Keep the action stream aligned with the browser, with its own scrolling area. */
+.founder .f-browser-detail{align-items:stretch}
+.founder .f-browser-detail>.f-feed{height:auto;max-height:none;min-height:0;position:relative;overflow:auto;contain:size}
+.founder .f-browser-detail>.f-feed>.f-panel-title{position:sticky;top:0;z-index:2}
+.founder .f-bottom>.f-feed{height:auto!important;max-height:none;min-height:0;contain:size;overflow:auto}
+@media(max-width:850px){.founder .f-browser-detail>.f-feed,.founder .f-bottom>.f-feed{contain:none;height:450px!important;max-height:450px}}
