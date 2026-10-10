@@ -1,1346 +1,5 @@
 [
   {
-    "id": "mv2nsv3v-4ng-1600",
-    "ts": 1791652772731,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: customer review analysis for independent shops reviews missing features - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsvtq-4nh-e9f7",
-    "ts": 1791652773662,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=customer%20review%20analysis%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nsxoo-4ni-475b",
-    "ts": 1791652776072,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening businessmarketingworld.com",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/management/address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt1es-4nj-ca35",
-    "ts": 1791652780900,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/management/address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt1et-4nk-f9ec",
-    "ts": 1791652780901,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: How to Use Customer Reviews to Identify and Address Pain Points – Business & Mar",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/management/address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt2a5-4nl-2ffa",
-    "ts": 1791652782029,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://businessmarketingworld.com/management/address-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt4kk-4nm-3a24",
-    "ts": 1791652784996,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening bigideasdb.com",
-    "evidence": {
-      "url": "https://bigideasdb.com/best-tools-to-find-customer-pain-points-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt87c-4nn-4554",
-    "ts": 1791652789704,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://bigideasdb.com/best-tools-to-find-customer-pain-points-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt87d-4no-aa8b",
-    "ts": 1791652789705,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Best Tools to Find Customer Pain Points (2026): 8 Ranked",
-    "evidence": {
-      "url": "https://bigideasdb.com/best-tools-to-find-customer-pain-points-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nt92c-4np-dd9f",
-    "ts": 1791652790820,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://bigideasdb.com/best-tools-to-find-customer-pain-points-2026",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntae5-4nq-9609",
-    "ts": 1791652792541,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening pain-radar.com",
-    "evidence": {
-      "url": "https://pain-radar.com/customer-pain-points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntdvq-4nr-a4bb",
-    "ts": 1791652797062,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://pain-radar.com/customer-pain-points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntdvr-4ns-221b",
-    "ts": 1791652797063,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Customer Pain Points — How to Find and Use Them | PainRadar | PainRadar",
-    "evidence": {
-      "url": "https://pain-radar.com/customer-pain-points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntelh-4nt-7cc1",
-    "ts": 1791652797989,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://pain-radar.com/customer-pain-points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntg5j-4nu-41c1",
-    "ts": 1791652800007,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening thecxlead.com",
-    "evidence": {
-      "url": "https://thecxlead.com/tools/best-customer-review-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nthj6-4nv-dd14",
-    "ts": 1791652801794,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase is processing a CAPTCHA",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntjol-4nw-9491",
-    "ts": 1791652804581,
-    "type": "founder.captcha",
-    "severity": "info",
-    "source": "founder",
-    "title": "Site requested human verification; waiting up to 25 seconds for Browserbase",
-    "evidence": {
-      "url": "https://thecxlead.com/tools/best-customer-review-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntlan-4nx-ca83",
-    "ts": 1791652806671,
-    "type": "founder.source_skipped",
-    "severity": "info",
-    "source": "founder",
-    "title": "page.title: Execution context was destroyed, most likely because of a navigation",
-    "evidence": {
-      "url": "https://thecxlead.com/tools/best-customer-review-management-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntlcx-4ny-094f",
-    "ts": 1791652806753,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase finished the CAPTCHA attempt",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ntw05-4nz-9df0",
-    "ts": 1791652820549,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxu4r-4o0-ed8e",
-    "ts": 1791653004747,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 9: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxv72-4o1-91d3",
-    "ts": 1791653006126,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxv73-4o2-eafd",
-    "ts": 1791653006127,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxwpb-4o3-9eda",
-    "ts": 1791653008079,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxwpc-4o4-e82a",
-    "ts": 1791653008080,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "meeting action tracking for small remote teams complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxwpc-4o5-0a75",
-    "ts": 1791653008080,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxzn5-4o6-a868",
-    "ts": 1791653011889,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nxzn6-4o7-268a",
-    "ts": 1791653011890,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: meeting action tracking for small remote teams complaints pain points - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny0bj-4o8-b066",
-    "ts": 1791653012767,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny1la-4o9-bab7",
-    "ts": 1791653014414,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.convoe.com",
-    "evidence": {
-      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny4lr-4oa-7622",
-    "ts": 1791653018319,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny4ls-4ob-1063",
-    "ts": 1791653018320,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Track Meeting Action Items: 4 Methods That Actually Work",
-    "evidence": {
-      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny5a1-4oc-c0c4",
-    "ts": 1791653019193,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.convoe.com/blog/how-to-track-meeting-action-items",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny6iq-4od-1f9e",
-    "ts": 1791653020802,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "meeting action tracking for small remote teams software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny6iq-4oe-5977",
-    "ts": 1791653020802,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny9gv-4of-7c8f",
-    "ts": 1791653024623,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2ny9gw-4og-9dd2",
-    "ts": 1791653024624,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: meeting action tracking for small remote teams software pricing alternatives - S",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nya56-4oh-d2dc",
-    "ts": 1791653025498,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nybek-4oi-6c28",
-    "ts": 1791653027132,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening edworking.com",
-    "evidence": {
-      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyeob-4oj-7fff",
-    "ts": 1791653031371,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyeoc-4ok-65e3",
-    "ts": 1791653031372,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Action Item Tracker For Project Meetings",
-    "evidence": {
-      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyfct-4ol-0583",
-    "ts": 1791653032253,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://edworking.com/blog/productivity/action-item-tracker-meeting-decisions",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyh3r-4om-1281",
-    "ts": 1791653034519,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "meeting action tracking for small remote teams reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyh3s-4on-2a93",
-    "ts": 1791653034520,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyk1q-4oo-9495",
-    "ts": 1791653038334,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyk1r-4op-0a3f",
-    "ts": 1791653038335,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: meeting action tracking for small remote teams reviews missing features - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nykq0-4oq-6fe7",
-    "ts": 1791653039208,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=meeting%20action%20tracking%20for%20small%20remote%20teams%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2nyzzf-4or-2df6",
-    "ts": 1791653058987,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2vh1-4os-2b08",
-    "ts": 1791653239765,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 10: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2wga-4ot-4484",
-    "ts": 1791653241034,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      1\n    ],\n    \"message\": \"Invalid URL\"\n  }\n]; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2wgb-4ou-522f",
-    "ts": 1791653241035,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2y1q-4ov-d309",
-    "ts": 1791653243102,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2y1r-4ow-7902",
-    "ts": 1791653243103,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "inventory reorder planning for independent shops complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o2y1r-4ox-2188",
-    "ts": 1791653243103,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o31ce-4oy-eb09",
-    "ts": 1791653247374,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o31cf-4oz-5de7",
-    "ts": 1791653247375,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: inventory reorder planning for independent shops complaints pain points - Search",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o321l-4p0-88d2",
-    "ts": 1791653248281,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o33b3-4p1-eabf",
-    "ts": 1791653249919,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.trustpilot.com",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/inventory-planner.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o37tl-4p2-f3a3",
-    "ts": 1791653255769,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase is processing a CAPTCHA",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o38as-4p3-cbd0",
-    "ts": 1791653256388,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/inventory-planner.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o38at-4p4-2754",
-    "ts": 1791653256389,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Inventory Planner by Sage Reviews | Read Customer Service Reviews of inventory-p",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/inventory-planner.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o390o-4p5-a655",
-    "ts": 1791653257320,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.trustpilot.com/review/inventory-planner.com",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o39z8-4p6-bf78",
-    "ts": 1791653258564,
-    "type": "founder.captcha_progress",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase finished the CAPTCHA attempt",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3arj-4p7-a2e8",
-    "ts": 1791653259583,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "inventory reorder planning for independent shops software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3arj-4p8-7403",
-    "ts": 1791653259583,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3dv1-4p9-38b0",
-    "ts": 1791653263597,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3dv2-4pa-2869",
-    "ts": 1791653263598,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: inventory reorder planning for independent shops software pricing alternatives -",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3ejr-4pb-3a4e",
-    "ts": 1791653264487,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3g54-4pc-c4ea",
-    "ts": 1791653266552,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening blog.gettransport.com",
-    "evidence": {
-      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/#:~:text=This%20article%20identifies%20key%20pain%20points%20in%20retail,steps%20to%20diagnose%20root%20causes%20and%20sharpen%20forecasting.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3j0p-4pd-6a59",
-    "ts": 1791653270281,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3j0q-4pe-a499",
-    "ts": 1791653270282,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Identifying Key Pain Points in Retail Inventory Management | Transportation News",
-    "evidence": {
-      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3joy-4pf-adf5",
-    "ts": 1791653271154,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://blog.gettransport.com/inventory-management-challenges-in-retail-identifying-key-pain-points/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3kyq-4pg-fa74",
-    "ts": 1791653272802,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "inventory reorder planning for independent shops reviews missing features",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3kyq-4ph-1d53",
-    "ts": 1791653272802,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3nxx-4pi-20f9",
-    "ts": 1791653276661,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3nxy-4pj-d81a",
-    "ts": 1791653276662,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: inventory reorder planning for independent shops reviews missing features - Sear",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3omt-4pk-0c18",
-    "ts": 1791653277557,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=inventory%20reorder%20planning%20for%20independent%20shops%20reviews%20missing%20features",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3pwj-4pl-9161",
-    "ts": 1791653279204,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening shelfperks.com",
-    "evidence": {
-      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3t9e-4pm-5195",
-    "ts": 1791653283554,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3t9i-4pn-339d",
-    "ts": 1791653283558,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Why Is Managing Inventory So Hard? 7 Pain Points Every Retailer Faces",
-    "evidence": {
-      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3txq-4po-6141",
-    "ts": 1791653284430,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://shelfperks.com/resources/blogs/inventory-management-challenges-retail",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3v7f-4pp-0b0b",
-    "ts": 1791653286075,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening evolveamz.com",
-    "evidence": {
-      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3zg9-4pq-20eb",
-    "ts": 1791653291577,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o3zga-4pr-373e",
-    "ts": 1791653291578,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: Inventory Reorder Mastery 2026: Safety Stock, Lead Time & the Reorder-Point Form",
-    "evidence": {
-      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o404s-4ps-4131",
-    "ts": 1791653292460,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://evolveamz.com/inventory-reorder-mastery-2026/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o41e0-4pt-d57c",
-    "ts": 1791653294088,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.prediko.io",
-    "evidence": {
-      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o456j-4pu-fa4c",
-    "ts": 1791653299003,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o456l-4pv-fb6a",
-    "ts": 1791653299005,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: 7 Best Inventory Replenishment Tools [2026]",
-    "evidence": {
-      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o45wb-4pw-b32f",
-    "ts": 1791653299931,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.prediko.io/blog/best-inventory-replenishment-software#:~:text=Prediko%20is%20best%20for%20AI-powered%20forecasting%20and%20Shopify-native,best%20for%20manufacturers%20managing%20both%20production%20and%20inventory.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o48c9-4px-3995",
-    "ts": 1791653303097,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.guideflow.com",
-    "evidence": {
-      "url": "https://www.guideflow.com/blog/inventory-replenishment-software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4bjc-4py-6e89",
-    "ts": 1791653307240,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.guideflow.com/blog/inventory-replenishment-software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4bjd-4pz-6322",
-    "ts": 1791653307241,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: 11 best inventory replenishment software for 2026 - Guideflow Blog",
-    "evidence": {
-      "url": "https://www.guideflow.com/blog/inventory-replenishment-software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4c85-4q0-d776",
-    "ts": 1791653308133,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.guideflow.com/blog/inventory-replenishment-software",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4dhs-4q1-5946",
-    "ts": 1791653309776,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening theretailexec.com",
-    "evidence": {
-      "url": "https://theretailexec.com/tools/best-inventory-replenishment-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4gd2-4q2-656d",
-    "ts": 1791653313494,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://theretailexec.com/tools/best-inventory-replenishment-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4gd4-4q3-b72b",
-    "ts": 1791653313496,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: 10 Best Inventory Replenishment Software for 2026 | The Retail Exec",
-    "evidence": {
-      "url": "https://theretailexec.com/tools/best-inventory-replenishment-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4h1t-4q4-5df6",
-    "ts": 1791653314385,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://theretailexec.com/tools/best-inventory-replenishment-software/",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o4w3s-4q5-87d0",
-    "ts": 1791653333896,
-    "type": "founder.error",
-    "severity": "info",
-    "source": "founder",
-    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8rom-4q6-dcc2",
-    "ts": 1791653514790,
-    "type": "founder.started",
-    "severity": "info",
-    "source": "founder",
-    "title": "Cycle 11: choosing a focused hypothesis",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8syi-4q7-936f",
-    "ts": 1791653516442,
-    "type": "founder.planner_fallback",
-    "severity": "info",
-    "source": "founder",
-    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8syj-4q8-3ee9",
-    "ts": 1791653516443,
-    "type": "founder.plan",
-    "severity": "info",
-    "source": "founder",
-    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8ulv-4q9-047e",
-    "ts": 1791653518579,
-    "type": "founder.connected",
-    "severity": "info",
-    "source": "founder",
-    "title": "Browserbase connected; spectator feed is read-only",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8ulv-4qa-7c8e",
-    "ts": 1791653518579,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "support ticket prioritization for small SaaS teams complaints pain points",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8ulv-4qb-06ae",
-    "ts": 1791653518579,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8xve-4qc-5551",
-    "ts": 1791653522810,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8xvf-4qd-de8b",
-    "ts": 1791653522811,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved search evidence: support ticket prioritization for small SaaS teams complaints pain points - Sear",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o8z50-4qe-bff5",
-    "ts": 1791653524452,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20complaints%20pain%20points",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o919b-4qf-a113",
-    "ts": 1791653527199,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening easychatdesk.com",
-    "evidence": {
-      "url": "https://easychatdesk.com/how-to-prioritize-support-tickets/#:~:text=Here%E2%80%99s%20how%20to%20prioritize%20support%20tickets%2C%20with%20examples,people%2C%20how%20much%20money%2C%20how%20core%20the%20function%29.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o94o4-4qg-33f0",
-    "ts": 1791653531620,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://easychatdesk.com/how-to-prioritize-support-tickets/#:~:text=Here%E2%80%99s%20how%20to%20prioritize%20support%20tickets%2C%20with%20examples,people%2C%20how%20much%20money%2C%20how%20core%20the%20function%29.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o94o5-4qh-859a",
-    "ts": 1791653531621,
-    "type": "founder.source",
-    "severity": "info",
-    "source": "founder",
-    "title": "Saved website evidence: How to Prioritize Support Tickets (With Examples)",
-    "evidence": {
-      "url": "https://easychatdesk.com/how-to-prioritize-support-tickets/#:~:text=Here%E2%80%99s%20how%20to%20prioritize%20support%20tickets%2C%20with%20examples,people%2C%20how%20much%20money%2C%20how%20core%20the%20function%29.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o95ew-4qi-9008",
-    "ts": 1791653532584,
-    "type": "founder.scroll",
-    "severity": "info",
-    "source": "founder",
-    "title": "Inspecting the next section",
-    "evidence": {
-      "url": "https://easychatdesk.com/how-to-prioritize-support-tickets/#:~:text=Here%E2%80%99s%20how%20to%20prioritize%20support%20tickets%2C%20with%20examples,people%2C%20how%20much%20money%2C%20how%20core%20the%20function%29.",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o96pp-4qj-9966",
-    "ts": 1791653534269,
-    "type": "founder.research_question",
-    "severity": "info",
-    "source": "founder",
-    "title": "support ticket prioritization for small SaaS teams software pricing alternatives",
-    "evidence": {
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o96pq-4qk-a156",
-    "ts": 1791653534270,
-    "type": "founder.navigate",
-    "severity": "info",
-    "source": "founder",
-    "title": "Opening www.bing.com",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
-    "id": "mv2o99z4-4ql-0a45",
-    "ts": 1791653538496,
-    "type": "founder.read",
-    "severity": "info",
-    "source": "founder",
-    "title": "Extracting visible evidence; page instructions are ignored",
-    "evidence": {
-      "url": "https://www.bing.com/search?q=support%20ticket%20prioritization%20for%20small%20SaaS%20teams%20software%20pricing%20alternatives",
-      "file": "workspace/research/report.json"
-    }
-  },
-  {
     "id": "mv2o99z5-4qm-06a6",
     "ts": 1791653538497,
     "type": "founder.source",
@@ -2890,6 +1549,1327 @@
     "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
     "evidence": {
       "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2os9jz-4ps-234a",
+    "ts": 1791654424415,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 14: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osalr-4pt-740b",
+    "ts": 1791654425775,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osals-4pu-c520",
+    "ts": 1791654425776,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osc5s-4pv-8cd0",
+    "ts": 1791654427792,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osc5t-4pw-0066",
+    "ts": 1791654427793,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "work shift handoff summaries for small hospitality teams complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osc5t-4px-1ca4",
+    "ts": 1791654427793,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osfgo-4py-eab8",
+    "ts": 1791654432072,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osfgp-4pz-1277",
+    "ts": 1791654432073,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams complaints pain points ",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osg7r-4q0-5e4d",
+    "ts": 1791654433047,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oshmc-4q1-a634",
+    "ts": 1791654434868,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.shiftbase.com",
+    "evidence": {
+      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oslje-4q2-aaef",
+    "ts": 1791654439946,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oslje-4q3-b3f0",
+    "ts": 1791654439946,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: End of shift report: what to include for a clean handover",
+    "evidence": {
+      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osmb9-4q4-fe08",
+    "ts": 1791654440949,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.shiftbase.com/blog/end-of-shift-report#:~:text=A%20good%20end-of-shift%20report%20covers%20five%20things%3A%20a,and%20the%20gap%20becomes%20the%20next%20team%27s%20problem.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osnno-4q5-6400",
+    "ts": 1791654442692,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "work shift handoff summaries for small hospitality teams software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osnnp-4q6-c351",
+    "ts": 1791654442693,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osqv1-4q7-bb1c",
+    "ts": 1791654446845,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osqv2-4q8-ce86",
+    "ts": 1791654446846,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams software pricing altern",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osrlx-4q9-c2d6",
+    "ts": 1791654447813,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osszg-4qa-862a",
+    "ts": 1791654449596,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.shiftsummary.io",
+    "evidence": {
+      "url": "https://www.shiftsummary.io/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oswbq-4qb-e934",
+    "ts": 1791654453926,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.shiftsummary.io/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oswbr-4qc-cfdf",
+    "ts": 1791654453927,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: ShiftSummary — Structured Shift Handoffs for Hospitality Teams",
+    "evidence": {
+      "url": "https://www.shiftsummary.io/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osx2q-4qd-085d",
+    "ts": 1791654454898,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.shiftsummary.io/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osz20-4qe-4d6b",
+    "ts": 1791654457464,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "work shift handoff summaries for small hospitality teams reviews missing features",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2osz20-4qf-8df9",
+    "ts": 1791654457464,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot296-4qg-61e7",
+    "ts": 1791654461610,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot297-4qh-67f8",
+    "ts": 1791654461611,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: work shift handoff summaries for small hospitality teams reviews missing feature",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot303-4qi-108a",
+    "ts": 1791654462579,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=work%20shift%20handoff%20summaries%20for%20small%20hospitality%20teams%20reviews%20missing%20features",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot4cd-4qj-88d9",
+    "ts": 1791654464317,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.shiftbase.com",
+    "evidence": {
+      "url": "https://www.shiftbase.com/pricing",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot84h-4qk-b62e",
+    "ts": 1791654469217,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.shiftbase.com/pricing",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot84i-4ql-a6c1",
+    "ts": 1791654469218,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Shiftbase pricing: free for up to 15 employees, 14-day trial",
+    "evidence": {
+      "url": "https://www.shiftbase.com/pricing",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ot8w4-4qm-a6a2",
+    "ts": 1791654470212,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.shiftbase.com/pricing",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otanw-4qn-9558",
+    "ts": 1791654472508,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.trustpilot.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/rippling.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otezb-4qo-778e",
+    "ts": 1791654478103,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/rippling.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otezc-4qp-390b",
+    "ts": 1791654478104,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Rippling Reviews | Read Customer Service Reviews of rippling.com",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/rippling.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otfqm-4qq-e0e4",
+    "ts": 1791654479086,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.trustpilot.com/review/rippling.com",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2othd2-4qr-4718",
+    "ts": 1791654481190,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening worldmetrics.org",
+    "evidence": {
+      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/#:~:text=7shifts%20is%20the%20best%20pick%20for%20restaurants%20that,capture%2C%20and%20labor%20reporting%20in%20one%20documented%20workflow.",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otko0-4qs-5ced",
+    "ts": 1791654485473,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otko2-4qt-da1d",
+    "ts": 1791654485474,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Hospitality Workforce Management Software (2026)",
+    "evidence": {
+      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otlf1-4qu-cf89",
+    "ts": 1791654486445,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://worldmetrics.org/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otmrs-4qv-69e6",
+    "ts": 1791654488200,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening zipdo.co",
+    "evidence": {
+      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otq6m-4qw-f4d9",
+    "ts": 1791654492622,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otq6o-4qx-d6ac",
+    "ts": 1791654492624,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Best Hospitality Workforce Management Software (2026)",
+    "evidence": {
+      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otqxe-4qy-d5c2",
+    "ts": 1791654493586,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://zipdo.co/best/hospitality-workforce-management-software/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ott8c-4qz-5448",
+    "ts": 1791654496572,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.skillsjunky.com",
+    "evidence": {
+      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oty6m-4r0-2f97",
+    "ts": 1791654502990,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oty6n-4r1-9125",
+    "ts": 1791654502991,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Shift Handoff Summary Skill — Skills Junky",
+    "evidence": {
+      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2otyxl-4r2-6508",
+    "ts": 1791654503961,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.skillsjunky.com/products/shift-handoff-summary-skill",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oueb8-4r3-a939",
+    "ts": 1791654523892,
+    "type": "founder.error",
+    "severity": "info",
+    "source": "founder",
+    "title": "[\n  {\n    \"origin\": \"array\",\n    \"code\": \"too_big\",\n    \"maximum\": 10,\n    \"inclusive\": true,\n    \"path\": [\n      \"evidence\"\n    ],\n    \"message\": \"Too big: expected array to have <=10 items\"\n  }\n]",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ovnz7-4r4-55d4",
+    "ts": 1791654583076,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2ovnz8-4r5-f6f9",
+    "ts": 1791654583076,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ovpzl-4mo-11aa",
+    "ts": 1791654585681,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.17 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.1735333311901,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2ovq21-4mp-68e5",
+    "ts": 1791654585769,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 649095,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2ow5hi-4mq-257a",
+    "ts": 1791654605766,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 15: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ow6pb-4mr-ebce",
+    "ts": 1791654607343,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ow6pc-4ms-2b8e",
+    "ts": 1791654607344,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ow8il-4mt-8e23",
+    "ts": 1791654609693,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ow8il-4mu-c7ac",
+    "ts": 1791654609693,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "event registration cleanup for community organizers complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ow8iv-4mv-c433",
+    "ts": 1791654609703,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=event%20registration%20cleanup%20for%20community%20organizers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2owgde-4mw-fc6c",
+    "ts": 1791654619874,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: event registration cleanup for community organizers complaints pain points",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=event%20registration%20cleanup%20for%20community%20organizers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ox1j5-4mx-f796",
+    "ts": 1791654647297,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2ox1oj-4my-5f66",
+    "ts": 1791654647491,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ox1ol-4mz-e164",
+    "ts": 1791654647493,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ox3x3-4mo-0f0d",
+    "ts": 1791654650391,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.18 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.1759475457189,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2ox3zn-4mp-8c92",
+    "ts": 1791654650483,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 649347,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2oxjf0-4mq-db87",
+    "ts": 1791654670476,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 16: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxknf-4mr-aded",
+    "ts": 1791654672075,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxkng-4ms-8543",
+    "ts": 1791654672076,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxmla-4mt-6dcf",
+    "ts": 1791654674590,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxmla-4mu-d7ee",
+    "ts": 1791654674590,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "manual client reporting for small marketing agencies complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxmlk-4mv-8883",
+    "ts": 1791654674600,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oxu52-4mw-85c0",
+    "ts": 1791654684374,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: manual client reporting for small marketing agencies complaints pain points",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oz2u5-4mx-d8b0",
+    "ts": 1791654742301,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oz2u6-4my-67b2",
+    "ts": 1791654742302,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: manual client reporting for small marketing agencies complaints pain points - Se",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oz3jp-4mz-981d",
+    "ts": 1791654743221,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2oz4u5-4n0-0bfa",
+    "ts": 1791654744893,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening plaintrack.io",
+    "evidence": {
+      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozj1x-4n1-1723",
+    "ts": 1791654763317,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozj1z-4n2-ba6f",
+    "ts": 1791654763319,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Client Reporting Checklist for Small Agencies | PlainTrack",
+    "evidence": {
+      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozjr4-4n3-453d",
+    "ts": 1791654764224,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://plaintrack.io/resources/client-reporting-checklist-small-agencies",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozl23-4n4-d14b",
+    "ts": 1791654765915,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "manual client reporting for small marketing agencies software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozl24-4n5-1115",
+    "ts": 1791654765916,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2ozrnu-4n6-266c",
+    "ts": 1791654774474,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: manual client reporting for small marketing agencies software pricing alternatives",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=manual%20client%20reporting%20for%20small%20marketing%20agencies%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p02ly-4n7-7221",
+    "ts": 1791654788662,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2p02rl-4n8-faa2",
+    "ts": 1791654788865,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle stopped by the operator",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p02ro-4n9-5c3f",
+    "ts": 1791654788868,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p04zu-4mo-293e",
+    "ts": 1791654791754,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.18 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.183728289426,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2p050b-4mp-2d1e",
+    "ts": 1791654791771,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 649686,
+      "node": "v24.21.0"
+    }
+  },
+  {
+    "id": "mv2p0kfo-4mq-d2b3",
+    "ts": 1791654811764,
+    "type": "founder.started",
+    "severity": "info",
+    "source": "founder",
+    "title": "Cycle 17: choosing a focused hypothesis",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0lo6-4mr-1c26",
+    "ts": 1791654813366,
+    "type": "founder.planner_fallback",
+    "severity": "info",
+    "source": "founder",
+    "title": "Model planning unavailable: [\n  {\n    \"origin\": \"string\",\n    \"code\": \"too_big\",\n    \"maximum\": 240,\n    \"inclusive\": true,\n    \"path\": [\n      \"task\"\n    ],\n    \"message\": \"Too big: expected string to have <=240 characters\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"path\": [\n      \"targets\",\n      0\n    ],\n    \"message\": \"Invalid URL\"\n  },\n  {\n    \"code\": \"invalid_format\",\n    \"format\": \"url\",\n    \"pat; using the bounded research strategy",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0lo7-4ms-0ac1",
+    "ts": 1791654813367,
+    "type": "founder.plan",
+    "severity": "info",
+    "source": "founder",
+    "title": "A narrow audience and three distinct evidence questions; fallback planning because AI planning is unavailable.",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0ngp-4mt-35ce",
+    "ts": 1791654815689,
+    "type": "founder.connected",
+    "severity": "info",
+    "source": "founder",
+    "title": "Browserbase connected; spectator feed is read-only",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0ngp-4mu-0e02",
+    "ts": 1791654815689,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "invoice follow-up for freelance designers complaints pain points",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0nh1-4mv-e4fb",
+    "ts": 1791654815701,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p0uzu-4mw-6c97",
+    "ts": 1791654825450,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: invoice follow-up for freelance designers complaints pain points",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20complaints%20pain%20points",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p1lvv-4mx-2508",
+    "ts": 1791654860299,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p1lvx-4my-9287",
+    "ts": 1791654860301,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: invoice follow-up for freelance designers complaints pain points - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p1mlo-4mz-9a0c",
+    "ts": 1791654861228,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+complaints+pain+points&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+complaints+pain+points&sc=12-64&qs=n&sk=&cvid=23F69CB2DC62434E903D5C3BD1F69789",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p1ow8-4n0-fecc",
+    "ts": 1791654864200,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.usecollect.co",
+    "evidence": {
+      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p2645-4n1-cc72",
+    "ts": 1791654886517,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p2646-4n2-28dc",
+    "ts": 1791654886518,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Invoice Dispute Resolution for Freelancers: Escalation Guide — Collect | Collect",
+    "evidence": {
+      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p26tt-4n3-5986",
+    "ts": 1791654887441,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.usecollect.co/blog/invoice-dispute-resolution-freelancer-escalation",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p290b-4n4-cc2d",
+    "ts": 1791654890267,
+    "type": "founder.research_question",
+    "severity": "info",
+    "source": "founder",
+    "title": "invoice follow-up for freelance designers software pricing alternatives",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p290b-4n5-f44e",
+    "ts": 1791654890267,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening www.bing.com",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p2g08-4n6-93d2",
+    "ts": 1791654899336,
+    "type": "founder.typing",
+    "severity": "info",
+    "source": "founder",
+    "title": "Typing search: invoice follow-up for freelance designers software pricing alternatives",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice%20follow-up%20for%20freelance%20designers%20software%20pricing%20alternatives",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p38rn-4n7-bb94",
+    "ts": 1791654936611,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p38ro-4n8-8ece",
+    "ts": 1791654936612,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved search evidence: invoice follow-up for freelance designers software pricing alternatives - Search",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p39he-4n9-014b",
+    "ts": 1791654937538,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://www.bing.com/search?q=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&form=QBLH&sp=-1&ghc=1&lq=0&pq=invoice+follow-up+for+freelance+designers+software+pricing+alternatives&sc=12-71&qs=n&sk=&cvid=3BF7C97031574BE1A7D54AE50A0EECAA",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3asm-4na-a51a",
+    "ts": 1791654939238,
+    "type": "founder.navigate",
+    "severity": "info",
+    "source": "founder",
+    "title": "Opening invoiceformly.com",
+    "evidence": {
+      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3sv0-4nb-575b",
+    "ts": 1791654962652,
+    "type": "founder.read",
+    "severity": "info",
+    "source": "founder",
+    "title": "Extracting visible evidence; page instructions are ignored",
+    "evidence": {
+      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3sv2-4nc-bf8e",
+    "ts": 1791654962654,
+    "type": "founder.source",
+    "severity": "info",
+    "source": "founder",
+    "title": "Saved website evidence: Client Not Paying Your Invoice? A Step-by-Step Freelance Recovery Playbook",
+    "evidence": {
+      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3tkq-4nd-65c6",
+    "ts": 1791654963578,
+    "type": "founder.scroll",
+    "severity": "info",
+    "source": "founder",
+    "title": "Inspecting the next section",
+    "evidence": {
+      "url": "https://invoiceformly.com/en/blog/freelance-client-wont-pay/",
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3xm1-4ne-2228",
+    "ts": 1791654968809,
+    "type": "system.shutdown",
+    "severity": "warn",
+    "source": "system",
+    "title": "Shutting down (SIGTERM)"
+  },
+  {
+    "id": "mv2p3xm3-4nf-6624",
+    "ts": 1791654968811,
+    "type": "founder.paused",
+    "severity": "info",
+    "source": "founder",
+    "title": "Operator paused research and development; no new paid work will start",
+    "evidence": {
+      "file": "workspace/research/report.json"
+    }
+  },
+  {
+    "id": "mv2p3zti-4mo-ab9c",
+    "ts": 1791654971670,
+    "type": "economy.boot",
+    "severity": "info",
+    "source": "economy",
+    "title": "Treasury online: $999.19 (DEMO) · DEMO market: simulated price, volume and fees. No real funds.",
+    "data": {
+      "treasury": 999.1880124321111,
+      "source": "DEMO"
+    }
+  },
+  {
+    "id": "mv2p3zvz-4mp-3884",
+    "ts": 1791654971759,
+    "type": "system.boot",
+    "severity": "success",
+    "source": "system",
+    "title": "PUPPER FOUNDER booted · genome v25 · 14 job types · provider heuristic",
+    "data": {
+      "pid": 650130,
+      "node": "v24.21.0"
     }
   }
 ]
